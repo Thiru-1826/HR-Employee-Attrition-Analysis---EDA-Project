@@ -1,0 +1,1472 @@
+﻿Employee ID,Age,Attrition,Business Travel,Department,Distance From Home,Education,Education Field,Environment Satisfaction,Gender,Job Involvement,Job Role,Job Satisfaction,Marital Status, Monthly Income ,Experience,Over Time,WorkLifeBalance,Performance Rating
+1,41,Yes,Travel_Rarely,Sales,1,Intermediate,Life Sciences,2,Female,High,Sales Executive,4,Single," $5,993 ",8,Yes,1,3
+2,49,No,Travel_Frequently,Research & Development,8,SSC,Life Sciences,3,Male,Medium,Research Scientist,2,Married," $5,130 ",1,No,3,4
+4,37,Yes,Travel_Rarely,Research & Development,2,Intermediate,Medical,4,Male,Medium,Laboratory Technician,3,Single," $2,090 ",6,Yes,3,3
+5,33,No,Travel_Frequently,Research & Development,3,Masters,Life Sciences,4,Female,High,Research Scientist,3,Married," $2,909 ",1,Yes,3,3
+7,27,No,Travel_Rarely,Research & Development,2,SSC,Medical,1,Male,High,Laboratory Technician,2,Married," $3,468 ",9,No,3,3
+8,32,No,Travel_Frequently,Research & Development,2,Intermediate,Life Sciences,4,Male,High,Laboratory Technician,4,Single," $3,068 ",0,No,2,3
+10,59,No,Travel_Rarely,Research & Development,3,Graduate,Medical,3,Female,Very High,Laboratory Technician,1,Married," $2,670 ",4,Yes,2,4
+11,30,No,Travel_Rarely,Research & Development,24,SSC,Life Sciences,4,Male,High,Laboratory Technician,3,Divorced," $2,693 ",1,No,3,4
+12,38,No,Travel_Frequently,Research & Development,23,Graduate,Life Sciences,4,Male,Medium,Manufacturing Director,3,Single," $9,526 ",0,No,3,4
+13,36,No,Travel_Rarely,Research & Development,27,Graduate,Medical,3,Male,High,Healthcare Representative,3,Married," $5,237 ",6,No,2,3
+14,35,No,Travel_Rarely,Research & Development,16,Graduate,Medical,1,Male,Very High,Laboratory Technician,2,Married," $2,426 ",0,No,3,3
+15,29,No,Travel_Rarely,Research & Development,15,Intermediate,Life Sciences,4,Female,Medium,Laboratory Technician,3,Single," $4,193 ",0,Yes,3,3
+16,31,No,Travel_Rarely,Research & Development,26,SSC,Life Sciences,1,Male,High,Research Scientist,3,Divorced," $2,911 ",1,No,2,3
+18,34,No,Travel_Rarely,Research & Development,19,Intermediate,Medical,2,Male,High,Laboratory Technician,4,Divorced," $2,661 ",0,No,3,3
+19,28,Yes,Travel_Rarely,Research & Development,24,Graduate,Life Sciences,3,Male,Medium,Laboratory Technician,3,Single," $2,028 ",5,Yes,3,3
+20,29,No,Travel_Rarely,Research & Development,21,Masters,Life Sciences,2,Female,Very High,Manufacturing Director,1,Divorced," $9,980 ",1,No,3,3
+21,32,No,Travel_Rarely,Research & Development,5,Intermediate,Life Sciences,1,Male,Very High,Research Scientist,2,Divorced," $3,298 ",0,Yes,2,3
+22,22,No,Non-Travel,Research & Development,16,Intermediate,Medical,4,Male,Very High,Laboratory Technician,4,Divorced," $2,935 ",1,Yes,2,3
+23,53,No,Travel_Rarely,Sales,2,Masters,Life Sciences,1,Female,Medium,Manager,4,Married," $15,427 ",2,No,3,3
+24,38,No,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,4,Male,High,Research Scientist,4,Single," $3,944 ",5,Yes,3,3
+26,24,No,Non-Travel,Research & Development,11,Intermediate,Medical,1,Female,Very High,Manufacturing Director,3,Divorced," $4,011 ",0,No,2,3
+27,36,Yes,Travel_Rarely,Sales,9,Masters,Life Sciences,3,Male,Medium,Sales Representative,1,Single," $3,407 ",7,No,3,4
+28,34,No,Travel_Rarely,Research & Development,7,Masters,Life Sciences,1,Female,High,Research Director,2,Single," $11,994 ",0,No,3,3
+30,21,No,Travel_Rarely,Research & Development,15,Intermediate,Life Sciences,3,Male,High,Research Scientist,4,Single," $1,232 ",1,No,3,3
+31,34,Yes,Travel_Rarely,Research & Development,6,SSC,Medical,2,Male,High,Research Scientist,1,Single," $2,960 ",2,No,3,3
+32,53,No,Travel_Rarely,Research & Development,5,Graduate,Medical,3,Female,High,Manager,3,Divorced," $19,094 ",4,No,2,3
+33,32,Yes,Travel_Frequently,Research & Development,16,SSC,Life Sciences,2,Female,Low,Research Scientist,1,Single," $3,919 ",1,Yes,3,4
+35,42,No,Travel_Rarely,Sales,8,Masters,Marketing,3,Male,High,Sales Executive,2,Married," $6,825 ",0,No,3,3
+36,44,No,Travel_Rarely,Research & Development,7,Masters,Medical,1,Female,Medium,Healthcare Representative,4,Married," $10,248 ",3,No,3,3
+38,46,No,Travel_Rarely,Sales,2,Masters,Marketing,2,Female,High,Manager,1,Single," $18,947 ",3,No,2,3
+39,33,No,Travel_Rarely,Research & Development,2,Graduate,Medical,3,Male,High,Laboratory Technician,4,Single," $2,496 ",4,No,3,3
+40,44,No,Travel_Rarely,Research & Development,10,Masters,Medical,4,Male,High,Healthcare Representative,4,Married," $6,465 ",2,Yes,4,3
+41,30,No,Travel_Rarely,Research & Development,9,Intermediate,Medical,4,Male,Medium,Laboratory Technician,3,Single," $2,206 ",1,No,3,3
+42,39,Yes,Travel_Rarely,Sales,5,Graduate,Technical Degree,4,Male,High,Sales Representative,4,Married," $2,086 ",3,No,4,3
+45,24,Yes,Travel_Rarely,Research & Development,1,Graduate,Medical,2,Male,High,Research Scientist,4,Married," $2,293 ",2,Yes,2,3
+46,43,No,Travel_Rarely,Research & Development,2,Intermediate,Medical,4,Female,Very High,Research Scientist,3,Divorced," $2,645 ",1,No,2,3
+47,50,Yes,Travel_Rarely,Sales,3,Intermediate,Marketing,1,Male,Medium,Sales Representative,3,Married," $2,683 ",1,Yes,3,3
+49,35,No,Travel_Rarely,Sales,2,Graduate,Marketing,4,Female,High,Sales Representative,4,Married," $2,014 ",1,No,3,3
+51,36,No,Travel_Rarely,Research & Development,5,Masters,Life Sciences,2,Female,Medium,Research Scientist,1,Married," $3,419 ",9,Yes,4,3
+52,33,No,Travel_Frequently,Sales,1,Graduate,Life Sciences,3,Female,Very High,Sales Executive,1,Married," $5,376 ",2,No,3,3
+53,35,No,Travel_Rarely,Research & Development,4,Intermediate,Medical,3,Male,High,Laboratory Technician,4,Divorced," $1,951 ",1,No,3,3
+54,27,No,Travel_Rarely,Research & Development,2,Masters,Life Sciences,4,Female,High,Laboratory Technician,1,Divorced," $2,341 ",1,No,3,3
+55,26,Yes,Travel_Rarely,Research & Development,25,Graduate,Life Sciences,1,Male,Low,Laboratory Technician,3,Single," $2,293 ",1,No,2,3
+56,27,No,Travel_Frequently,Sales,8,Graduate,Life Sciences,4,Male,High,Sales Executive,3,Single," $8,726 ",1,No,3,3
+57,30,No,Travel_Frequently,Research & Development,1,Intermediate,Medical,3,Female,High,Laboratory Technician,4,Single," $4,011 ",1,No,3,4
+58,41,Yes,Travel_Rarely,Research & Development,12,Graduate,Technical Degree,2,Female,High,Research Director,3,Married," $19,545 ",1,No,3,3
+60,34,No,Non-Travel,Sales,23,Masters,Marketing,2,Male,High,Sales Executive,3,Single," $4,568 ",0,No,3,4
+61,37,No,Travel_Rarely,Research & Development,19,Intermediate,Life Sciences,2,Male,High,Research Scientist,2,Married," $3,022 ",4,No,3,4
+62,46,No,Travel_Frequently,Sales,5,Masters,Marketing,1,Male,High,Sales Executive,4,Single," $5,772 ",4,Yes,3,4
+63,35,No,Travel_Rarely,Research & Development,8,SSC,Life Sciences,4,Male,Very High,Laboratory Technician,4,Married," $2,269 ",1,No,3,3
+64,48,Yes,Travel_Rarely,Research & Development,1,Intermediate,Life Sciences,1,Male,Medium,Laboratory Technician,3,Single," $5,381 ",9,Yes,3,3
+65,28,Yes,Travel_Rarely,Research & Development,5,Masters,Technical Degree,3,Male,High,Laboratory Technician,3,Single," $3,441 ",1,Yes,2,3
+68,44,No,Travel_Rarely,Sales,1,Doctorate,Marketing,2,Female,High,Sales Executive,1,Divorced," $5,454 ",5,Yes,2,4
+70,35,No,Non-Travel,Research & Development,11,Intermediate,Medical,3,Male,Medium,Healthcare Representative,1,Married," $9,884 ",2,Yes,3,3
+72,26,No,Travel_Rarely,Sales,23,Graduate,Marketing,3,Female,Medium,Sales Executive,4,Married," $4,157 ",7,Yes,2,3
+73,33,No,Travel_Frequently,Research & Development,1,Intermediate,Life Sciences,1,Female,High,Research Director,4,Single," $13,458 ",1,Yes,3,3
+74,35,No,Travel_Frequently,Sales,18,Doctorate,Life Sciences,2,Male,High,Sales Executive,1,Married," $9,069 ",1,No,2,4
+75,35,No,Travel_Rarely,Research & Development,23,Masters,Medical,3,Female,High,Laboratory Technician,1,Married," $4,014 ",3,Yes,3,3
+76,31,No,Travel_Rarely,Research & Development,7,Masters,Life Sciences,4,Male,High,Laboratory Technician,4,Divorced," $5,915 ",3,No,2,4
+77,37,No,Travel_Rarely,Research & Development,1,Masters,Life Sciences,1,Male,Medium,Manufacturing Director,3,Divorced," $5,993 ",1,No,4,3
+78,32,No,Travel_Rarely,Research & Development,1,Graduate,Medical,1,Male,High,Manufacturing Director,4,Married," $6,162 ",1,Yes,3,4
+79,38,No,Travel_Frequently,Research & Development,29,Doctorate,Life Sciences,4,Female,High,Laboratory Technician,4,Single," $2,406 ",1,No,3,3
+80,50,No,Travel_Rarely,Research & Development,7,Intermediate,Medical,2,Female,Medium,Research Director,3,Divorced," $18,740 ",5,Yes,2,3
+81,59,No,Travel_Rarely,Sales,25,Graduate,Life Sciences,1,Female,High,Sales Executive,1,Single," $7,637 ",7,No,2,3
+83,36,No,Travel_Rarely,Research & Development,8,Graduate,Technical Degree,3,Female,High,Healthcare Representative,3,Divorced," $10,096 ",1,No,3,3
+84,55,No,Travel_Rarely,Research & Development,8,Graduate,Medical,4,Female,High,Manager,3,Divorced," $14,756 ",2,Yes,3,3
+85,36,No,Travel_Frequently,Research & Development,11,Graduate,Life Sciences,2,Male,Medium,Manufacturing Director,2,Single," $6,499 ",1,No,3,3
+86,45,No,Travel_Rarely,Research & Development,7,Graduate,Life Sciences,2,Male,High,Research Scientist,1,Divorced," $9,724 ",2,No,3,3
+88,35,No,Travel_Frequently,Research & Development,1,Graduate,Medical,2,Male,High,Research Scientist,1,Married," $2,194 ",4,No,2,3
+90,36,Yes,Travel_Rarely,Research & Development,9,Graduate,Medical,4,Male,Medium,Research Scientist,3,Married," $3,388 ",0,Yes,2,3
+91,59,No,Travel_Frequently,Sales,1,SSC,Life Sciences,1,Female,Medium,Sales Executive,3,Single," $5,473 ",7,No,2,3
+94,29,No,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,3,Male,High,Research Scientist,2,Married," $2,703 ",0,No,3,4
+95,31,No,Travel_Rarely,Research & Development,1,Masters,Medical,3,Male,High,Research Scientist,2,Single," $2,501 ",1,No,3,3
+96,32,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,2,Male,High,Research Scientist,2,Married," $6,220 ",1,No,3,3
+97,36,No,Travel_Rarely,Research & Development,6,Graduate,Life Sciences,2,Female,Very High,Laboratory Technician,4,Married," $3,038 ",3,No,3,3
+98,31,No,Travel_Rarely,Research & Development,8,Masters,Life Sciences,3,Female,High,Manufacturing Director,4,Single," $4,424 ",1,No,3,4
+100,35,No,Travel_Rarely,Sales,1,Masters,Marketing,3,Male,Medium,Sales Executive,1,Single," $4,312 ",0,No,3,3
+101,45,No,Travel_Rarely,Research & Development,6,Masters,Medical,4,Male,High,Research Director,1,Married," $13,245 ",4,Yes,4,3
+102,37,No,Travel_Rarely,Research & Development,7,Masters,Medical,1,Male,High,Research Director,3,Single," $13,664 ",4,No,4,3
+103,46,No,Travel_Rarely,Human Resources,5,Intermediate,Medical,2,Male,High,Human Resources,2,Divorced," $5,021 ",8,Yes,3,4
+104,30,No,Travel_Rarely,Research & Development,1,SSC,Life Sciences,4,Male,Medium,Laboratory Technician,4,Married," $5,126 ",1,Yes,2,3
+105,35,No,Travel_Rarely,Research & Development,1,Graduate,Medical,2,Male,Medium,Research Scientist,3,Single," $2,859 ",1,No,3,3
+106,55,No,Travel_Rarely,Sales,1,Intermediate,Life Sciences,1,Male,High,Sales Executive,4,Married," $10,239 ",3,No,3,3
+107,38,No,Non-Travel,Research & Development,6,Graduate,Medical,2,Female,Low,Research Scientist,4,Divorced," $5,329 ",7,Yes,3,3
+110,34,No,Travel_Rarely,Research & Development,1,Intermediate,Medical,1,Male,High,Manufacturing Director,2,Married," $4,325 ",1,No,3,3
+112,56,No,Travel_Rarely,Research & Development,7,Graduate,Life Sciences,4,Male,Low,Manufacturing Director,4,Single," $7,260 ",4,No,2,3
+113,23,No,Travel_Rarely,Sales,2,SSC,Technical Degree,3,Male,High,Sales Representative,1,Divorced," $2,322 ",3,No,3,3
+116,51,No,Travel_Rarely,Research & Development,9,Masters,Life Sciences,4,Male,High,Laboratory Technician,4,Married," $2,075 ",3,No,3,4
+117,30,No,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,3,Male,Medium,Healthcare Representative,4,Married," $4,152 ",1,No,3,3
+118,46,Yes,Travel_Rarely,Sales,9,Intermediate,Medical,3,Male,Medium,Sales Executive,4,Single," $9,619 ",1,No,3,3
+119,40,No,Travel_Frequently,Research & Development,1,Masters,Life Sciences,3,Male,Medium,Healthcare Representative,2,Married," $13,503 ",1,No,2,4
+120,51,No,Travel_Rarely,Sales,21,Masters,Marketing,3,Male,High,Sales Executive,4,Single," $5,441 ",0,Yes,1,4
+121,30,No,Travel_Rarely,Sales,4,Intermediate,Medical,3,Female,Medium,Sales Executive,2,Divorced," $5,209 ",1,Yes,2,3
+124,46,No,Travel_Frequently,Research & Development,1,Graduate,Medical,3,Male,Medium,Healthcare Representative,1,Married," $10,673 ",2,Yes,2,3
+125,32,No,Travel_Rarely,Sales,6,Masters,Medical,2,Male,High,Sales Executive,3,Single," $5,010 ",1,No,3,3
+126,54,No,Travel_Rarely,Research & Development,2,Masters,Technical Degree,1,Female,High,Research Director,3,Married," $13,549 ",9,No,1,3
+128,24,No,Travel_Rarely,Sales,3,Intermediate,Medical,1,Female,High,Sales Executive,3,Married," $4,999 ",0,No,2,4
+129,28,No,Non-Travel,Sales,4,Graduate,Medical,2,Male,High,Sales Executive,3,Married," $4,221 ",1,No,4,3
+131,58,No,Travel_Rarely,Sales,10,Masters,Medical,4,Male,High,Sales Executive,3,Single," $13,872 ",0,No,2,3
+132,44,No,Non-Travel,Research & Development,23,Graduate,Medical,2,Male,High,Laboratory Technician,2,Married," $2,042 ",4,No,4,3
+133,37,Yes,Travel_Rarely,Human Resources,6,Masters,Human Resources,3,Male,High,Human Resources,1,Divorced," $2,073 ",4,Yes,3,4
+134,32,No,Travel_Rarely,Research & Development,1,SSC,Life Sciences,4,Male,High,Research Scientist,1,Single," $2,956 ",1,No,3,3
+137,20,Yes,Travel_Frequently,Research & Development,6,Graduate,Life Sciences,4,Female,Medium,Laboratory Technician,4,Single," $2,926 ",1,Yes,3,3
+138,34,No,Travel_Rarely,Research & Development,6,Masters,Medical,1,Female,High,Research Scientist,3,Single," $4,809 ",1,No,3,3
+139,37,No,Non-Travel,Research & Development,2,Intermediate,Life Sciences,3,Male,Medium,Healthcare Representative,4,Divorced," $5,163 ",5,No,4,3
+140,59,No,Non-Travel,Human Resources,2,Masters,Human Resources,3,Female,Medium,Manager,4,Married," $18,844 ",9,No,3,4
+141,50,No,Travel_Frequently,Research & Development,1,Graduate,Life Sciences,1,Female,High,Research Director,2,Married," $18,172 ",3,Yes,2,3
+142,25,Yes,Travel_Rarely,Sales,5,Graduate,Marketing,3,Male,Medium,Sales Executive,3,Single," $5,744 ",1,Yes,3,3
+143,25,No,Travel_Rarely,Research & Development,7,SSC,Medical,4,Male,Medium,Research Scientist,4,Married," $2,889 ",1,No,3,3
+144,22,No,Travel_Rarely,Research & Development,15,Graduate,Medical,2,Female,High,Laboratory Technician,4,Single," $2,871 ",1,No,3,3
+145,51,No,Travel_Frequently,Research & Development,1,Masters,Medical,1,Female,Medium,Healthcare Representative,1,Single," $7,484 ",3,No,2,4
+147,34,Yes,Travel_Frequently,Research & Development,7,Graduate,Life Sciences,1,Male,Low,Laboratory Technician,3,Single," $6,074 ",1,Yes,3,4
+148,54,No,Non-Travel,Human Resources,26,Graduate,Human Resources,4,Female,Very High,Manager,4,Single," $17,328 ",2,Yes,3,3
+150,24,No,Travel_Rarely,Research & Development,18,SSC,Life Sciences,2,Male,High,Laboratory Technician,3,Married," $2,774 ",0,No,3,3
+151,34,No,Travel_Rarely,Research & Development,6,Masters,Life Sciences,3,Female,Medium,Research Scientist,2,Divorced," $4,505 ",6,No,3,3
+152,37,No,Travel_Rarely,Sales,3,Graduate,Life Sciences,3,Male,High,Sales Executive,4,Single," $7,428 ",2,No,3,3
+153,34,No,Travel_Rarely,Research & Development,5,Graduate,Medical,3,Female,Medium,Manager,1,Single," $11,631 ",2,No,3,3
+154,36,No,Travel_Frequently,Sales,11,Intermediate,Technical Degree,2,Female,High,Sales Executive,4,Married," $9,738 ",0,No,3,3
+155,36,No,Travel_Rarely,Research & Development,3,Intermediate,Life Sciences,1,Female,High,Laboratory Technician,4,Divorced," $2,835 ",5,No,3,4
+158,43,No,Travel_Frequently,Sales,26,Intermediate,Life Sciences,3,Male,High,Manager,4,Married," $16,959 ",1,Yes,4,3
+159,30,No,Travel_Frequently,Research & Development,23,Graduate,Life Sciences,1,Male,Low,Research Scientist,3,Divorced," $2,613 ",1,No,2,4
+160,33,No,Non-Travel,Sales,22,Intermediate,Marketing,3,Male,High,Sales Executive,2,Married," $6,146 ",0,No,4,3
+161,56,Yes,Travel_Rarely,Research & Development,14,Masters,Life Sciences,2,Female,High,Research Scientist,2,Married," $4,963 ",9,Yes,3,3
+162,51,No,Travel_Rarely,Research & Development,6,Graduate,Life Sciences,1,Male,High,Research Director,3,Single," $19,537 ",7,No,3,3
+163,31,Yes,Travel_Rarely,Sales,6,Masters,Life Sciences,2,Male,Low,Sales Executive,3,Married," $6,172 ",4,Yes,2,3
+164,26,No,Travel_Rarely,Research & Development,6,Graduate,Medical,3,Female,Medium,Research Scientist,2,Married," $2,368 ",1,No,2,3
+165,58,Yes,Travel_Rarely,Research & Development,23,Masters,Medical,4,Female,High,Healthcare Representative,4,Married," $10,312 ",1,No,2,3
+167,19,Yes,Travel_Rarely,Sales,22,SSC,Marketing,4,Male,High,Sales Representative,3,Single," $1,675 ",1,Yes,2,3
+169,22,No,Travel_Rarely,Research & Development,2,SSC,Technical Degree,3,Male,High,Laboratory Technician,4,Married," $2,523 ",0,No,3,3
+170,49,No,Travel_Rarely,Research & Development,20,Masters,Medical,3,Female,High,Manufacturing Director,1,Married," $6,567 ",1,No,2,3
+171,43,No,Travel_Frequently,Research & Development,28,Graduate,Medical,2,Female,Very High,Research Scientist,3,Single," $4,739 ",4,No,3,3
+174,50,No,Travel_Frequently,Sales,12,Graduate,Marketing,3,Female,High,Sales Executive,4,Single," $9,208 ",4,No,3,3
+175,31,Yes,Travel_Rarely,Sales,20,Graduate,Life Sciences,2,Female,Low,Sales Executive,3,Married," $4,559 ",3,Yes,3,3
+176,41,No,Travel_Rarely,Sales,9,SSC,Life Sciences,3,Male,High,Sales Executive,3,Divorced," $8,189 ",3,Yes,3,3
+177,26,No,Travel_Rarely,Human Resources,25,SSC,Life Sciences,3,Female,High,Human Resources,3,Married," $2,942 ",1,No,3,4
+178,36,No,Travel_Rarely,Research & Development,6,Intermediate,Medical,2,Male,High,Manufacturing Director,2,Divorced," $4,941 ",6,No,3,4
+179,51,Yes,Travel_Frequently,Research & Development,8,Masters,Life Sciences,1,Male,Low,Manufacturing Director,4,Single," $10,650 ",2,No,3,3
+182,39,No,Travel_Rarely,Sales,4,Masters,Life Sciences,4,Female,Medium,Sales Executive,3,Married," $5,902 ",4,No,4,3
+183,25,No,Travel_Rarely,Sales,28,Graduate,Life Sciences,1,Male,Medium,Sales Executive,3,Married," $8,639 ",2,No,3,3
+184,30,No,Travel_Rarely,Human Resources,9,Graduate,Human Resources,3,Male,High,Human Resources,4,Married," $6,347 ",0,Yes,1,3
+190,32,Yes,Travel_Rarely,Research & Development,9,Graduate,Medical,1,Female,High,Laboratory Technician,1,Single," $4,200 ",7,No,4,4
+192,45,No,Travel_Rarely,Research & Development,29,Graduate,Medical,3,Male,High,Research Scientist,4,Single," $3,452 ",5,No,2,3
+193,38,No,Travel_Rarely,Research & Development,3,Doctorate,Technical Degree,4,Female,High,Research Scientist,3,Single," $4,317 ",3,Yes,3,4
+194,30,No,Travel_Rarely,Research & Development,18,Graduate,Life Sciences,1,Female,High,Research Scientist,3,Single," $2,632 ",1,No,2,3
+195,32,No,Travel_Frequently,Sales,9,Intermediate,Medical,4,Male,Low,Sales Executive,4,Divorced," $4,668 ",0,No,4,3
+197,30,No,Travel_Rarely,Research & Development,5,Graduate,Technical Degree,4,Female,High,Research Scientist,1,Divorced," $3,204 ",5,No,3,3
+198,30,No,Travel_Rarely,Research & Development,2,SSC,Medical,2,Male,Medium,Laboratory Technician,4,Single," $2,720 ",0,No,3,3
+199,41,No,Travel_Frequently,Research & Development,10,Graduate,Life Sciences,4,Male,Medium,Manager,1,Divorced," $17,181 ",4,No,2,3
+200,41,No,Travel_Rarely,Research & Development,9,Masters,Life Sciences,3,Male,High,Laboratory Technician,1,Married," $2,238 ",2,No,3,4
+201,19,No,Travel_Rarely,Research & Development,3,SSC,Medical,2,Female,High,Laboratory Technician,2,Single," $1,483 ",1,No,3,3
+202,40,No,Travel_Frequently,Research & Development,26,Graduate,Medical,2,Female,High,Research Scientist,2,Divorced," $5,605 ",1,No,3,3
+204,35,No,Travel_Rarely,Sales,1,Doctorate,Marketing,3,Male,High,Sales Executive,2,Married," $7,295 ",1,No,3,3
+205,53,No,Travel_Rarely,Sales,6,Intermediate,Marketing,2,Male,High,Sales Representative,3,Married," $2,306 ",2,Yes,1,4
+206,45,No,Travel_Rarely,Research & Development,9,Graduate,Life Sciences,2,Male,High,Laboratory Technician,2,Divorced," $2,348 ",8,No,1,3
+207,32,No,Travel_Frequently,Sales,8,Graduate,Marketing,2,Female,High,Sales Executive,4,Single," $8,998 ",1,No,3,3
+208,29,No,Non-Travel,Research & Development,1,SSC,Technical Degree,4,Male,High,Manufacturing Director,3,Married," $4,319 ",1,No,3,3
+211,51,No,Travel_Rarely,Research & Development,7,Masters,Medical,2,Male,Medium,Manufacturing Director,3,Married," $6,132 ",2,No,3,3
+214,58,No,Travel_Rarely,Research & Development,9,Graduate,Medical,2,Female,Medium,Research Scientist,2,Married," $3,346 ",4,Yes,2,4
+215,40,No,Travel_Rarely,Sales,4,Masters,Marketing,3,Male,Medium,Sales Executive,4,Married," $10,855 ",7,No,2,3
+216,34,No,Travel_Frequently,Sales,2,Masters,Marketing,3,Female,High,Sales Representative,3,Married," $2,231 ",6,No,3,3
+217,22,No,Travel_Rarely,Research & Development,19,SSC,Medical,3,Male,High,Research Scientist,4,Married," $2,323 ",1,No,3,4
+218,27,No,Non-Travel,Research & Development,9,Graduate,Medical,4,Male,High,Research Scientist,2,Divorced," $2,024 ",6,No,1,3
+221,28,No,Travel_Rarely,Research & Development,21,Graduate,Medical,3,Male,High,Research Scientist,4,Married," $2,713 ",1,No,1,3
+223,57,No,Travel_Rarely,Research & Development,24,Intermediate,Life Sciences,3,Male,Very High,Healthcare Representative,4,Divorced," $9,439 ",3,Yes,1,3
+224,27,No,Non-Travel,Research & Development,3,Graduate,Medical,3,Male,Medium,Research Scientist,3,Divorced," $2,566 ",1,Yes,2,3
+226,50,No,Travel_Rarely,Research & Development,11,Graduate,Life Sciences,3,Female,High,Manager,2,Single," $19,926 ",3,No,3,3
+227,41,No,Travel_Rarely,Research & Development,14,Graduate,Life Sciences,1,Male,High,Research Scientist,3,Divorced," $2,451 ",4,No,3,3
+228,30,No,Travel_Rarely,Sales,5,Graduate,Life Sciences,2,Female,High,Sales Executive,4,Married," $9,419 ",2,No,3,3
+230,38,No,Travel_Rarely,Sales,1,Masters,Life Sciences,1,Female,Medium,Sales Executive,4,Single," $8,686 ",4,No,4,4
+231,32,No,Travel_Rarely,Research & Development,6,Doctorate,Life Sciences,3,Male,High,Research Scientist,3,Single," $3,038 ",3,No,3,4
+233,27,No,Travel_Rarely,Research & Development,17,Graduate,Technical Degree,3,Male,High,Research Scientist,2,Married," $3,058 ",0,Yes,2,3
+235,19,Yes,Travel_Frequently,Sales,1,SSC,Technical Degree,3,Female,Low,Sales Representative,1,Single," $2,325 ",0,No,4,4
+238,36,No,Travel_Frequently,Research & Development,3,Intermediate,Medical,4,Male,High,Laboratory Technician,2,Single," $2,088 ",4,No,2,3
+239,30,No,Non-Travel,Research & Development,9,Graduate,Medical,3,Male,High,Laboratory Technician,1,Divorced," $3,072 ",1,No,3,3
+240,45,No,Travel_Rarely,Sales,4,Intermediate,Life Sciences,3,Female,High,Sales Executive,1,Divorced," $5,006 ",4,Yes,4,3
+241,56,No,Travel_Rarely,Research & Development,8,Graduate,Life Sciences,3,Female,High,Research Scientist,1,Divorced," $4,257 ",4,Yes,3,3
+242,33,No,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,3,Male,High,Research Scientist,4,Single," $2,500 ",0,No,4,3
+243,19,Yes,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,2,Male,Medium,Laboratory Technician,4,Single," $1,102 ",1,No,2,4
+244,46,No,Travel_Rarely,Sales,1,Intermediate,Marketing,2,Female,High,Sales Executive,1,Divorced," $10,453 ",1,No,3,4
+245,38,No,Travel_Rarely,Research & Development,9,Intermediate,Life Sciences,3,Female,High,Laboratory Technician,4,Single," $2,288 ",1,No,3,3
+246,31,No,Travel_Rarely,Research & Development,12,SSC,Medical,3,Female,High,Research Scientist,4,Married," $3,929 ",8,Yes,3,4
+247,34,No,Travel_Rarely,Research & Development,27,Intermediate,Medical,4,Female,High,Research Scientist,2,Single," $2,311 ",2,No,3,3
+248,41,Yes,Travel_Rarely,Sales,20,Intermediate,Marketing,2,Female,High,Sales Representative,2,Single," $3,140 ",1,Yes,2,4
+249,50,No,Travel_Rarely,Research & Development,1,Graduate,Medical,3,Male,Medium,Laboratory Technician,3,Married," $3,690 ",2,No,2,3
+250,53,No,Travel_Rarely,Research & Development,13,Intermediate,Medical,4,Female,Very High,Manufacturing Director,1,Divorced," $4,450 ",1,No,3,3
+252,33,No,Travel_Rarely,Research & Development,14,Graduate,Medical,4,Female,High,Research Scientist,2,Married," $2,756 ",1,No,3,3
+253,40,No,Travel_Rarely,Research & Development,4,SSC,Medical,4,Female,High,Manager,3,Married," $19,033 ",1,No,3,3
+254,55,No,Travel_Rarely,Research & Development,14,Masters,Medical,3,Male,Very High,Research Director,2,Single," $18,722 ",8,No,3,3
+256,34,No,Travel_Frequently,Research & Development,2,SSC,Life Sciences,4,Male,Medium,Manufacturing Director,3,Married," $9,547 ",1,No,2,3
+258,51,No,Travel_Rarely,Research & Development,3,Graduate,Medical,4,Female,High,Healthcare Representative,2,Single," $13,734 ",3,No,3,3
+259,52,No,Travel_Rarely,Research & Development,1,Masters,Life Sciences,3,Male,Medium,Manager,3,Married," $19,999 ",0,No,3,3
+260,27,No,Travel_Rarely,Research & Development,9,Graduate,Medical,4,Female,High,Research Scientist,2,Single," $2,279 ",1,No,2,3
+261,35,Yes,Travel_Rarely,Research & Development,23,Intermediate,Life Sciences,2,Male,Medium,Manufacturing Director,3,Married," $5,916 ",3,Yes,3,3
+262,43,No,Non-Travel,Research & Development,7,Graduate,Medical,4,Male,Very High,Research Scientist,4,Divorced," $2,089 ",4,No,4,3
+264,45,No,Non-Travel,Research & Development,2,Intermediate,Medical,1,Male,Medium,Manager,4,Married," $16,792 ",9,No,3,4
+267,37,No,Travel_Rarely,Research & Development,21,Graduate,Life Sciences,2,Male,Very High,Research Scientist,1,Married," $3,564 ",1,Yes,2,3
+269,35,No,Travel_Frequently,Research & Development,2,Graduate,Medical,2,Female,High,Laboratory Technician,2,Single," $4,425 ",5,No,3,3
+270,42,No,Non-Travel,Research & Development,21,Intermediate,Medical,3,Female,High,Manufacturing Director,3,Divorced," $5,265 ",2,No,3,3
+271,38,No,Travel_Rarely,Research & Development,2,Masters,Life Sciences,4,Male,High,Manufacturing Director,3,Married," $6,553 ",9,No,3,3
+273,38,No,Travel_Rarely,Research & Development,29,Graduate,Technical Degree,4,Male,High,Manufacturing Director,4,Married," $6,261 ",3,No,1,3
+274,27,No,Travel_Frequently,Research & Development,1,SSC,Technical Degree,3,Male,Medium,Manufacturing Director,1,Married," $4,298 ",5,No,3,3
+275,49,No,Non-Travel,Research & Development,18,Masters,Life Sciences,4,Male,High,Manufacturing Director,4,Divorced," $6,804 ",1,Yes,3,3
+277,34,No,Travel_Frequently,Research & Development,10,Masters,Medical,4,Male,High,Research Scientist,3,Divorced," $3,815 ",1,Yes,4,3
+281,40,No,Travel_Rarely,Research & Development,19,Intermediate,Medical,3,Male,High,Laboratory Technician,4,Married," $2,741 ",8,Yes,4,3
+282,38,Yes,Travel_Rarely,Research & Development,29,SSC,Medical,2,Male,High,Healthcare Representative,1,Married," $6,673 ",7,Yes,3,3
+283,29,Yes,Travel_Rarely,Sales,27,Graduate,Marketing,2,Female,High,Sales Executive,4,Married," $7,639 ",1,No,2,4
+284,22,No,Travel_Rarely,Research & Development,5,Graduate,Life Sciences,4,Male,Very High,Research Scientist,2,Divorced," $2,328 ",1,Yes,2,3
+286,36,No,Travel_Frequently,Research & Development,18,SSC,Medical,2,Female,High,Laboratory Technician,4,Single," $2,153 ",1,No,3,3
+287,40,No,Non-Travel,Research & Development,9,Doctorate,Life Sciences,4,Male,Medium,Healthcare Representative,4,Married," $4,876 ",9,No,1,3
+288,46,No,Travel_Rarely,Research & Development,1,Masters,Medical,4,Male,High,Healthcare Representative,1,Divorced," $9,396 ",7,No,3,3
+291,32,Yes,Travel_Rarely,Sales,4,Masters,Medical,4,Male,Low,Sales Executive,4,Married," $10,400 ",1,No,2,3
+292,30,No,Non-Travel,Research & Development,1,SSC,Life Sciences,3,Male,Medium,Manufacturing Director,3,Single," $8,474 ",1,No,3,4
+293,27,No,Travel_Frequently,Sales,20,Graduate,Life Sciences,4,Female,High,Sales Executive,3,Single," $9,981 ",1,No,3,3
+296,51,No,Travel_Rarely,Research & Development,8,Masters,Life Sciences,2,Male,Medium,Research Director,2,Married," $12,490 ",5,No,1,3
+297,30,Yes,Travel_Rarely,Research & Development,3,Graduate,Technical Degree,4,Female,High,Research Scientist,1,Single," $2,657 ",5,Yes,3,3
+298,41,No,Travel_Rarely,Sales,6,Graduate,Life Sciences,4,Female,High,Manager,4,Single," $13,591 ",3,Yes,3,3
+299,30,Yes,Travel_Frequently,Sales,26,Masters,Marketing,3,Female,Medium,Sales Executive,1,Single," $6,696 ",5,No,2,3
+300,29,Yes,Travel_Rarely,Research & Development,1,Graduate,Technical Degree,3,Male,High,Research Scientist,3,Single," $2,058 ",0,No,2,3
+302,45,No,Non-Travel,Sales,6,Graduate,Medical,4,Female,Medium,Sales Executive,4,Single," $8,865 ",6,No,3,3
+303,54,No,Travel_Rarely,Sales,3,Graduate,Marketing,4,Female,High,Sales Executive,1,Married," $5,940 ",2,No,3,3
+304,36,No,Travel_Rarely,Research & Development,5,Intermediate,Life Sciences,4,Male,High,Laboratory Technician,2,Single," $5,914 ",8,No,4,3
+305,33,No,Travel_Rarely,Research & Development,4,Masters,Medical,3,Female,Medium,Research Scientist,2,Married," $2,622 ",6,No,3,4
+306,37,No,Travel_Frequently,Research & Development,11,Graduate,Medical,2,Male,High,Research Director,4,Divorced," $12,185 ",1,Yes,3,3
+307,38,No,Travel_Rarely,Sales,3,Graduate,Life Sciences,1,Male,High,Sales Executive,3,Divorced," $10,609 ",0,No,2,3
+308,31,No,Non-Travel,Research & Development,1,Masters,Medical,3,Male,Low,Manufacturing Director,3,Married," $4,345 ",0,No,3,3
+309,59,No,Travel_Rarely,Research & Development,3,Graduate,Life Sciences,3,Male,Medium,Research Scientist,4,Married," $2,177 ",3,No,3,3
+311,37,No,Travel_Frequently,Sales,4,Masters,Marketing,1,Male,High,Sales Representative,4,Divorced," $2,793 ",4,No,3,3
+312,29,No,Travel_Frequently,Sales,1,SSC,Medical,2,Female,High,Sales Executive,4,Married," $7,918 ",1,No,3,3
+314,35,No,Travel_Frequently,Sales,1,Graduate,Marketing,3,Female,High,Sales Executive,3,Single," $8,789 ",1,No,4,3
+315,29,Yes,Travel_Rarely,Research & Development,18,SSC,Medical,3,Male,Medium,Research Scientist,4,Single," $2,389 ",1,Yes,2,3
+316,52,No,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,3,Female,Medium,Laboratory Technician,4,Single," $3,212 ",7,No,2,3
+319,42,No,Travel_Rarely,Research & Development,4,Intermediate,Technical Degree,3,Male,High,Manager,4,Married," $19,232 ",1,No,3,3
+321,59,No,Travel_Rarely,Human Resources,6,Intermediate,Medical,2,Male,High,Human Resources,3,Married," $2,267 ",8,No,2,3
+323,50,No,Travel_Rarely,Sales,1,Masters,Medical,4,Female,High,Manager,4,Divorced," $19,517 ",3,No,2,3
+325,33,Yes,Travel_Rarely,Research & Development,14,Graduate,Medical,3,Male,High,Laboratory Technician,4,Married," $2,436 ",5,Yes,1,3
+327,43,No,Travel_Rarely,Sales,16,Graduate,Marketing,4,Female,High,Manager,4,Married," $16,064 ",5,Yes,3,4
+328,33,Yes,Travel_Rarely,Research & Development,2,Intermediate,Life Sciences,1,Female,High,Laboratory Technician,1,Married," $2,707 ",7,No,4,4
+329,52,No,Non-Travel,Sales,2,Masters,Life Sciences,1,Male,Medium,Manager,3,Single," $19,068 ",1,Yes,4,3
+330,32,No,Travel_Rarely,Sales,4,Intermediate,Life Sciences,3,Female,High,Sales Representative,2,Married," $3,931 ",2,No,3,3
+331,32,Yes,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,4,Male,Medium,Laboratory Technician,3,Single," $3,730 ",0,Yes,1,3
+332,39,No,Travel_Rarely,Research & Development,1,Masters,Medical,3,Female,High,Laboratory Technician,3,Divorced," $2,232 ",7,No,3,3
+333,32,No,Non-Travel,Sales,26,Masters,Marketing,3,Male,High,Sales Executive,4,Married," $4,465 ",0,No,3,3
+334,41,No,Travel_Rarely,Research & Development,19,Intermediate,Life Sciences,3,Male,High,Research Scientist,1,Divorced," $3,072 ",2,No,2,3
+335,40,No,Travel_Rarely,Research & Development,24,Intermediate,Technical Degree,1,Male,High,Research Scientist,4,Divorced," $3,319 ",1,No,3,3
+336,45,No,Travel_Rarely,Research & Development,1,Graduate,Medical,3,Male,Very High,Manager,4,Married," $19,202 ",0,No,3,3
+337,31,No,Travel_Frequently,Research & Development,3,Masters,Medical,2,Male,High,Research Director,3,Divorced," $13,675 ",9,No,3,3
+338,33,No,Travel_Rarely,Research & Development,5,Masters,Life Sciences,3,Female,Medium,Research Scientist,4,Married," $2,911 ",1,No,2,3
+339,34,No,Travel_Rarely,Research & Development,2,Masters,Life Sciences,4,Male,Medium,Manufacturing Director,1,Married," $5,957 ",6,No,3,3
+340,37,No,Travel_Rarely,Research & Development,1,Intermediate,Medical,3,Female,Medium,Research Scientist,1,Married," $3,920 ",2,No,2,3
+341,45,No,Travel_Frequently,Research & Development,7,Masters,Life Sciences,1,Male,Very High,Manufacturing Director,3,Married," $6,434 ",4,No,3,3
+342,37,Yes,Travel_Frequently,Research & Development,10,Graduate,Medical,1,Male,High,Manufacturing Director,3,Divorced," $10,048 ",6,No,3,3
+343,39,No,Travel_Frequently,Research & Development,2,Masters,Technical Degree,3,Female,High,Healthcare Representative,3,Single," $10,938 ",0,No,3,4
+346,29,No,Travel_Rarely,Research & Development,15,Graduate,Life Sciences,3,Male,High,Research Scientist,4,Single," $2,340 ",1,No,3,3
+347,42,No,Travel_Rarely,Research & Development,17,Intermediate,Life Sciences,4,Female,Very High,Research Scientist,1,Single," $6,545 ",3,Yes,3,3
+349,29,No,Travel_Rarely,Sales,20,Intermediate,Marketing,4,Male,High,Sales Executive,4,Divorced," $6,931 ",2,No,3,3
+350,25,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,1,Female,High,Manufacturing Director,3,Married," $4,898 ",0,No,3,3
+351,42,No,Travel_Rarely,Research & Development,2,Graduate,Medical,4,Female,Medium,Laboratory Technician,1,Divorced," $2,593 ",0,Yes,3,3
+352,40,No,Travel_Rarely,Research & Development,2,Intermediate,Medical,1,Male,High,Research Director,3,Divorced," $19,436 ",0,No,3,3
+353,51,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,3,Male,High,Research Scientist,4,Married," $2,723 ",1,No,2,3
+355,31,Yes,Travel_Frequently,Research & Development,29,Intermediate,Medical,3,Male,Medium,Laboratory Technician,2,Single," $3,479 ",0,No,4,3
+359,32,No,Travel_Frequently,Research & Development,7,Graduate,Life Sciences,2,Male,Very High,Laboratory Technician,2,Married," $2,794 ",1,No,1,4
+361,38,No,Non-Travel,Sales,2,Intermediate,Life Sciences,4,Male,Medium,Sales Executive,4,Married," $5,249 ",3,No,3,3
+362,32,No,Travel_Rarely,Research & Development,2,SSC,Technical Degree,4,Male,Medium,Laboratory Technician,1,Single," $2,176 ",4,No,3,3
+363,46,No,Travel_Rarely,Sales,2,Graduate,Technical Degree,3,Female,Low,Manager,2,Married," $16,872 ",3,Yes,2,3
+364,28,Yes,Travel_Rarely,Research & Development,2,Masters,Life Sciences,1,Male,High,Laboratory Technician,3,Single," $3,485 ",2,No,1,3
+366,29,No,Travel_Rarely,Sales,2,Graduate,Medical,1,Male,Medium,Sales Executive,2,Married," $6,644 ",2,No,3,3
+367,31,No,Travel_Rarely,Research & Development,23,Graduate,Medical,2,Male,Medium,Healthcare Representative,4,Married," $5,582 ",0,No,3,4
+369,25,No,Non-Travel,Research & Development,5,Intermediate,Life Sciences,2,Male,Very High,Healthcare Representative,1,Divorced," $4,000 ",1,No,3,3
+372,45,No,Travel_Rarely,Research & Development,20,Intermediate,Medical,3,Male,High,Healthcare Representative,4,Married," $13,496 ",0,Yes,3,3
+373,36,No,Travel_Rarely,Research & Development,6,Graduate,Life Sciences,4,Male,High,Laboratory Technician,4,Married," $3,210 ",0,No,3,3
+374,55,No,Travel_Rarely,Research & Development,1,Graduate,Medical,4,Male,High,Manager,1,Single," $19,045 ",0,Yes,3,3
+376,47,Yes,Non-Travel,Research & Development,29,Masters,Life Sciences,1,Male,High,Manager,2,Married," $11,849 ",1,Yes,2,3
+377,28,No,Travel_Rarely,Research & Development,9,Graduate,Medical,4,Male,High,Research Scientist,4,Married," $2,070 ",1,No,2,4
+378,37,No,Travel_Rarely,Sales,6,Masters,Medical,3,Male,High,Sales Executive,4,Married," $6,502 ",4,No,4,3
+379,21,No,Travel_Rarely,Research & Development,3,Intermediate,Medical,4,Male,Medium,Research Scientist,3,Single," $3,230 ",1,No,4,3
+380,37,No,Non-Travel,Research & Development,1,Masters,Medical,1,Female,High,Research Director,4,Divorced," $13,603 ",2,Yes,3,3
+381,35,No,Travel_Rarely,Research & Development,22,Graduate,Life Sciences,2,Female,Very High,Manager,2,Divorced," $11,996 ",7,No,2,3
+382,38,No,Travel_Rarely,Sales,7,Intermediate,Medical,1,Female,Very High,Sales Executive,1,Divorced," $5,605 ",1,Yes,3,4
+384,26,No,Travel_Frequently,Research & Development,1,Graduate,Life Sciences,3,Female,High,Manufacturing Director,2,Divorced," $6,397 ",1,No,1,4
+385,50,No,Travel_Rarely,Research & Development,4,SSC,Life Sciences,1,Male,High,Research Director,2,Divorced," $19,144 ",3,No,2,3
+386,53,No,Travel_Rarely,Research & Development,3,Masters,Medical,3,Male,High,Research Director,3,Married," $17,584 ",3,Yes,2,3
+387,42,No,Travel_Rarely,Sales,1,SSC,Life Sciences,2,Male,High,Sales Executive,3,Married," $4,907 ",1,No,3,4
+388,29,No,Travel_Frequently,Sales,2,Intermediate,Life Sciences,2,Male,High,Sales Executive,4,Single," $4,554 ",1,No,2,3
+389,55,No,Travel_Rarely,Research & Development,20,Intermediate,Technical Degree,2,Male,High,Laboratory Technician,4,Married," $5,415 ",3,Yes,3,3
+390,26,No,Travel_Frequently,Research & Development,11,Intermediate,Medical,1,Male,High,Healthcare Representative,1,Married," $4,741 ",1,Yes,3,3
+391,37,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,4,Female,High,Research Scientist,4,Single," $2,115 ",1,No,3,3
+392,44,Yes,Travel_Frequently,Research & Development,24,Graduate,Life Sciences,4,Male,High,Laboratory Technician,3,Divorced," $3,161 ",3,Yes,1,4
+393,38,No,Travel_Rarely,Research & Development,23,Masters,Life Sciences,4,Male,High,Healthcare Representative,4,Divorced," $5,745 ",9,No,3,3
+394,26,Yes,Travel_Rarely,Research & Development,16,Masters,Medical,1,Male,High,Laboratory Technician,2,Divorced," $2,373 ",2,Yes,3,3
+395,28,No,Travel_Rarely,Research & Development,8,Intermediate,Life Sciences,4,Female,High,Research Scientist,4,Single," $3,310 ",1,No,3,4
+396,49,No,Travel_Frequently,Research & Development,10,Masters,Life Sciences,3,Female,High,Research Director,1,Single," $18,665 ",9,Yes,3,3
+397,36,No,Travel_Rarely,Research & Development,3,Graduate,Technical Degree,3,Male,High,Research Scientist,2,Single," $4,485 ",4,No,3,3
+399,31,No,Travel_Frequently,Sales,5,Graduate,Marketing,4,Female,High,Sales Representative,2,Divorced," $2,789 ",1,No,2,3
+401,26,Yes,Travel_Rarely,Sales,4,Masters,Marketing,4,Male,Medium,Sales Executive,4,Single," $5,828 ",1,Yes,3,3
+403,37,No,Travel_Frequently,Research & Development,9,Graduate,Medical,2,Male,High,Research Scientist,4,Married," $2,326 ",1,Yes,2,3
+404,42,No,Travel_Frequently,Sales,26,Graduate,Marketing,3,Female,High,Sales Executive,2,Married," $13,525 ",5,No,4,3
+405,18,Yes,Travel_Rarely,Research & Development,3,Graduate,Life Sciences,3,Male,High,Laboratory Technician,3,Single," $1,420 ",1,No,3,3
+406,35,No,Travel_Rarely,Sales,16,Graduate,Marketing,3,Male,High,Sales Executive,2,Married," $8,020 ",0,No,2,3
+407,36,No,Travel_Frequently,Research & Development,18,Masters,Life Sciences,3,Male,Very High,Laboratory Technician,4,Married," $3,688 ",4,No,3,3
+408,51,No,Travel_Rarely,Research & Development,2,Graduate,Medical,4,Male,Low,Manufacturing Director,2,Divorced," $5,482 ",5,No,3,3
+410,41,No,Travel_Rarely,Sales,2,Masters,Life Sciences,4,Male,High,Manager,2,Single," $16,015 ",1,No,3,3
+411,18,No,Travel_Rarely,Sales,10,Graduate,Medical,4,Female,Medium,Sales Representative,3,Single," $1,200 ",1,No,3,3
+412,28,No,Travel_Rarely,Research & Development,16,Intermediate,Medical,2,Male,Very High,Healthcare Representative,1,Single," $5,661 ",0,No,3,3
+416,31,No,Travel_Rarely,Sales,7,Graduate,Technical Degree,2,Male,Very High,Sales Executive,4,Married," $6,929 ",4,No,2,3
+417,39,No,Travel_Rarely,Research & Development,1,Graduate,Medical,3,Male,Very High,Healthcare Representative,4,Divorced," $9,613 ",0,No,2,3
+419,36,No,Non-Travel,Research & Development,24,Masters,Life Sciences,2,Female,High,Laboratory Technician,2,Married," $5,674 ",7,No,3,3
+420,32,No,Travel_Rarely,Sales,7,Graduate,Life Sciences,4,Male,Medium,Sales Executive,3,Married," $5,484 ",1,No,2,3
+421,38,No,Travel_Rarely,Research & Development,25,Intermediate,Life Sciences,1,Female,Medium,Research Director,2,Married," $12,061 ",3,No,3,3
+422,58,No,Non-Travel,Research & Development,1,Masters,Life Sciences,4,Male,Low,Healthcare Representative,3,Divorced," $5,660 ",2,Yes,3,3
+423,31,No,Travel_Rarely,Research & Development,5,Masters,Technical Degree,3,Male,High,Research Scientist,4,Married," $4,821 ",0,Yes,3,3
+424,31,No,Travel_Rarely,Human Resources,2,Graduate,Human Resources,1,Male,Medium,Human Resources,1,Married," $6,410 ",3,No,3,3
+425,45,No,Travel_Frequently,Research & Development,7,Graduate,Life Sciences,1,Male,High,Laboratory Technician,1,Divorced," $5,210 ",1,No,3,3
+426,31,No,Travel_Rarely,Research & Development,2,Masters,Life Sciences,3,Male,High,Research Scientist,4,Divorced," $2,695 ",0,Yes,1,3
+428,33,No,Travel_Frequently,Research & Development,5,Masters,Life Sciences,4,Female,High,Manager,2,Married," $11,878 ",6,No,3,3
+429,39,No,Travel_Rarely,Research & Development,10,SSC,Medical,3,Male,High,Manager,1,Married," $17,068 ",1,Yes,3,3
+430,43,No,Travel_Frequently,Research & Development,10,Masters,Life Sciences,3,Female,High,Laboratory Technician,4,Single," $2,455 ",0,No,3,3
+431,49,No,Travel_Rarely,Research & Development,1,Intermediate,Technical Degree,3,Female,Medium,Healthcare Representative,3,Single," $13,964 ",7,Yes,3,3
+433,52,Yes,Travel_Rarely,Research & Development,8,Masters,Medical,3,Male,Medium,Research Scientist,2,Married," $4,941 ",2,No,2,3
+434,27,No,Travel_Rarely,Research & Development,5,Graduate,Life Sciences,3,Female,High,Research Scientist,2,Single," $2,478 ",1,Yes,2,3
+436,32,No,Travel_Rarely,Sales,8,Intermediate,Technical Degree,3,Female,Medium,Sales Executive,2,Married," $5,228 ",1,Yes,3,3
+437,27,No,Travel_Rarely,Sales,2,Graduate,Life Sciences,4,Male,High,Sales Executive,3,Single," $4,478 ",1,Yes,3,3
+438,31,No,Travel_Rarely,Sales,7,Graduate,Marketing,4,Male,High,Sales Executive,4,Divorced," $7,547 ",4,No,3,3
+439,32,No,Travel_Rarely,Research & Development,2,Masters,Medical,1,Female,Very High,Research Scientist,4,Single," $5,055 ",7,No,2,3
+440,28,Yes,Travel_Rarely,Research & Development,2,Masters,Medical,1,Male,Low,Research Scientist,4,Married," $3,464 ",5,Yes,2,3
+441,30,No,Travel_Rarely,Research & Development,28,Intermediate,Medical,4,Female,High,Research Scientist,4,Married," $5,775 ",1,No,3,3
+442,31,No,Travel_Frequently,Research & Development,7,Intermediate,Life Sciences,3,Female,Medium,Manufacturing Director,3,Married," $8,943 ",1,No,3,4
+444,39,No,Travel_Frequently,Research & Development,7,Intermediate,Medical,3,Male,Medium,Manager,4,Married," $19,272 ",1,No,3,3
+445,39,Yes,Travel_Rarely,Sales,3,Intermediate,Medical,4,Female,High,Sales Executive,3,Married," $5,238 ",4,Yes,2,3
+446,33,No,Travel_Frequently,Sales,10,Graduate,Marketing,2,Male,Medium,Sales Executive,4,Single," $4,682 ",3,No,2,3
+447,47,No,Travel_Rarely,Research & Development,5,Doctorate,Life Sciences,4,Male,High,Research Director,3,Married," $18,300 ",4,No,3,3
+448,43,No,Travel_Frequently,Research & Development,10,Masters,Life Sciences,3,Female,Medium,Laboratory Technician,3,Divorced," $5,257 ",1,No,4,3
+449,27,No,Non-Travel,Sales,1,SSC,Marketing,3,Male,High,Sales Executive,2,Married," $6,349 ",0,Yes,3,3
+450,54,No,Travel_Frequently,Research & Development,20,Masters,Life Sciences,4,Female,High,Research Scientist,3,Single," $4,869 ",3,No,2,3
+451,43,No,Travel_Rarely,Research & Development,7,Graduate,Life Sciences,3,Female,High,Healthcare Representative,1,Married," $9,985 ",8,No,2,3
+452,45,No,Travel_Rarely,Research & Development,8,Masters,Medical,4,Male,High,Research Scientist,4,Married," $3,697 ",9,No,3,3
+453,40,No,Travel_Rarely,Sales,1,Intermediate,Medical,2,Male,Low,Sales Executive,4,Married," $7,457 ",2,Yes,2,4
+454,29,Yes,Travel_Rarely,Research & Development,8,Masters,Medical,2,Male,Low,Laboratory Technician,1,Married," $2,119 ",1,Yes,2,3
+455,29,No,Travel_Rarely,Research & Development,9,Doctorate,Medical,2,Male,Medium,Laboratory Technician,4,Single," $3,983 ",0,No,3,3
+456,30,No,Travel_Rarely,Sales,5,Graduate,Marketing,4,Female,Medium,Sales Executive,3,Divorced," $6,118 ",1,No,3,3
+458,27,No,Travel_Rarely,Sales,8,Masters,Marketing,2,Female,High,Sales Executive,2,Married," $6,214 ",1,No,3,3
+460,37,No,Travel_Rarely,Research & Development,5,Intermediate,Medical,4,Male,High,Manufacturing Director,4,Divorced," $6,347 ",7,No,2,3
+461,38,No,Travel_Rarely,Research & Development,15,Intermediate,Life Sciences,3,Male,Medium,Research Director,4,Divorced," $11,510 ",0,Yes,3,3
+462,31,No,Travel_Rarely,Research & Development,7,Masters,Medical,3,Female,High,Manufacturing Director,4,Single," $7,143 ",1,Yes,2,3
+463,29,No,Travel_Rarely,Sales,10,SSC,Marketing,4,Female,Medium,Sales Executive,2,Divorced," $8,268 ",1,Yes,3,3
+464,35,No,Travel_Rarely,Research & Development,5,Masters,Technical Degree,3,Male,High,Manufacturing Director,2,Single," $8,095 ",0,No,3,3
+465,23,No,Travel_Rarely,Research & Development,26,SSC,Life Sciences,3,Male,High,Research Scientist,4,Divorced," $2,904 ",1,No,2,3
+466,41,No,Travel_Rarely,Research & Development,6,Graduate,Medical,4,Male,Medium,Manufacturing Director,2,Single," $6,032 ",6,Yes,3,3
+467,47,No,Travel_Frequently,Sales,4,SSC,Medical,2,Male,High,Sales Representative,3,Single," $2,976 ",3,No,3,3
+468,42,No,Travel_Rarely,Research & Development,23,Doctorate,Life Sciences,1,Female,High,Research Director,4,Single," $15,992 ",2,No,3,3
+469,29,No,Non-Travel,Sales,2,Graduate,Life Sciences,4,Male,High,Sales Executive,3,Married," $4,649 ",1,No,2,3
+470,42,No,Travel_Rarely,Human Resources,2,SSC,Technical Degree,3,Male,High,Human Resources,3,Divorced," $2,696 ",0,Yes,3,3
+471,32,No,Travel_Rarely,Research & Development,2,Graduate,Medical,3,Female,High,Laboratory Technician,2,Married," $2,370 ",1,No,3,3
+473,48,No,Travel_Rarely,Sales,29,SSC,Medical,1,Female,High,Manager,3,Married," $12,504 ",3,No,1,4
+474,37,No,Travel_Rarely,Research & Development,6,Graduate,Medical,3,Male,Very High,Research Scientist,1,Divorced," $5,974 ",4,Yes,3,3
+475,30,No,Non-Travel,Sales,25,Intermediate,Technical Degree,4,Female,High,Sales Executive,3,Married," $4,736 ",7,Yes,4,3
+476,26,No,Travel_Rarely,Sales,1,Graduate,Life Sciences,3,Male,High,Sales Executive,3,Married," $5,296 ",1,No,3,3
+477,42,No,Travel_Rarely,Research & Development,2,Masters,Medical,1,Male,Medium,Healthcare Representative,4,Single," $6,781 ",3,No,3,4
+478,21,Yes,Travel_Frequently,Sales,1,SSC,Technical Degree,1,Female,Medium,Sales Representative,2,Single," $2,174 ",1,Yes,3,3
+479,36,No,Non-Travel,Sales,1,Doctorate,Medical,4,Female,High,Sales Executive,4,Single," $6,653 ",4,No,3,3
+481,36,No,Travel_Frequently,Sales,3,Masters,Medical,1,Male,Medium,Sales Executive,4,Married," $9,699 ",4,No,3,3
+482,57,No,Travel_Rarely,Research & Development,1,Masters,Medical,4,Male,High,Healthcare Representative,3,Married," $6,755 ",2,No,3,3
+483,40,No,Travel_Rarely,Research & Development,10,Masters,Life Sciences,4,Female,Very High,Laboratory Technician,3,Married," $2,213 ",3,Yes,3,3
+484,21,No,Non-Travel,Sales,9,Intermediate,Medical,1,Male,High,Sales Representative,4,Single," $2,610 ",1,No,2,4
+485,33,Yes,Travel_Rarely,Sales,5,Graduate,Marketing,4,Female,High,Sales Representative,3,Single," $2,851 ",1,Yes,3,3
+486,37,No,Travel_Rarely,Research & Development,10,Graduate,Medical,3,Female,High,Laboratory Technician,1,Married," $3,452 ",6,No,3,4
+487,46,No,Non-Travel,Research & Development,7,Masters,Medical,3,Female,High,Manufacturing Director,3,Married," $5,258 ",2,No,4,3
+488,41,Yes,Travel_Frequently,Sales,4,Graduate,Marketing,1,Male,High,Sales Executive,2,Single," $9,355 ",1,No,3,3
+491,50,No,Travel_Rarely,Research & Development,10,Graduate,Technical Degree,4,Male,Medium,Healthcare Representative,4,Single," $10,496 ",6,No,3,3
+492,40,Yes,Travel_Rarely,Sales,22,Intermediate,Marketing,3,Male,Medium,Sales Executive,3,Married," $6,380 ",2,Yes,3,3
+493,31,No,Travel_Rarely,Research & Development,9,Masters,Life Sciences,3,Male,Medium,Research Scientist,2,Single," $2,657 ",0,Yes,3,3
+494,21,Yes,Travel_Rarely,Sales,12,Graduate,Life Sciences,3,Female,Very High,Sales Representative,2,Single," $2,716 ",1,No,3,3
+495,29,No,Travel_Rarely,Research & Development,23,Graduate,Life Sciences,4,Male,High,Research Scientist,4,Single," $2,201 ",9,No,3,3
+496,35,No,Travel_Rarely,Research & Development,9,Masters,Life Sciences,3,Male,Medium,Healthcare Representative,2,Single," $6,540 ",9,No,3,3
+497,27,No,Travel_Rarely,Research & Development,1,Intermediate,Medical,4,Male,High,Laboratory Technician,2,Divorced," $3,816 ",1,No,3,3
+498,28,No,Travel_Rarely,Sales,9,Masters,Life Sciences,2,Male,High,Sales Executive,4,Single," $5,253 ",1,No,3,3
+499,49,No,Travel_Rarely,Research & Development,7,Graduate,Medical,2,Male,Medium,Healthcare Representative,3,Single," $10,965 ",8,No,3,4
+500,51,No,Travel_Rarely,Sales,14,Intermediate,Life Sciences,3,Female,High,Sales Executive,4,Married," $4,936 ",4,No,2,3
+501,36,No,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,4,Female,High,Research Scientist,3,Married," $2,543 ",4,No,3,3
+502,34,Yes,Non-Travel,Sales,19,Graduate,Marketing,1,Male,Very High,Sales Executive,4,Single," $5,304 ",8,Yes,2,3
+505,55,No,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,3,Female,High,Manager,4,Single," $16,659 ",2,Yes,3,3
+507,24,No,Travel_Rarely,Sales,10,Masters,Marketing,4,Female,High,Sales Executive,3,Divorced," $4,260 ",1,Yes,4,3
+508,30,No,Travel_Rarely,Sales,2,SSC,Technical Degree,3,Male,High,Sales Representative,2,Married," $2,476 ",1,No,3,3
+510,26,Yes,Travel_Frequently,Research & Development,3,SSC,Technical Degree,3,Male,High,Research Scientist,1,Single," $3,102 ",0,No,3,4
+511,22,No,Travel_Rarely,Research & Development,11,Graduate,Medical,1,Female,High,Research Scientist,2,Married," $2,244 ",1,No,3,3
+513,36,No,Travel_Rarely,Sales,2,Intermediate,Medical,2,Male,Medium,Sales Executive,3,Married," $7,596 ",1,No,3,3
+514,30,Yes,Travel_Frequently,Research & Development,4,Graduate,Technical Degree,3,Male,High,Research Scientist,4,Single," $2,285 ",9,Yes,3,4
+515,37,No,Travel_Rarely,Research & Development,14,Graduate,Life Sciences,4,Female,High,Laboratory Technician,1,Divorced," $3,034 ",1,No,2,3
+516,40,No,Travel_Rarely,Sales,2,Intermediate,Marketing,4,Female,High,Sales Executive,2,Divorced," $5,715 ",7,No,3,3
+517,42,No,Travel_Rarely,Research & Development,1,Masters,Life Sciences,2,Female,High,Laboratory Technician,1,Divorced," $2,576 ",3,No,3,3
+518,37,No,Travel_Rarely,Research & Development,10,Masters,Life Sciences,3,Male,High,Manufacturing Director,2,Single," $4,197 ",2,Yes,2,3
+520,43,No,Travel_Rarely,Research & Development,12,Graduate,Life Sciences,1,Male,Medium,Research Director,2,Divorced," $14,336 ",1,No,3,3
+521,40,No,Travel_Rarely,Research & Development,2,Graduate,Medical,2,Female,Medium,Laboratory Technician,3,Married," $3,448 ",6,No,3,4
+522,54,No,Travel_Rarely,Research & Development,5,Intermediate,Medical,1,Male,High,Research Director,1,Married," $19,406 ",4,No,2,3
+523,34,No,Non-Travel,Sales,4,Masters,Marketing,3,Female,High,Sales Executive,3,Married," $6,538 ",9,No,3,3
+524,31,No,Travel_Rarely,Research & Development,7,Intermediate,Medical,2,Female,High,Manufacturing Director,1,Married," $4,306 ",1,No,1,3
+525,43,No,Travel_Frequently,Research & Development,21,Graduate,Medical,4,Male,High,Laboratory Technician,4,Married," $2,258 ",7,No,3,4
+526,43,No,Travel_Rarely,Research & Development,8,Masters,Medical,3,Female,High,Healthcare Representative,3,Divorced," $4,522 ",4,Yes,3,3
+527,25,No,Travel_Rarely,Sales,4,Intermediate,Life Sciences,2,Female,Medium,Sales Executive,4,Single," $4,487 ",1,Yes,3,3
+529,37,No,Non-Travel,Research & Development,25,Doctorate,Medical,2,Female,High,Research Scientist,3,Married," $4,449 ",3,Yes,3,3
+530,31,No,Travel_Rarely,Research & Development,1,Intermediate,Life Sciences,4,Male,Medium,Laboratory Technician,1,Married," $2,218 ",1,No,3,3
+531,39,No,Travel_Frequently,Research & Development,1,SSC,Life Sciences,2,Male,High,Manager,3,Divorced," $19,197 ",1,Yes,3,3
+532,56,No,Travel_Frequently,Sales,6,Graduate,Life Sciences,3,Female,Very High,Sales Executive,1,Married," $13,212 ",9,No,2,3
+533,30,No,Travel_Rarely,Sales,12,Graduate,Technical Degree,2,Female,High,Sales Executive,3,Single," $6,577 ",0,No,3,3
+534,41,No,Travel_Rarely,Sales,1,Graduate,Marketing,2,Male,Very High,Sales Executive,1,Married," $8,392 ",1,No,3,3
+536,28,No,Travel_Rarely,Research & Development,17,Intermediate,Medical,3,Male,High,Laboratory Technician,1,Divorced," $4,558 ",1,No,3,3
+538,25,Yes,Travel_Rarely,Research & Development,3,Graduate,Medical,1,Male,High,Laboratory Technician,1,Married," $4,031 ",5,No,3,3
+543,52,No,Travel_Rarely,Research & Development,3,Graduate,Medical,4,Male,Medium,Manufacturing Director,3,Married," $7,969 ",2,Yes,3,3
+544,45,No,Travel_Rarely,Research & Development,10,Intermediate,Life Sciences,1,Male,High,Research Scientist,4,Married," $2,654 ",3,No,2,4
+546,52,No,Travel_Rarely,Research & Development,4,Intermediate,Life Sciences,4,Female,High,Manager,4,Married," $16,555 ",2,No,1,3
+547,42,No,Travel_Frequently,Research & Development,29,Intermediate,Life Sciences,1,Female,High,Research Scientist,3,Divorced," $4,556 ",2,No,3,3
+548,30,No,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,3,Female,Low,Manufacturing Director,4,Single," $6,091 ",2,No,3,4
+549,60,No,Travel_Rarely,Research & Development,7,Graduate,Life Sciences,1,Female,High,Manager,1,Married," $19,566 ",5,No,1,3
+550,46,No,Travel_Rarely,Research & Development,18,Graduate,Medical,3,Female,High,Manufacturing Director,3,Divorced," $4,810 ",2,No,2,3
+551,42,No,Travel_Frequently,Research & Development,28,Masters,Technical Degree,4,Female,Medium,Healthcare Representative,4,Married," $4,523 ",0,No,4,3
+554,24,Yes,Travel_Rarely,Sales,1,SSC,Technical Degree,1,Female,High,Sales Representative,2,Single," $3,202 ",1,Yes,3,3
+555,34,Yes,Travel_Frequently,Sales,6,Intermediate,Marketing,4,Female,Low,Sales Representative,3,Divorced," $2,351 ",0,No,2,3
+556,38,No,Travel_Frequently,Research & Development,2,Intermediate,Life Sciences,4,Male,High,Laboratory Technician,4,Married," $1,702 ",1,Yes,3,4
+558,40,No,Travel_Rarely,Sales,2,Masters,Life Sciences,3,Female,High,Manager,3,Married," $18,041 ",0,No,3,3
+560,26,No,Travel_Rarely,Research & Development,23,Graduate,Life Sciences,1,Female,High,Research Scientist,4,Divorced," $2,886 ",1,No,1,4
+562,30,No,Non-Travel,Research & Development,3,Graduate,Life Sciences,3,Male,High,Laboratory Technician,4,Married," $2,097 ",4,No,1,3
+564,29,No,Travel_Rarely,Research & Development,3,Masters,Medical,2,Male,Medium,Research Director,3,Married," $11,935 ",1,No,3,3
+565,29,Yes,Travel_Rarely,Research & Development,25,Doctorate,Technical Degree,3,Female,Medium,Research Scientist,2,Married," $2,546 ",5,No,4,3
+566,19,Yes,Travel_Rarely,Human Resources,2,Intermediate,Technical Degree,1,Male,Medium,Human Resources,4,Single," $2,564 ",1,No,4,3
+567,30,No,Non-Travel,Sales,22,Masters,Medical,3,Female,High,Sales Executive,1,Married," $8,412 ",0,No,3,3
+568,57,No,Travel_Rarely,Sales,29,Graduate,Marketing,1,Male,Medium,Manager,4,Divorced," $14,118 ",3,No,2,3
+569,50,No,Travel_Rarely,Research & Development,29,Masters,Life Sciences,2,Male,Medium,Manager,3,Married," $17,046 ",0,No,3,3
+571,30,No,Non-Travel,Research & Development,2,Graduate,Medical,3,Female,High,Laboratory Technician,4,Single," $2,564 ",0,No,2,3
+573,60,No,Travel_Frequently,Sales,28,Graduate,Marketing,3,Female,Medium,Sales Executive,1,Married," $10,266 ",4,No,4,3
+574,47,No,Travel_Rarely,Research & Development,2,Intermediate,Medical,1,Female,High,Manufacturing Director,4,Divorced," $5,070 ",5,No,3,3
+575,46,No,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,1,Male,High,Research Director,3,Married," $17,861 ",6,No,1,3
+577,35,No,Travel_Rarely,Research & Development,22,Graduate,Life Sciences,4,Male,Low,Laboratory Technician,3,Single," $4,230 ",0,No,3,3
+578,54,No,Travel_Rarely,Research & Development,8,Masters,Life Sciences,3,Female,High,Laboratory Technician,3,Single," $3,780 ",7,No,3,3
+579,34,No,Travel_Rarely,Research & Development,2,Masters,Life Sciences,4,Male,Medium,Research Scientist,3,Divorced," $2,768 ",3,No,3,3
+580,46,No,Travel_Rarely,Sales,10,Graduate,Marketing,3,Female,Medium,Sales Executive,4,Married," $9,071 ",2,Yes,3,3
+581,31,No,Travel_Rarely,Research & Development,9,SSC,Life Sciences,3,Male,High,Manufacturing Director,2,Divorced," $10,648 ",1,No,4,4
+582,33,Yes,Travel_Rarely,Research & Development,15,SSC,Medical,2,Male,High,Manager,3,Married," $13,610 ",7,Yes,4,3
+584,33,Yes,Travel_Rarely,Research & Development,10,SSC,Medical,1,Male,Low,Laboratory Technician,4,Divorced," $3,408 ",7,No,3,3
+585,30,No,Travel_Rarely,Sales,7,SSC,Marketing,4,Male,High,Sales Representative,2,Single," $2,983 ",0,No,3,3
+586,35,No,Travel_Rarely,Research & Development,16,Graduate,Life Sciences,4,Male,High,Healthcare Representative,3,Married," $7,632 ",4,Yes,3,3
+587,31,Yes,Travel_Frequently,Research & Development,20,Graduate,Life Sciences,1,Male,High,Healthcare Representative,3,Married," $9,824 ",3,No,3,3
+590,34,Yes,Travel_Frequently,Human Resources,23,Graduate,Human Resources,2,Female,High,Human Resources,1,Divorced," $9,950 ",9,Yes,3,3
+591,42,No,Travel_Frequently,Research & Development,5,Intermediate,Medical,2,Male,High,Laboratory Technician,3,Married," $2,093 ",4,No,3,3
+592,36,No,Non-Travel,Sales,10,Masters,Medical,2,Male,High,Sales Executive,4,Single," $9,980 ",1,No,2,3
+593,22,Yes,Travel_Frequently,Research & Development,4,SSC,Technical Degree,3,Male,Medium,Laboratory Technician,3,Single," $3,894 ",5,No,3,3
+595,48,No,Travel_Rarely,Sales,2,Doctorate,Marketing,2,Female,High,Sales Executive,4,Married," $4,051 ",2,No,3,3
+597,55,No,Travel_Rarely,Sales,18,Doctorate,Life Sciences,1,Female,High,Manager,2,Single," $16,835 ",3,No,3,4
+599,41,No,Non-Travel,Sales,10,Intermediate,Life Sciences,4,Male,High,Sales Executive,4,Single," $6,230 ",7,No,3,3
+600,35,No,Travel_Rarely,Sales,1,Graduate,Marketing,2,Male,High,Sales Executive,3,Married," $4,717 ",9,No,3,3
+601,40,No,Travel_Rarely,Research & Development,6,Graduate,Life Sciences,2,Female,High,Manufacturing Director,3,Single," $13,237 ",7,No,3,3
+602,39,No,Travel_Frequently,Research & Development,8,SSC,Life Sciences,3,Female,High,Laboratory Technician,3,Married," $3,755 ",1,No,3,3
+604,31,No,Travel_Rarely,Sales,2,SSC,Life Sciences,2,Male,High,Sales Executive,4,Single," $6,582 ",4,Yes,4,3
+605,42,No,Travel_Rarely,Research & Development,24,Graduate,Medical,4,Male,High,Manufacturing Director,1,Married," $7,406 ",1,Yes,2,4
+606,45,No,Travel_Rarely,Sales,2,Graduate,Medical,4,Male,High,Sales Executive,2,Married," $4,805 ",0,No,4,3
+608,26,Yes,Travel_Frequently,Human Resources,17,Masters,Life Sciences,2,Female,High,Human Resources,3,Divorced," $2,741 ",0,Yes,2,3
+611,29,No,Travel_Rarely,Research & Development,19,Graduate,Technical Degree,4,Male,High,Manufacturing Director,4,Divorced," $4,262 ",4,No,4,3
+612,33,No,Travel_Rarely,Research & Development,1,Doctorate,Medical,1,Female,Very High,Research Director,3,Divorced," $16,184 ",4,No,3,3
+613,31,No,Travel_Rarely,Sales,7,Graduate,Life Sciences,3,Male,Medium,Manager,4,Divorced," $11,557 ",9,No,2,4
+614,18,Yes,Travel_Frequently,Sales,5,Graduate,Marketing,2,Male,High,Sales Representative,2,Single," $1,878 ",1,Yes,3,3
+615,40,No,Non-Travel,Sales,28,Graduate,Medical,3,Male,Low,Sales Executive,1,Divorced," $10,932 ",3,No,3,3
+616,41,No,Non-Travel,Research & Development,2,Masters,Medical,1,Female,Medium,Healthcare Representative,3,Single," $6,811 ",2,Yes,3,3
+618,26,No,Travel_Rarely,Sales,29,Intermediate,Medical,1,Male,High,Sales Executive,3,Divorced," $4,306 ",5,No,3,3
+620,35,No,Travel_Rarely,Sales,1,Graduate,Medical,1,Female,High,Sales Executive,3,Single," $4,859 ",1,No,3,3
+621,34,No,Travel_Rarely,Sales,21,Masters,Life Sciences,4,Male,Very High,Sales Executive,4,Single," $5,337 ",1,No,3,3
+622,26,Yes,Travel_Rarely,Research & Development,24,Graduate,Technical Degree,3,Male,Low,Laboratory Technician,4,Single," $2,340 ",1,Yes,1,3
+623,37,No,Travel_Rarely,Research & Development,1,Graduate,Technical Degree,2,Female,High,Manufacturing Director,4,Single," $7,491 ",4,No,4,3
+624,46,No,Travel_Frequently,Research & Development,18,SSC,Medical,1,Female,High,Healthcare Representative,3,Married," $10,527 ",5,No,2,3
+625,41,No,Travel_Rarely,Sales,2,Doctorate,Life Sciences,2,Female,High,Manager,1,Married," $16,595 ",7,No,3,3
+626,37,No,Non-Travel,Sales,9,Masters,Medical,1,Male,High,Sales Executive,2,Divorced," $8,834 ",1,No,3,3
+630,52,No,Travel_Rarely,Research & Development,6,Intermediate,Technical Degree,4,Male,High,Research Scientist,1,Divorced," $5,577 ",3,Yes,3,3
+631,32,Yes,Non-Travel,Sales,11,Masters,Medical,4,Male,Very High,Sales Executive,3,Married," $4,707 ",8,No,3,3
+632,24,No,Travel_Frequently,Sales,24,Graduate,Medical,4,Male,High,Sales Representative,4,Married," $2,400 ",0,No,3,3
+634,38,No,Travel_Rarely,Research & Development,10,Graduate,Medical,3,Female,High,Healthcare Representative,3,Married," $9,824 ",3,No,3,3
+635,37,No,Travel_Rarely,Research & Development,1,Masters,Life Sciences,2,Female,High,Manufacturing Director,2,Married," $6,447 ",6,No,2,3
+638,49,No,Travel_Rarely,Research & Development,18,Masters,Life Sciences,4,Male,Medium,Research Director,3,Divorced," $19,502 ",1,Yes,3,3
+639,24,No,Travel_Rarely,Research & Development,23,Graduate,Medical,2,Male,Very High,Research Scientist,4,Married," $2,725 ",1,Yes,3,3
+641,26,No,Travel_Rarely,Sales,28,Intermediate,Marketing,1,Male,High,Sales Executive,2,Married," $6,272 ",1,No,4,4
+643,24,No,Travel_Rarely,Research & Development,17,Intermediate,Medical,4,Male,Medium,Laboratory Technician,2,Married," $2,127 ",1,No,3,4
+644,50,No,Travel_Frequently,Human Resources,3,Graduate,Medical,1,Male,High,Manager,2,Married," $18,200 ",1,No,3,3
+645,25,No,Travel_Rarely,Sales,13,SSC,Medical,2,Male,High,Sales Representative,3,Married," $2,096 ",1,No,3,3
+647,24,Yes,Travel_Frequently,Research & Development,7,Graduate,Life Sciences,1,Female,High,Laboratory Technician,3,Married," $2,886 ",1,Yes,3,3
+648,30,Yes,Travel_Frequently,Sales,12,Masters,Life Sciences,2,Male,Medium,Sales Representative,1,Married," $2,033 ",1,No,4,3
+649,34,No,Travel_Rarely,Research & Development,1,Intermediate,Life Sciences,2,Male,Medium,Research Scientist,4,Married," $3,622 ",1,Yes,3,3
+650,31,Yes,Travel_Rarely,Sales,13,Masters,Medical,2,Male,High,Sales Executive,1,Divorced," $4,233 ",2,No,1,3
+652,35,No,Travel_Rarely,Research & Development,25,Intermediate,Medical,1,Male,Medium,Laboratory Technician,4,Single," $3,681 ",4,No,3,3
+653,31,No,Travel_Rarely,Sales,6,Masters,Medical,1,Male,Very High,Sales Executive,4,Divorced," $5,460 ",4,No,4,4
+655,27,No,Travel_Rarely,Research & Development,6,Masters,Medical,1,Female,Medium,Research Scientist,3,Divorced," $2,187 ",0,No,2,3
+656,37,No,Travel_Rarely,Sales,2,Graduate,Marketing,4,Male,High,Sales Executive,3,Married," $9,602 ",4,Yes,2,3
+657,20,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,4,Female,Medium,Research Scientist,2,Single," $2,836 ",1,No,4,3
+659,42,No,Travel_Rarely,Research & Development,2,Masters,Life Sciences,3,Female,High,Healthcare Representative,4,Married," $4,089 ",1,No,3,3
+661,43,No,Travel_Rarely,Research & Development,6,Masters,Medical,2,Male,Medium,Research Director,4,Divorced," $16,627 ",4,Yes,2,3
+662,38,No,Travel_Rarely,Research & Development,1,SSC,Life Sciences,3,Female,High,Research Scientist,1,Single," $2,619 ",3,No,2,3
+663,43,No,Travel_Frequently,Research & Development,9,Doctorate,Medical,4,Male,High,Laboratory Technician,3,Divorced," $5,679 ",3,Yes,3,3
+664,48,No,Travel_Rarely,Research & Development,1,Masters,Life Sciences,4,Female,Medium,Manager,1,Married," $15,402 ",7,No,1,3
+665,44,No,Travel_Rarely,Human Resources,1,Masters,Life Sciences,1,Female,Medium,Human Resources,3,Single," $5,985 ",4,No,4,3
+666,34,No,Travel_Rarely,Sales,14,Graduate,Technical Degree,3,Female,High,Sales Representative,3,Divorced," $2,579 ",1,Yes,3,3
+667,27,Yes,Travel_Rarely,Sales,2,SSC,Marketing,3,Male,High,Sales Representative,1,Divorced," $3,041 ",0,No,3,3
+669,21,No,Travel_Rarely,Sales,22,SSC,Technical Degree,3,Male,High,Sales Representative,3,Single," $3,447 ",1,No,3,3
+671,44,No,Travel_Rarely,Research & Development,3,Masters,Medical,4,Male,High,Manager,4,Married," $19,513 ",4,Yes,4,3
+675,22,No,Travel_Rarely,Research & Development,6,SSC,Medical,1,Male,High,Research Scientist,3,Married," $2,773 ",0,No,3,4
+677,33,No,Travel_Rarely,Sales,8,Masters,Marketing,3,Male,High,Sales Executive,3,Divorced," $7,104 ",0,No,3,3
+679,32,No,Travel_Rarely,Research & Development,9,Masters,Life Sciences,1,Female,High,Research Scientist,4,Married," $6,322 ",1,Yes,2,3
+680,30,No,Travel_Frequently,Research & Development,3,Graduate,Medical,3,Female,High,Research Scientist,3,Divorced," $2,083 ",1,No,3,4
+682,53,No,Travel_Rarely,Sales,1,SSC,Medical,4,Female,High,Sales Executive,1,Single," $8,381 ",7,No,4,4
+683,34,No,Travel_Rarely,Research & Development,1,Doctorate,Life Sciences,2,Male,High,Research Scientist,4,Married," $2,691 ",1,No,2,3
+684,45,Yes,Travel_Frequently,Sales,26,Masters,Life Sciences,1,Female,High,Sales Executive,1,Married," $4,286 ",2,No,3,3
+686,26,No,Travel_Rarely,Research & Development,6,Graduate,Life Sciences,3,Female,High,Laboratory Technician,4,Married," $2,659 ",1,Yes,3,3
+689,37,No,Travel_Rarely,Research & Development,3,Graduate,Medical,3,Male,High,Manufacturing Director,3,Married," $9,434 ",1,No,3,3
+690,29,No,Travel_Rarely,Sales,3,Intermediate,Medical,2,Female,High,Sales Executive,3,Married," $5,561 ",1,No,2,3
+691,35,No,Travel_Rarely,Research & Development,6,Masters,Life Sciences,2,Male,Low,Research Scientist,4,Single," $6,646 ",1,No,3,3
+692,33,No,Travel_Frequently,Research & Development,6,Graduate,Life Sciences,3,Male,High,Healthcare Representative,4,Divorced," $7,725 ",3,No,1,4
+698,54,No,Travel_Rarely,Human Resources,19,Masters,Medical,3,Male,High,Human Resources,2,Married," $10,725 ",2,No,4,3
+699,36,No,Travel_Rarely,Research & Development,9,Intermediate,Medical,2,Male,Medium,Manufacturing Director,2,Divorced," $8,847 ",2,Yes,3,3
+700,27,No,Travel_Rarely,Research & Development,3,Masters,Medical,1,Male,Medium,Research Scientist,4,Single," $2,045 ",0,No,3,3
+701,20,Yes,Travel_Rarely,Research & Development,10,SSC,Medical,4,Male,High,Research Scientist,3,Single," $1,009 ",1,Yes,3,3
+702,33,Yes,Travel_Frequently,Research & Development,3,Graduate,Life Sciences,1,Male,High,Research Scientist,1,Single," $3,348 ",1,Yes,3,3
+704,35,No,Non-Travel,Research & Development,3,Graduate,Life Sciences,3,Male,Medium,Laboratory Technician,3,Married," $1,281 ",1,No,3,3
+705,23,No,Travel_Rarely,Research & Development,4,Graduate,Medical,1,Male,Very High,Research Scientist,1,Married," $2,819 ",2,No,4,3
+707,25,No,Travel_Rarely,Sales,8,Graduate,Life Sciences,4,Male,Very High,Sales Executive,2,Married," $4,851 ",0,No,3,4
+709,38,No,Travel_Rarely,Sales,7,Masters,Marketing,4,Female,Medium,Sales Executive,4,Single," $4,028 ",0,No,3,4
+710,29,No,Travel_Frequently,Research & Development,1,Masters,Life Sciences,2,Male,Low,Research Scientist,4,Divorced," $2,720 ",1,No,3,3
+712,48,No,Travel_Rarely,Sales,2,SSC,Marketing,2,Male,Very High,Sales Executive,2,Married," $8,120 ",3,No,3,3
+714,27,No,Travel_Frequently,Sales,3,SSC,Medical,4,Female,Very High,Sales Executive,4,Divorced," $4,647 ",1,Yes,3,4
+715,37,No,Travel_Rarely,Research & Development,10,Intermediate,Life Sciences,4,Male,Very High,Research Scientist,4,Single," $4,680 ",3,No,3,3
+716,50,No,Travel_Rarely,Research & Development,28,SSC,Medical,4,Male,Very High,Laboratory Technician,3,Married," $3,221 ",1,Yes,3,3
+717,34,No,Travel_Rarely,Research & Development,9,Graduate,Medical,4,Female,Medium,Healthcare Representative,2,Single," $8,621 ",1,No,4,3
+720,24,Yes,Travel_Rarely,Sales,3,Intermediate,Life Sciences,1,Female,High,Sales Executive,3,Single," $4,577 ",9,No,3,3
+721,39,No,Travel_Rarely,Research & Development,2,Masters,Technical Degree,4,Female,Medium,Healthcare Representative,3,Single," $4,553 ",1,No,3,3
+722,32,No,Travel_Rarely,Sales,10,Graduate,Marketing,4,Male,High,Sales Executive,4,Single," $5,396 ",1,No,2,3
+723,50,Yes,Travel_Frequently,Sales,8,Intermediate,Technical Degree,2,Male,High,Sales Executive,3,Married," $6,796 ",3,Yes,3,3
+724,38,No,Travel_Rarely,Research & Development,1,Masters,Life Sciences,2,Female,Very High,Healthcare Representative,4,Single," $7,625 ",0,No,2,3
+725,27,No,Travel_Rarely,Research & Development,1,Intermediate,Life Sciences,3,Female,High,Manufacturing Director,1,Married," $7,412 ",1,No,3,3
+727,32,No,Travel_Rarely,Research & Development,3,Intermediate,Life Sciences,3,Female,High,Research Director,4,Single," $11,159 ",3,No,3,3
+728,47,No,Travel_Rarely,Sales,14,Masters,Marketing,4,Male,High,Sales Executive,1,Single," $4,960 ",2,No,3,3
+729,40,No,Travel_Frequently,Sales,5,Masters,Life Sciences,4,Male,Medium,Sales Executive,1,Married," $10,475 ",5,Yes,3,4
+730,53,No,Travel_Rarely,Research & Development,7,Graduate,Life Sciences,3,Male,Very High,Research Director,3,Married," $14,814 ",3,No,3,3
+731,41,No,Travel_Rarely,Human Resources,10,Masters,Human Resources,2,Male,Medium,Manager,4,Divorced," $19,141 ",3,No,2,3
+732,60,No,Travel_Rarely,Sales,16,Masters,Marketing,1,Male,High,Sales Executive,1,Single," $5,405 ",8,No,3,3
+733,27,No,Travel_Frequently,Research & Development,10,Intermediate,Life Sciences,4,Male,High,Manufacturing Director,1,Divorced," $8,793 ",1,No,2,4
+734,41,No,Travel_Rarely,Human Resources,1,Graduate,Human Resources,4,Male,Medium,Manager,3,Married," $19,189 ",1,No,3,3
+738,50,No,Travel_Rarely,Sales,8,Masters,Marketing,4,Male,High,Sales Representative,2,Married," $3,875 ",7,No,3,3
+741,28,Yes,Travel_Rarely,Research & Development,1,Intermediate,Life Sciences,1,Female,Low,Research Scientist,2,Single," $2,216 ",7,Yes,3,3
+742,36,No,Non-Travel,Research & Development,8,Graduate,Life Sciences,1,Female,Very High,Research Director,1,Married," $11,713 ",9,No,3,3
+743,38,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,3,Female,High,Manufacturing Director,3,Single," $7,861 ",4,Yes,4,3
+744,44,No,Non-Travel,Research & Development,24,Graduate,Medical,1,Male,Low,Laboratory Technician,3,Single," $3,708 ",2,No,3,3
+746,47,No,Travel_Frequently,Sales,3,Graduate,Medical,4,Female,High,Sales Executive,3,Divorced," $13,770 ",9,Yes,2,3
+747,30,No,Travel_Rarely,Sales,27,Doctorate,Marketing,3,Male,High,Sales Executive,4,Divorced," $5,304 ",7,No,2,4
+749,29,No,Travel_Rarely,Sales,10,Graduate,Life Sciences,3,Male,High,Sales Representative,3,Single," $2,642 ",1,No,3,3
+752,42,Yes,Travel_Frequently,Research & Development,19,Graduate,Medical,3,Male,Very High,Research Scientist,3,Divorced," $2,759 ",6,Yes,3,3
+754,43,No,Travel_Frequently,Sales,15,Graduate,Life Sciences,4,Male,Medium,Sales Executive,4,Married," $6,804 ",3,No,3,3
+757,34,No,Travel_Rarely,Research & Development,8,Intermediate,Medical,2,Female,High,Healthcare Representative,3,Single," $6,142 ",3,No,3,3
+758,23,No,Travel_Rarely,Research & Development,9,SSC,Medical,2,Male,High,Laboratory Technician,1,Married," $2,500 ",1,No,4,3
+760,39,No,Travel_Rarely,Human Resources,3,Graduate,Human Resources,3,Female,Very High,Human Resources,2,Married," $6,389 ",9,No,1,3
+762,56,No,Travel_Rarely,Research & Development,9,Graduate,Medical,3,Male,High,Healthcare Representative,4,Married," $11,103 ",7,No,2,3
+763,40,No,Travel_Rarely,Research & Development,2,SSC,Medical,4,Female,Medium,Research Scientist,4,Single," $2,342 ",0,Yes,2,4
+764,27,No,Travel_Rarely,Research & Development,7,Graduate,Medical,4,Female,Medium,Healthcare Representative,1,Single," $6,811 ",8,No,1,3
+766,29,No,Travel_Rarely,Sales,10,Graduate,Marketing,4,Male,High,Sales Representative,2,Divorced," $2,297 ",1,No,3,3
+769,53,No,Travel_Rarely,Research & Development,6,Graduate,Life Sciences,4,Male,High,Laboratory Technician,4,Single," $2,450 ",2,No,3,3
+771,35,No,Non-Travel,Research & Development,2,Masters,Life Sciences,4,Female,High,Healthcare Representative,1,Divorced," $5,093 ",2,No,4,3
+772,32,No,Travel_Frequently,Research & Development,24,Masters,Life Sciences,1,Male,High,Laboratory Technician,4,Married," $5,309 ",1,No,3,3
+773,38,No,Travel_Rarely,Research & Development,2,Doctorate,Medical,4,Male,High,Research Scientist,3,Married," $3,057 ",6,Yes,1,3
+775,34,No,Travel_Rarely,Research & Development,8,Doctorate,Life Sciences,2,Female,High,Manufacturing Director,1,Divorced," $5,121 ",3,No,3,3
+776,52,No,Travel_Rarely,Sales,3,Masters,Marketing,3,Male,Medium,Manager,1,Married," $16,856 ",1,No,4,3
+780,33,Yes,Travel_Rarely,Research & Development,1,Masters,Medical,4,Male,High,Research Scientist,4,Single," $2,686 ",1,Yes,2,3
+781,25,No,Travel_Rarely,Sales,26,SSC,Medical,3,Female,High,Sales Executive,4,Single," $6,180 ",1,No,2,4
+783,45,No,Travel_Rarely,Sales,2,Intermediate,Technical Degree,2,Male,Low,Sales Representative,3,Single," $6,632 ",0,No,3,3
+784,23,No,Travel_Rarely,Research & Development,10,SSC,Medical,1,Male,Very High,Research Scientist,3,Single," $3,505 ",1,No,3,3
+785,47,Yes,Travel_Frequently,Sales,27,Intermediate,Life Sciences,2,Female,Very High,Sales Executive,3,Single," $6,397 ",4,Yes,3,3
+786,34,No,Travel_Rarely,Sales,2,Graduate,Medical,4,Male,High,Sales Executive,4,Single," $6,274 ",1,No,3,4
+787,55,Yes,Travel_Rarely,Research & Development,2,Graduate,Medical,4,Male,High,Manager,1,Married," $19,859 ",5,Yes,3,3
+789,36,No,Non-Travel,Sales,8,Masters,Life Sciences,1,Male,Medium,Sales Executive,1,Single," $7,587 ",1,No,3,3
+791,52,No,Non-Travel,Research & Development,19,Masters,Medical,4,Male,High,Research Scientist,4,Married," $4,258 ",0,No,3,3
+792,26,No,Travel_Frequently,Research & Development,1,Intermediate,Life Sciences,1,Female,Low,Laboratory Technician,4,Divorced," $4,364 ",3,No,3,3
+793,29,No,Travel_Rarely,Research & Development,27,Graduate,Medical,2,Female,High,Healthcare Representative,3,Married," $4,335 ",4,No,2,3
+796,26,Yes,Travel_Rarely,Sales,8,Graduate,Technical Degree,4,Male,Medium,Sales Executive,1,Single," $5,326 ",6,No,2,3
+797,34,No,Travel_Rarely,Research & Development,1,Masters,Life Sciences,2,Female,Very High,Research Scientist,4,Single," $3,280 ",2,No,3,3
+799,54,No,Travel_Rarely,Research & Development,19,Masters,Medical,4,Female,High,Manufacturing Director,1,Divorced," $5,485 ",9,Yes,3,3
+800,27,No,Travel_Frequently,Sales,8,SSC,Marketing,3,Male,High,Sales Executive,4,Married," $4,342 ",0,No,3,3
+802,37,No,Travel_Rarely,Research & Development,10,SSC,Life Sciences,4,Female,High,Research Scientist,1,Divorced," $2,782 ",0,Yes,2,3
+803,38,No,Travel_Frequently,Research & Development,2,Masters,Life Sciences,1,Female,Very High,Manufacturing Director,1,Single," $5,980 ",6,Yes,3,3
+804,34,No,Travel_Rarely,Research & Development,2,Masters,Medical,3,Female,Medium,Research Scientist,1,Single," $4,381 ",1,No,3,3
+805,35,No,Travel_Rarely,Sales,8,Masters,Life Sciences,1,Female,High,Sales Representative,4,Married," $2,572 ",1,No,2,3
+806,30,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,4,Male,Low,Laboratory Technician,3,Married," $3,833 ",3,No,3,4
+807,40,No,Travel_Frequently,Research & Development,2,Intermediate,Medical,3,Female,Very High,Healthcare Representative,2,Married," $4,244 ",1,No,3,4
+808,34,No,Travel_Rarely,Sales,8,Intermediate,Life Sciences,3,Female,High,Sales Executive,1,Married," $6,500 ",5,No,3,3
+809,42,No,Travel_Frequently,Research & Development,8,Graduate,Life Sciences,2,Male,High,Manager,4,Divorced," $18,430 ",1,No,2,3
+811,23,Yes,Travel_Rarely,Research & Development,6,Graduate,Life Sciences,3,Male,Very High,Laboratory Technician,1,Married," $1,601 ",1,Yes,3,4
+812,24,No,Non-Travel,Research & Development,9,Graduate,Life Sciences,3,Male,Medium,Laboratory Technician,2,Divorced," $2,694 ",1,No,3,3
+813,52,No,Travel_Rarely,Research & Development,11,Masters,Life Sciences,4,Female,High,Laboratory Technician,3,Married," $3,149 ",8,No,3,4
+815,50,No,Travel_Rarely,Research & Development,2,Graduate,Medical,3,Male,High,Research Director,3,Married," $17,639 ",5,No,3,3
+816,29,Yes,Travel_Rarely,Research & Development,1,Intermediate,Life Sciences,2,Female,Medium,Laboratory Technician,1,Married," $2,319 ",1,Yes,3,3
+817,33,No,Travel_Rarely,Research & Development,7,Graduate,Medical,3,Male,High,Research Director,3,Married," $11,691 ",0,No,4,3
+819,33,Yes,Travel_Rarely,Sales,16,Graduate,Marketing,1,Female,High,Sales Executive,1,Single," $5,324 ",5,No,3,3
+820,47,No,Travel_Rarely,Research & Development,2,Intermediate,Medical,3,Female,High,Manager,4,Married," $16,752 ",1,Yes,2,3
+823,36,No,Travel_Rarely,Research & Development,1,Graduate,Medical,3,Female,High,Manufacturing Director,2,Married," $5,228 ",0,No,3,3
+824,29,No,Travel_Rarely,Research & Development,23,Intermediate,Life Sciences,3,Male,Very High,Research Scientist,3,Married," $2,700 ",1,No,3,4
+825,58,Yes,Travel_Rarely,Research & Development,2,Masters,Life Sciences,4,Male,High,Research Director,2,Single," $19,246 ",7,Yes,3,3
+826,35,No,Travel_Rarely,Research & Development,1,Masters,Life Sciences,4,Female,Very High,Research Scientist,3,Single," $2,506 ",3,No,3,3
+827,42,No,Travel_Rarely,Research & Development,1,Intermediate,Life Sciences,4,Female,Medium,Manufacturing Director,4,Married," $6,062 ",9,Yes,3,3
+828,28,Yes,Travel_Rarely,Research & Development,2,Masters,Medical,3,Male,High,Research Scientist,3,Single," $4,382 ",6,No,2,3
+829,36,No,Travel_Rarely,Human Resources,13,Graduate,Human Resources,3,Male,High,Human Resources,2,Married," $2,143 ",4,No,3,3
+830,32,No,Travel_Rarely,Research & Development,4,Graduate,Life Sciences,3,Female,Medium,Manufacturing Director,3,Married," $6,162 ",1,No,3,3
+832,40,No,Travel_Frequently,Research & Development,16,Masters,Medical,1,Male,Medium,Laboratory Technician,3,Single," $5,094 ",6,No,3,3
+833,30,No,Travel_Rarely,Research & Development,2,Graduate,Medical,3,Female,Medium,Manufacturing Director,4,Single," $6,877 ",5,Yes,2,4
+834,45,No,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,2,Female,Medium,Research Scientist,3,Single," $2,274 ",1,No,3,3
+836,42,No,Travel_Rarely,Research & Development,29,Graduate,Life Sciences,2,Male,High,Manufacturing Director,2,Married," $4,434 ",1,No,2,3
+837,38,No,Travel_Frequently,Research & Development,12,Graduate,Life Sciences,1,Male,Medium,Healthcare Representative,1,Divorced," $6,288 ",2,No,2,3
+838,34,No,Travel_Frequently,Research & Development,16,Masters,Life Sciences,3,Female,Medium,Research Scientist,4,Single," $2,553 ",1,No,3,3
+840,49,Yes,Travel_Rarely,Sales,11,Graduate,Marketing,3,Female,High,Sales Executive,4,Married," $7,654 ",1,No,4,3
+842,55,Yes,Travel_Rarely,Sales,2,SSC,Medical,3,Male,High,Sales Executive,4,Single," $5,160 ",4,No,2,3
+843,43,No,Travel_Rarely,Research & Development,14,Intermediate,Life Sciences,2,Male,High,Research Director,1,Married," $17,159 ",6,No,3,4
+844,27,No,Travel_Rarely,Research & Development,5,SSC,Technical Degree,3,Male,Medium,Research Director,4,Divorced," $12,808 ",1,Yes,3,3
+845,35,No,Travel_Rarely,Research & Development,7,Graduate,Medical,3,Male,High,Manufacturing Director,3,Single," $10,221 ",3,No,4,4
+846,28,No,Travel_Rarely,Sales,2,Masters,Marketing,2,Female,High,Sales Executive,2,Married," $4,779 ",1,Yes,3,4
+847,34,No,Travel_Rarely,Human Resources,3,Intermediate,Human Resources,3,Male,High,Human Resources,4,Married," $3,737 ",0,No,1,3
+848,26,Yes,Travel_Frequently,Research & Development,5,Intermediate,Medical,3,Female,Medium,Research Scientist,3,Married," $2,366 ",1,Yes,3,3
+850,27,No,Non-Travel,Research & Development,3,Graduate,Medical,4,Male,High,Research Scientist,4,Married," $1,706 ",1,No,2,3
+851,51,No,Travel_Rarely,Sales,26,Masters,Marketing,1,Female,High,Manager,3,Married," $16,307 ",2,No,2,3
+852,44,No,Travel_Rarely,Research & Development,4,Graduate,Medical,4,Male,High,Healthcare Representative,2,Single," $5,933 ",9,No,2,3
+854,25,No,Travel_Rarely,Research & Development,2,SSC,Medical,1,Male,Very High,Research Scientist,1,Single," $3,424 ",7,No,2,3
+855,33,No,Travel_Rarely,Sales,1,Graduate,Medical,1,Male,Very High,Sales Executive,1,Divorced," $4,037 ",1,No,3,4
+856,35,No,Travel_Rarely,Research & Development,27,SSC,Medical,3,Female,Medium,Research Scientist,1,Single," $2,559 ",1,No,2,3
+857,36,No,Travel_Rarely,Sales,1,Intermediate,Life Sciences,2,Male,High,Sales Executive,4,Married," $6,201 ",1,Yes,2,3
+859,32,No,Travel_Rarely,Sales,13,Masters,Life Sciences,2,Male,High,Sales Executive,4,Divorced," $4,403 ",2,No,2,3
+861,30,No,Travel_Frequently,Research & Development,5,Masters,Life Sciences,2,Male,Medium,Research Scientist,4,Divorced," $3,761 ",9,No,2,3
+862,53,No,Travel_Rarely,Sales,7,Intermediate,Marketing,1,Female,Medium,Sales Executive,4,Married," $10,934 ",7,Yes,3,3
+864,45,No,Travel_Rarely,Sales,9,Graduate,Marketing,4,Male,High,Sales Executive,1,Divorced," $10,761 ",4,Yes,3,3
+865,32,No,Travel_Rarely,Research & Development,8,Intermediate,Medical,3,Female,Very High,Research Scientist,3,Married," $5,175 ",5,No,2,3
+867,52,No,Travel_Frequently,Research & Development,25,Masters,Medical,3,Female,Medium,Manufacturing Director,4,Married," $13,826 ",3,No,3,4
+868,37,No,Travel_Rarely,Sales,16,Masters,Marketing,4,Male,Medium,Sales Executive,3,Divorced," $6,334 ",4,No,3,3
+869,28,No,Travel_Rarely,Human Resources,8,Intermediate,Medical,2,Male,Medium,Human Resources,4,Divorced," $4,936 ",1,No,3,3
+872,22,No,Travel_Rarely,Research & Development,1,Intermediate,Life Sciences,4,Male,Medium,Manufacturing Director,4,Married," $4,775 ",6,No,1,4
+874,44,No,Travel_Rarely,Research & Development,8,Masters,Life Sciences,1,Male,Very High,Laboratory Technician,4,Married," $2,818 ",2,Yes,2,4
+875,42,No,Travel_Frequently,Research & Development,2,SSC,Medical,2,Male,High,Research Scientist,4,Single," $2,515 ",5,Yes,3,3
+878,36,No,Travel_Rarely,Human Resources,8,Graduate,Life Sciences,1,Male,Medium,Human Resources,1,Married," $2,342 ",0,No,3,4
+879,25,No,Travel_Rarely,Sales,3,SSC,Medical,3,Male,High,Sales Executive,1,Married," $4,194 ",1,Yes,3,3
+880,35,No,Travel_Rarely,Research & Development,9,Graduate,Life Sciences,4,Female,Medium,Manufacturing Director,3,Married," $10,685 ",1,Yes,3,4
+881,35,Yes,Travel_Frequently,Research & Development,25,Masters,Life Sciences,4,Female,High,Research Scientist,2,Divorced," $2,022 ",1,Yes,2,3
+882,32,No,Non-Travel,Research & Development,1,Graduate,Life Sciences,4,Male,High,Laboratory Technician,4,Divorced," $2,314 ",0,No,3,3
+885,25,No,Travel_Rarely,Sales,4,SSC,Marketing,3,Male,Medium,Sales Executive,1,Married," $4,256 ",1,No,4,3
+887,49,No,Travel_Rarely,Research & Development,1,Graduate,Technical Degree,3,Female,High,Research Scientist,1,Married," $3,580 ",2,No,3,3
+888,24,No,Non-Travel,Research & Development,4,SSC,Life Sciences,1,Male,Medium,Laboratory Technician,4,Married," $3,162 ",0,No,2,3
+889,32,No,Travel_Frequently,Sales,5,Intermediate,Life Sciences,2,Male,High,Sales Executive,2,Married," $6,524 ",1,No,3,3
+893,38,No,Travel_Rarely,Sales,9,Graduate,Marketing,2,Male,Medium,Sales Representative,2,Married," $2,899 ",0,No,3,3
+894,42,No,Travel_Rarely,Research & Development,3,Graduate,Life Sciences,3,Female,Very High,Laboratory Technician,4,Married," $5,231 ",2,Yes,2,3
+895,31,No,Travel_Rarely,Research & Development,11,Masters,Life Sciences,4,Male,High,Research Scientist,4,Married," $2,356 ",3,Yes,3,3
+896,29,Yes,Travel_Rarely,Sales,1,Graduate,Medical,2,Female,Medium,Sales Representative,3,Divorced," $2,800 ",6,Yes,3,3
+897,53,No,Travel_Rarely,Sales,8,Graduate,Marketing,1,Male,High,Sales Executive,4,Married," $11,836 ",5,No,3,3
+899,35,No,Travel_Rarely,Research & Development,25,Graduate,Technical Degree,4,Male,Medium,Manufacturing Director,2,Married," $10,903 ",3,No,3,3
+900,37,No,Travel_Frequently,Sales,21,Intermediate,Medical,3,Female,High,Sales Representative,4,Married," $2,973 ",5,No,3,3
+901,53,No,Travel_Rarely,Research & Development,23,Masters,Life Sciences,4,Female,High,Research Director,4,Single," $14,275 ",6,No,3,3
+902,43,No,Travel_Frequently,Research & Development,1,Graduate,Life Sciences,4,Female,High,Healthcare Representative,4,Married," $5,562 ",4,No,2,3
+903,47,No,Travel_Rarely,Sales,2,Intermediate,Marketing,3,Female,High,Sales Executive,4,Married," $4,537 ",0,Yes,3,4
+904,37,No,Non-Travel,Sales,19,Intermediate,Medical,1,Male,High,Sales Executive,2,Single," $7,642 ",1,Yes,3,3
+905,50,No,Non-Travel,Research & Development,2,Masters,Life Sciences,1,Male,High,Manager,1,Divorced," $17,924 ",1,No,3,3
+909,39,No,Travel_Rarely,Human Resources,2,Graduate,Life Sciences,4,Female,Medium,Human Resources,4,Married," $5,204 ",8,No,3,3
+910,33,No,Travel_Rarely,Human Resources,3,Intermediate,Human Resources,4,Male,High,Human Resources,2,Divorced," $2,277 ",3,Yes,4,3
+911,32,Yes,Travel_Rarely,Research & Development,25,Masters,Life Sciences,1,Male,High,Laboratory Technician,4,Single," $2,795 ",1,Yes,1,4
+912,29,No,Travel_Rarely,Research & Development,7,SSC,Medical,1,Female,Medium,Laboratory Technician,4,Divorced," $2,532 ",6,No,3,3
+913,44,No,Travel_Rarely,Research & Development,9,Intermediate,Life Sciences,2,Male,High,Research Scientist,1,Married," $2,559 ",1,Yes,3,3
+916,28,No,Travel_Rarely,Sales,5,Masters,Medical,1,Male,High,Sales Executive,4,Single," $4,908 ",1,No,3,3
+918,58,Yes,Travel_Frequently,Research & Development,2,SSC,Life Sciences,4,Male,Medium,Laboratory Technician,4,Divorced," $2,380 ",9,Yes,2,3
+920,43,No,Travel_Rarely,Research & Development,8,Graduate,Life Sciences,1,Female,High,Manufacturing Director,2,Divorced," $4,765 ",4,No,4,4
+922,20,Yes,Travel_Rarely,Sales,2,Graduate,Medical,3,Female,Medium,Sales Representative,3,Single," $2,044 ",1,No,2,3
+923,21,Yes,Travel_Rarely,Research & Development,18,SSC,Medical,4,Female,High,Research Scientist,4,Single," $2,693 ",1,No,2,3
+924,36,No,Travel_Rarely,Research & Development,14,SSC,Life Sciences,3,Male,High,Healthcare Representative,4,Married," $6,586 ",0,Yes,2,3
+925,47,No,Travel_Rarely,Sales,2,Masters,Life Sciences,4,Female,Medium,Sales Representative,4,Single," $3,294 ",1,Yes,2,3
+926,22,Yes,Travel_Rarely,Research & Development,3,SSC,Life Sciences,2,Female,High,Manufacturing Director,3,Married," $4,171 ",0,Yes,4,3
+927,41,Yes,Travel_Rarely,Research & Development,2,Masters,Life Sciences,2,Female,Low,Laboratory Technician,4,Divorced," $2,778 ",4,Yes,2,3
+930,28,No,Travel_Rarely,Research & Development,9,Graduate,Medical,3,Female,High,Research Scientist,3,Divorced," $2,377 ",5,No,3,3
+932,39,Yes,Travel_Rarely,Research & Development,6,Graduate,Medical,4,Male,High,Laboratory Technician,1,Married," $2,404 ",7,Yes,1,4
+933,27,No,Travel_Rarely,Research & Development,4,Graduate,Life Sciences,2,Female,High,Research Scientist,3,Single," $2,318 ",1,No,3,3
+934,34,No,Travel_Rarely,Research & Development,10,Graduate,Life Sciences,2,Male,High,Laboratory Technician,2,Divorced," $2,008 ",1,No,3,3
+936,42,No,Travel_Rarely,Sales,14,Intermediate,Medical,3,Female,Medium,Sales Executive,3,Single," $6,244 ",7,No,3,3
+939,33,No,Travel_Rarely,Research & Development,1,Masters,Medical,3,Male,Medium,Research Scientist,1,Single," $2,799 ",3,Yes,3,3
+940,58,No,Travel_Rarely,Research & Development,5,Graduate,Technical Degree,3,Female,Medium,Healthcare Representative,2,Divorced," $10,552 ",2,Yes,3,3
+941,31,No,Travel_Rarely,Sales,7,Masters,Life Sciences,2,Male,Medium,Sales Representative,3,Married," $2,329 ",3,No,4,3
+942,35,No,Travel_Rarely,Research & Development,21,SSC,Life Sciences,4,Female,High,Healthcare Representative,4,Married," $4,014 ",1,Yes,1,4
+944,49,No,Travel_Rarely,Research & Development,8,Intermediate,Medical,1,Female,High,Laboratory Technician,2,Married," $7,403 ",4,No,2,3
+945,48,No,Travel_Rarely,Research & Development,20,Masters,Medical,4,Male,High,Research Scientist,3,Married," $2,259 ",4,No,2,3
+947,31,No,Non-Travel,Sales,20,Intermediate,Marketing,4,Female,High,Sales Executive,3,Married," $6,932 ",1,No,2,3
+949,36,No,Travel_Rarely,Research & Development,7,Masters,Medical,2,Male,High,Research Scientist,4,Single," $4,678 ",2,No,3,3
+950,38,No,Travel_Rarely,Research & Development,1,Graduate,Technical Degree,4,Female,High,Research Director,1,Married," $13,582 ",1,No,3,3
+951,32,No,Non-Travel,Research & Development,1,Graduate,Life Sciences,3,Female,Medium,Laboratory Technician,2,Married," $2,332 ",6,No,3,4
+952,25,Yes,Travel_Rarely,Sales,19,Intermediate,Marketing,3,Male,Medium,Sales Representative,2,Married," $2,413 ",1,Yes,3,3
+954,40,No,Travel_Rarely,Sales,10,Masters,Marketing,1,Male,Medium,Sales Executive,2,Divorced," $9,705 ",2,No,2,3
+956,26,No,Travel_Frequently,Sales,1,Graduate,Medical,3,Male,Medium,Sales Executive,1,Single," $4,294 ",1,No,3,3
+957,41,No,Travel_Rarely,Research & Development,6,Graduate,Medical,4,Male,High,Laboratory Technician,1,Single," $4,721 ",2,Yes,3,3
+958,36,No,Travel_Rarely,Research & Development,2,Masters,Medical,3,Male,High,Laboratory Technician,3,Single," $2,519 ",4,No,3,4
+959,19,Yes,Travel_Rarely,Sales,21,Graduate,Medical,4,Male,Medium,Sales Representative,2,Single," $2,121 ",1,Yes,4,3
+960,20,Yes,Travel_Rarely,Research & Development,4,Graduate,Technical Degree,1,Male,High,Laboratory Technician,1,Single," $2,973 ",1,No,3,3
+961,31,No,Travel_Rarely,Research & Development,12,Graduate,Medical,4,Female,High,Healthcare Representative,4,Married," $5,855 ",0,Yes,1,3
+964,40,No,Travel_Frequently,Research & Development,9,Masters,Medical,4,Male,High,Research Scientist,2,Divorced," $3,617 ",8,Yes,3,3
+966,32,No,Travel_Rarely,Research & Development,3,Masters,Medical,3,Female,High,Manufacturing Director,1,Married," $6,725 ",1,No,4,3
+967,36,Yes,Travel_Rarely,Sales,3,SSC,Life Sciences,3,Male,Medium,Sales Executive,4,Married," $10,325 ",1,Yes,3,3
+969,33,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,2,Female,Medium,Healthcare Representative,4,Single," $6,949 ",0,No,3,3
+970,37,Yes,Travel_Rarely,Sales,1,Masters,Life Sciences,1,Male,Medium,Sales Executive,3,Married," $10,609 ",5,No,1,3
+972,45,No,Non-Travel,Research & Development,4,Intermediate,Life Sciences,3,Male,High,Laboratory Technician,2,Married," $4,447 ",1,No,2,3
+974,29,No,Travel_Frequently,Sales,20,Graduate,Technical Degree,3,Female,High,Sales Representative,4,Married," $2,157 ",1,No,3,3
+975,35,No,Travel_Rarely,Sales,18,Graduate,Medical,3,Female,High,Sales Executive,3,Married," $4,601 ",1,No,3,3
+976,52,No,Travel_Rarely,Research & Development,1,Intermediate,Life Sciences,4,Male,High,Manager,4,Married," $17,099 ",2,No,2,3
+977,58,Yes,Travel_Rarely,Research & Development,2,Graduate,Technical Degree,4,Male,High,Research Scientist,3,Single," $2,479 ",4,No,3,4
+981,53,No,Travel_Rarely,Sales,2,Intermediate,Medical,3,Male,High,Manager,3,Divorced," $14,852 ",6,No,4,3
+982,30,No,Travel_Rarely,Sales,8,Intermediate,Medical,3,Male,High,Sales Executive,3,Divorced," $7,264 ",5,No,4,3
+983,38,No,Non-Travel,Sales,10,Graduate,Technical Degree,3,Female,High,Sales Executive,4,Single," $5,666 ",1,Yes,3,3
+984,35,No,Travel_Rarely,Sales,3,Masters,Life Sciences,4,Male,High,Sales Executive,4,Divorced," $7,823 ",6,No,3,3
+985,39,No,Travel_Rarely,Sales,2,Doctorate,Life Sciences,1,Male,Very High,Sales Executive,3,Single," $7,880 ",0,No,3,3
+986,40,Yes,Non-Travel,Sales,24,Graduate,Life Sciences,2,Female,Very High,Sales Executive,2,Single," $13,194 ",4,Yes,2,3
+987,47,No,Travel_Frequently,Research & Development,16,Masters,Medical,3,Male,Very High,Manufacturing Director,3,Divorced," $5,067 ",1,Yes,4,3
+990,36,No,Non-Travel,Sales,8,Masters,Technical Degree,1,Male,High,Sales Executive,4,Divorced," $5,079 ",4,No,3,3
+991,31,Yes,Non-Travel,Research & Development,9,Intermediate,Medical,3,Male,Medium,Research Scientist,1,Single," $2,321 ",0,Yes,3,4
+992,33,No,Non-Travel,Sales,17,Graduate,Life Sciences,4,Male,High,Manager,3,Single," $17,444 ",1,No,3,3
+994,29,Yes,Travel_Rarely,Research & Development,10,Graduate,Life Sciences,4,Female,Medium,Research Scientist,1,Single," $2,404 ",6,Yes,3,4
+995,33,No,Travel_Rarely,Research & Development,13,SSC,Life Sciences,2,Female,High,Research Scientist,4,Single," $3,452 ",3,No,3,3
+996,45,No,Travel_Rarely,Research & Development,1,Masters,Medical,4,Female,High,Laboratory Technician,4,Divorced," $2,270 ",3,No,3,3
+997,50,No,Travel_Rarely,Research & Development,1,Intermediate,Medical,4,Male,High,Research Director,4,Divorced," $17,399 ",9,No,2,4
+998,33,No,Travel_Frequently,Research & Development,1,Masters,Medical,3,Female,Very High,Healthcare Representative,2,Married," $5,488 ",1,Yes,3,3
+999,41,No,Travel_Frequently,Research & Development,9,Graduate,Medical,1,Male,High,Research Director,3,Divorced," $19,419 ",2,No,4,3
+1001,27,No,Travel_Rarely,Research & Development,16,Masters,Technical Degree,3,Female,High,Laboratory Technician,2,Married," $2,811 ",9,No,3,3
+1002,45,No,Non-Travel,Research & Development,23,Intermediate,Life Sciences,4,Male,High,Laboratory Technician,1,Married," $3,633 ",1,Yes,3,3
+1003,47,No,Travel_Rarely,Sales,4,Intermediate,Life Sciences,4,Female,High,Sales Executive,4,Single," $4,163 ",1,Yes,3,3
+1004,30,Yes,Travel_Rarely,Research & Development,22,Graduate,Life Sciences,1,Female,High,Research Scientist,3,Married," $2,132 ",4,Yes,3,3
+1005,50,No,Travel_Rarely,Research & Development,24,Graduate,Life Sciences,4,Male,High,Manufacturing Director,3,Married," $13,973 ",3,Yes,3,3
+1006,38,No,Travel_Frequently,Research & Development,10,SSC,Medical,3,Male,High,Research Scientist,3,Married," $2,684 ",0,No,2,3
+1007,46,No,Travel_Rarely,Research & Development,7,Intermediate,Medical,4,Male,High,Manufacturing Director,3,Divorced," $10,845 ",6,No,3,3
+1009,24,No,Travel_Rarely,Research & Development,17,SSC,Medical,4,Female,Medium,Manufacturing Director,3,Divorced," $4,377 ",1,No,3,3
+1010,35,Yes,Travel_Rarely,Research & Development,14,Masters,Medical,3,Male,Medium,Laboratory Technician,2,Divorced," $3,743 ",1,Yes,1,4
+1011,31,No,Travel_Frequently,Research & Development,1,SSC,Life Sciences,3,Female,High,Manufacturing Director,1,Married," $4,148 ",1,No,3,3
+1012,18,No,Non-Travel,Research & Development,5,Intermediate,Life Sciences,2,Male,High,Research Scientist,4,Single," $1,051 ",1,No,3,3
+1013,54,No,Travel_Rarely,Research & Development,17,Graduate,Technical Degree,3,Female,High,Manufacturing Director,3,Married," $10,739 ",8,No,3,3
+1014,35,No,Travel_Rarely,Research & Development,25,Masters,Medical,3,Female,High,Healthcare Representative,3,Divorced," $10,388 ",1,Yes,2,3
+1015,30,No,Travel_Rarely,Research & Development,8,Intermediate,Life Sciences,2,Female,Very High,Research Director,1,Married," $11,416 ",0,Yes,2,3
+1016,20,Yes,Travel_Rarely,Research & Development,11,Graduate,Medical,4,Female,Medium,Research Scientist,1,Single," $2,600 ",1,Yes,3,3
+1017,30,Yes,Travel_Frequently,Research & Development,5,Graduate,Medical,2,Female,High,Laboratory Technician,2,Single," $2,422 ",0,No,3,3
+1018,26,No,Travel_Rarely,Research & Development,2,Intermediate,Medical,4,Male,Very High,Manufacturing Director,4,Married," $5,472 ",1,No,3,3
+1019,22,No,Travel_Rarely,Research & Development,8,SSC,Life Sciences,2,Male,Low,Laboratory Technician,1,Married," $2,451 ",1,No,2,3
+1022,48,No,Travel_Rarely,Research & Development,6,Graduate,Life Sciences,1,Male,Medium,Healthcare Representative,3,Single," $4,240 ",2,No,3,3
+1024,48,No,Travel_Rarely,Research & Development,4,Masters,Life Sciences,3,Male,Medium,Healthcare Representative,3,Single," $10,999 ",7,No,3,3
+1025,41,No,Travel_Rarely,Research & Development,7,Intermediate,Medical,4,Female,High,Manufacturing Director,3,Single," $5,003 ",6,No,3,3
+1026,39,No,Travel_Rarely,Research & Development,1,SSC,Life Sciences,4,Female,Medium,Manufacturing Director,4,Married," $12,742 ",1,No,3,3
+1027,27,No,Travel_Rarely,Research & Development,2,Masters,Life Sciences,1,Female,High,Manufacturing Director,4,Married," $4,227 ",0,No,3,3
+1028,35,No,Travel_Rarely,Research & Development,10,Graduate,Medical,2,Male,High,Laboratory Technician,4,Divorced," $3,917 ",1,No,2,4
+1029,42,No,Travel_Rarely,Sales,5,Intermediate,Marketing,4,Male,High,Manager,3,Married," $18,303 ",6,No,4,3
+1030,50,No,Travel_Rarely,Research & Development,9,Graduate,Life Sciences,1,Male,High,Laboratory Technician,4,Married," $2,380 ",4,No,3,3
+1032,59,No,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,3,Female,Medium,Manufacturing Director,4,Single," $13,726 ",3,Yes,3,3
+1033,37,Yes,Travel_Rarely,Research & Development,11,Intermediate,Medical,1,Female,Low,Healthcare Representative,2,Married," $4,777 ",5,No,1,3
+1034,55,No,Travel_Frequently,Research & Development,18,Masters,Medical,3,Male,High,Healthcare Representative,2,Married," $6,385 ",3,Yes,3,3
+1035,41,No,Non-Travel,Research & Development,7,SSC,Life Sciences,2,Female,Low,Research Director,3,Divorced," $19,973 ",1,No,3,4
+1036,38,No,Travel_Rarely,Sales,3,Masters,Life Sciences,2,Male,High,Sales Executive,4,Single," $6,861 ",8,Yes,3,3
+1037,26,Yes,Non-Travel,Sales,29,Intermediate,Medical,2,Male,Low,Sales Executive,1,Single," $4,969 ",8,No,3,3
+1038,52,Yes,Travel_Rarely,Sales,2,SSC,Marketing,1,Female,Low,Manager,4,Married," $19,845 ",1,No,3,3
+1039,44,No,Travel_Rarely,Sales,28,Graduate,Medical,4,Female,Very High,Sales Executive,4,Married," $13,320 ",3,Yes,3,3
+1040,50,No,Non-Travel,Sales,1,Graduate,Life Sciences,4,Female,High,Sales Executive,3,Married," $6,347 ",0,No,3,3
+1042,36,Yes,Travel_Rarely,Research & Development,16,Masters,Life Sciences,3,Female,Very High,Laboratory Technician,1,Single," $2,743 ",1,No,3,3
+1043,39,No,Travel_Frequently,Research & Development,22,Graduate,Medical,4,Female,High,Manufacturing Director,1,Single," $10,880 ",1,Yes,3,3
+1044,33,No,Non-Travel,Sales,8,SSC,Life Sciences,2,Female,Medium,Sales Representative,4,Single," $2,342 ",0,No,2,3
+1045,45,No,Travel_Rarely,Sales,11,Intermediate,Life Sciences,4,Female,High,Manager,4,Married," $17,650 ",3,No,4,3
+1046,32,No,Non-Travel,Research & Development,29,Masters,Medical,4,Female,High,Laboratory Technician,3,Single," $4,025 ",9,No,3,3
+1047,34,No,Travel_Rarely,Sales,1,Masters,Marketing,2,Male,Very High,Sales Executive,4,Divorced," $9,725 ",0,No,2,3
+1048,59,No,Travel_Rarely,Sales,1,Intermediate,Technical Degree,2,Male,High,Manager,4,Married," $11,904 ",3,Yes,1,3
+1049,45,No,Travel_Rarely,Human Resources,24,Masters,Medical,2,Male,High,Human Resources,2,Single," $2,177 ",1,No,3,3
+1050,53,No,Travel_Frequently,Sales,2,Graduate,Marketing,3,Female,Medium,Sales Executive,2,Married," $7,525 ",2,No,3,3
+1052,36,Yes,Travel_Rarely,Research & Development,15,Graduate,Medical,1,Male,High,Laboratory Technician,3,Divorced," $4,834 ",7,No,2,3
+1053,26,Yes,Travel_Frequently,Research & Development,2,Graduate,Life Sciences,1,Male,High,Research Scientist,1,Married," $2,042 ",6,Yes,3,3
+1055,34,No,Travel_Rarely,Sales,10,Masters,Life Sciences,3,Female,High,Sales Representative,3,Married," $2,220 ",1,Yes,3,3
+1056,28,No,Travel_Rarely,Sales,10,SSC,Medical,4,Male,High,Sales Representative,2,Married," $1,052 ",1,No,3,4
+1060,38,No,Travel_Frequently,Research & Development,3,Masters,Medical,3,Male,High,Research Scientist,3,Married," $2,821 ",3,No,3,3
+1061,50,No,Travel_Rarely,Research & Development,2,Masters,Medical,2,Male,High,Research Director,3,Married," $19,237 ",2,Yes,2,3
+1062,37,No,Travel_Rarely,Research & Development,3,Graduate,Medical,4,Female,High,Healthcare Representative,2,Single," $4,107 ",3,No,2,3
+1066,40,No,Travel_Rarely,Sales,26,Graduate,Marketing,3,Male,High,Sales Executive,1,Married," $8,396 ",1,No,2,3
+1068,26,No,Travel_Frequently,Research & Development,1,SSC,Medical,1,Female,Medium,Research Scientist,3,Divorced," $2,007 ",1,No,3,3
+1069,46,No,Travel_Rarely,Research & Development,1,Masters,Medical,4,Male,High,Research Director,4,Divorced," $19,627 ",9,No,3,3
+1070,54,No,Travel_Rarely,Sales,2,Masters,Life Sciences,3,Female,Medium,Sales Executive,3,Married," $10,686 ",6,No,3,3
+1071,56,No,Travel_Frequently,Research & Development,9,Graduate,Medical,1,Female,High,Research Scientist,3,Married," $2,942 ",2,No,3,3
+1073,36,No,Travel_Rarely,Research & Development,12,Doctorate,Medical,4,Female,Medium,Manufacturing Director,4,Single," $8,858 ",0,No,2,3
+1074,55,No,Non-Travel,Research & Development,2,SSC,Medical,3,Male,Medium,Manager,1,Single," $16,756 ",7,No,4,3
+1076,43,No,Travel_Rarely,Sales,25,Graduate,Medical,3,Male,Medium,Sales Executive,4,Divorced," $10,798 ",5,No,3,3
+1077,20,Yes,Travel_Frequently,Sales,9,Graduate,Marketing,4,Female,High,Sales Representative,4,Single," $2,323 ",1,Yes,3,3
+1079,21,Yes,Travel_Rarely,Research & Development,10,Graduate,Life Sciences,3,Female,Medium,Laboratory Technician,1,Single," $1,416 ",1,No,2,3
+1080,46,No,Travel_Rarely,Research & Development,8,Masters,Life Sciences,4,Female,Medium,Research Scientist,1,Divorced," $4,615 ",8,Yes,3,4
+1081,51,Yes,Travel_Rarely,Research & Development,4,Masters,Life Sciences,1,Male,High,Research Scientist,3,Married," $2,461 ",9,Yes,4,3
+1082,28,Yes,Non-Travel,Research & Development,24,Intermediate,Technical Degree,2,Male,Medium,Healthcare Representative,1,Single," $8,722 ",1,No,2,3
+1083,26,No,Travel_Rarely,Research & Development,1,Intermediate,Medical,1,Male,Medium,Laboratory Technician,1,Married," $3,955 ",1,No,3,3
+1084,30,No,Travel_Rarely,Research & Development,20,Graduate,Medical,3,Male,High,Manufacturing Director,1,Married," $9,957 ",0,No,2,3
+1085,41,No,Travel_Rarely,Research & Development,7,Intermediate,Technical Degree,2,Female,Very High,Research Scientist,3,Married," $3,376 ",1,No,3,3
+1088,38,No,Travel_Rarely,Research & Development,17,SSC,Life Sciences,3,Female,Medium,Healthcare Representative,3,Married," $8,823 ",0,No,2,3
+1092,40,No,Travel_Rarely,Research & Development,20,Masters,Technical Degree,1,Male,High,Healthcare Representative,4,Married," $10,322 ",4,No,3,4
+1094,27,No,Non-Travel,Research & Development,8,Doctorate,Life Sciences,1,Male,Low,Laboratory Technician,3,Married," $4,621 ",1,No,3,3
+1096,55,No,Travel_Frequently,Research & Development,2,SSC,Life Sciences,4,Male,High,Manufacturing Director,2,Married," $10,976 ",3,No,3,3
+1097,28,No,Travel_Rarely,Research & Development,10,Graduate,Medical,3,Female,High,Research Scientist,3,Single," $3,660 ",3,No,4,3
+1098,44,Yes,Travel_Rarely,Human Resources,1,Intermediate,Medical,2,Male,Medium,Human Resources,1,Married," $10,482 ",9,No,3,3
+1099,33,No,Travel_Rarely,Research & Development,5,Graduate,Life Sciences,4,Male,Medium,Healthcare Representative,4,Divorced," $7,119 ",4,No,3,3
+1100,35,Yes,Travel_Rarely,Sales,4,Graduate,Technical Degree,4,Male,High,Sales Executive,1,Single," $9,582 ",0,Yes,3,4
+1101,33,Yes,Travel_Frequently,Research & Development,29,Masters,Medical,1,Female,Medium,Research Scientist,3,Single," $4,508 ",1,No,3,4
+1102,28,No,Travel_Rarely,Research & Development,15,Intermediate,Life Sciences,1,Male,High,Laboratory Technician,3,Divorced," $2,207 ",1,No,2,3
+1103,34,No,Travel_Frequently,Research & Development,3,SSC,Life Sciences,1,Male,High,Healthcare Representative,4,Single," $7,756 ",0,No,2,3
+1105,37,No,Travel_Rarely,Sales,10,Masters,Life Sciences,4,Female,Medium,Sales Executive,4,Divorced," $6,694 ",2,Yes,3,3
+1106,25,Yes,Travel_Rarely,Research & Development,4,SSC,Technical Degree,4,Male,High,Laboratory Technician,4,Married," $3,691 ",1,Yes,4,3
+1107,26,Yes,Travel_Rarely,Research & Development,21,Graduate,Medical,1,Male,High,Laboratory Technician,3,Divorced," $2,377 ",1,No,2,4
+1108,33,Yes,Travel_Rarely,Research & Development,25,Graduate,Medical,1,Male,Medium,Research Scientist,2,Single," $2,313 ",4,Yes,3,4
+1109,42,No,Travel_Rarely,Research & Development,2,Intermediate,Medical,4,Male,High,Manager,1,Married," $17,665 ",0,No,3,3
+1111,28,Yes,Travel_Frequently,Research & Development,1,Graduate,Medical,1,Male,Medium,Laboratory Technician,2,Divorced," $2,596 ",1,No,3,3
+1113,50,Yes,Travel_Frequently,Sales,1,Masters,Medical,4,Male,High,Sales Executive,3,Single," $4,728 ",3,Yes,3,3
+1114,33,No,Travel_Frequently,Sales,7,Graduate,Life Sciences,4,Female,High,Sales Executive,2,Married," $4,302 ",0,No,3,3
+1115,34,No,Non-Travel,Research & Development,3,Masters,Life Sciences,3,Male,Medium,Research Scientist,4,Married," $2,979 ",3,No,3,3
+1116,48,No,Non-Travel,Research & Development,1,Masters,Medical,1,Male,Very High,Manager,4,Single," $16,885 ",2,No,2,4
+1117,45,No,Non-Travel,Sales,9,Masters,Life Sciences,2,Female,Medium,Sales Executive,3,Married," $5,593 ",1,No,3,3
+1118,52,No,Travel_Rarely,Research & Development,7,Masters,Life Sciences,2,Male,High,Healthcare Representative,2,Single," $10,445 ",7,No,3,3
+1119,38,No,Travel_Rarely,Sales,10,Masters,Marketing,3,Male,Medium,Sales Executive,3,Divorced," $8,740 ",0,Yes,3,3
+1120,29,No,Travel_Rarely,Research & Development,28,Masters,Life Sciences,3,Female,High,Research Scientist,4,Divorced," $2,514 ",4,No,3,4
+1121,28,No,Travel_Rarely,Research & Development,3,Graduate,Medical,4,Female,High,Manufacturing Director,2,Divorced," $7,655 ",0,No,2,3
+1124,46,No,Travel_Rarely,Sales,3,SSC,Marketing,1,Male,High,Manager,3,Married," $17,465 ",3,No,3,3
+1125,38,No,Travel_Rarely,Sales,2,Intermediate,Marketing,4,Male,High,Sales Executive,2,Single," $7,351 ",7,No,3,3
+1126,43,No,Travel_Frequently,Research & Development,27,Graduate,Life Sciences,3,Female,High,Manufacturing Director,1,Married," $10,820 ",8,No,3,3
+1127,39,Yes,Travel_Frequently,Research & Development,2,Graduate,Life Sciences,1,Male,High,Healthcare Representative,4,Divorced," $12,169 ",7,No,3,3
+1128,40,No,Travel_Rarely,Research & Development,14,Graduate,Medical,3,Male,Medium,Research Director,3,Single," $19,626 ",1,No,4,3
+1131,21,No,Travel_Rarely,Research & Development,1,SSC,Technical Degree,4,Female,Medium,Research Scientist,2,Single," $2,070 ",1,Yes,4,3
+1132,39,No,Non-Travel,Research & Development,9,Graduate,Life Sciences,3,Male,High,Laboratory Technician,2,Single," $6,782 ",9,No,2,3
+1133,36,No,Non-Travel,Research & Development,18,Masters,Life Sciences,1,Male,High,Manufacturing Director,4,Single," $7,779 ",2,No,3,4
+1135,31,No,Travel_Frequently,Sales,20,Graduate,Life Sciences,3,Male,Very High,Sales Representative,4,Married," $2,791 ",0,No,3,3
+1136,28,No,Travel_Rarely,Research & Development,2,SSC,Life Sciences,1,Male,Medium,Research Scientist,2,Married," $3,201 ",0,No,1,3
+1137,35,No,Travel_Frequently,Sales,11,Intermediate,Marketing,4,Male,High,Sales Executive,4,Divorced," $4,968 ",1,No,3,3
+1138,49,No,Travel_Rarely,Sales,8,Masters,Technical Degree,4,Male,Medium,Sales Executive,2,Married," $13,120 ",6,No,3,3
+1140,34,No,Travel_Frequently,Research & Development,2,Intermediate,Life Sciences,4,Male,High,Manufacturing Director,3,Single," $4,033 ",2,No,2,3
+1143,29,No,Travel_Frequently,Research & Development,10,Graduate,Life Sciences,4,Female,High,Research Scientist,2,Divorced," $3,291 ",0,No,2,3
+1148,42,No,Travel_Rarely,Research & Development,29,Graduate,Medical,2,Male,Low,Laboratory Technician,4,Single," $4,272 ",4,No,3,3
+1150,29,No,Travel_Rarely,Research & Development,8,SSC,Medical,2,Male,Medium,Manufacturing Director,4,Married," $5,056 ",1,Yes,2,3
+1152,38,No,Travel_Rarely,Human Resources,1,Graduate,Human Resources,3,Male,Very High,Human Resources,3,Married," $2,844 ",1,No,4,3
+1154,28,No,Travel_Frequently,Research & Development,6,Graduate,Life Sciences,3,Male,Medium,Research Scientist,3,Divorced," $2,703 ",1,Yes,3,3
+1156,18,Yes,Non-Travel,Research & Development,8,SSC,Medical,3,Male,High,Laboratory Technician,3,Single," $1,904 ",1,No,3,3
+1157,33,Yes,Travel_Rarely,Sales,9,Masters,Marketing,1,Female,High,Sales Executive,1,Single," $8,224 ",0,Yes,3,3
+1158,41,No,Travel_Rarely,Research & Development,12,Masters,Life Sciences,2,Male,High,Laboratory Technician,4,Married," $4,766 ",3,Yes,3,3
+1160,31,Yes,Travel_Frequently,Research & Development,15,Graduate,Medical,3,Male,High,Laboratory Technician,3,Married," $2,610 ",1,No,2,3
+1161,37,No,Travel_Rarely,Research & Development,25,Intermediate,Medical,3,Female,Medium,Healthcare Representative,4,Divorced," $5,731 ",7,No,3,3
+1162,27,No,Travel_Rarely,Research & Development,6,Graduate,Life Sciences,4,Male,Medium,Research Scientist,3,Married," $2,539 ",1,No,3,3
+1163,34,No,Travel_Rarely,Sales,9,SSC,Life Sciences,2,Female,High,Sales Executive,3,Married," $5,714 ",1,No,2,4
+1164,35,No,Travel_Rarely,Human Resources,8,Masters,Technical Degree,3,Male,High,Human Resources,3,Single," $4,323 ",1,No,1,3
+1165,29,Yes,Travel_Rarely,Sales,23,SSC,Life Sciences,4,Female,Medium,Sales Executive,1,Married," $7,336 ",1,No,1,3
+1166,40,No,Travel_Frequently,Research & Development,9,Masters,Medical,2,Female,High,Research Director,3,Single," $13,499 ",9,No,2,3
+1167,42,Yes,Travel_Frequently,Sales,12,Graduate,Life Sciences,3,Male,High,Sales Executive,1,Single," $13,758 ",0,Yes,2,3
+1171,42,No,Travel_Rarely,Sales,4,Masters,Marketing,2,Male,High,Sales Executive,1,Single," $5,155 ",7,No,4,3
+1172,35,No,Travel_Rarely,Research & Development,1,Masters,Medical,4,Male,Medium,Laboratory Technician,3,Married," $2,258 ",6,No,3,3
+1173,24,No,Travel_Rarely,Research & Development,24,Graduate,Medical,4,Male,High,Laboratory Technician,2,Single," $3,597 ",8,No,3,4
+1175,28,Yes,Travel_Rarely,Research & Development,12,SSC,Life Sciences,3,Female,High,Laboratory Technician,4,Married," $2,515 ",1,Yes,2,3
+1177,26,No,Travel_Rarely,Research & Development,3,Masters,Medical,1,Male,Very High,Laboratory Technician,4,Married," $4,420 ",1,No,3,4
+1179,30,No,Travel_Rarely,Sales,10,Graduate,Marketing,3,Male,Medium,Sales Executive,3,Married," $6,578 ",1,No,3,3
+1180,40,No,Travel_Frequently,Research & Development,26,Intermediate,Medical,3,Female,Medium,Research Scientist,4,Married," $4,422 ",3,Yes,1,3
+1182,35,No,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,3,Male,Medium,Manufacturing Director,2,Divorced," $10,274 ",2,No,4,3
+1184,34,No,Travel_Frequently,Research & Development,1,Graduate,Medical,4,Male,Medium,Healthcare Representative,1,Single," $5,343 ",0,No,3,4
+1185,35,No,Travel_Frequently,Research & Development,4,Masters,Medical,4,Male,Medium,Laboratory Technician,4,Married," $2,376 ",1,No,4,3
+1188,43,Yes,Travel_Rarely,Sales,9,Graduate,Marketing,1,Female,Low,Sales Executive,3,Single," $5,346 ",8,No,2,3
+1190,32,No,Non-Travel,Sales,2,SSC,Life Sciences,3,Female,High,Sales Representative,1,Divorced," $2,827 ",1,No,3,3
+1191,56,No,Travel_Rarely,Research & Development,4,Masters,Technical Degree,4,Female,High,Manager,1,Divorced," $19,943 ",4,No,3,3
+1192,29,No,Travel_Rarely,Research & Development,6,SSC,Medical,2,Female,High,Laboratory Technician,4,Married," $3,131 ",1,No,3,3
+1193,19,No,Travel_Rarely,Research & Development,9,Intermediate,Life Sciences,3,Male,High,Research Scientist,1,Single," $2,552 ",1,No,3,4
+1195,45,No,Travel_Rarely,Research & Development,7,Graduate,Medical,1,Female,High,Research Scientist,3,Married," $4,477 ",4,Yes,2,3
+1196,37,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,4,Female,Medium,Manufacturing Director,4,Married," $6,474 ",1,No,2,3
+1198,20,No,Travel_Rarely,Research & Development,3,Graduate,Life Sciences,1,Male,Medium,Laboratory Technician,3,Single," $3,033 ",1,No,2,3
+1200,44,Yes,Travel_Rarely,Research & Development,10,Masters,Life Sciences,3,Male,High,Research Scientist,3,Single," $2,936 ",1,Yes,3,3
+1201,53,No,Travel_Rarely,Research & Development,7,Intermediate,Medical,4,Female,High,Manager,3,Divorced," $18,606 ",3,No,3,3
+1202,29,No,Travel_Rarely,Research & Development,15,SSC,Life Sciences,2,Female,Low,Research Scientist,4,Married," $2,168 ",0,Yes,2,3
+1203,22,Yes,Travel_Frequently,Research & Development,3,Masters,Life Sciences,3,Male,Medium,Research Scientist,4,Married," $2,853 ",0,Yes,3,3
+1204,46,No,Travel_Rarely,Sales,2,Graduate,Marketing,3,Female,High,Manager,1,Married," $17,048 ",8,No,3,4
+1206,44,No,Non-Travel,Research & Development,17,Graduate,Life Sciences,4,Male,Low,Research Scientist,3,Single," $2,290 ",2,No,3,3
+1207,33,No,Travel_Rarely,Human Resources,2,Graduate,Human Resources,2,Male,High,Human Resources,3,Married," $3,600 ",1,No,3,3
+1210,41,Yes,Non-Travel,Research & Development,5,Intermediate,Life Sciences,1,Male,Medium,Research Scientist,1,Divorced," $2,107 ",6,No,1,3
+1211,30,No,Travel_Rarely,Sales,29,Masters,Life Sciences,3,Male,High,Sales Executive,1,Divorced," $4,115 ",8,No,3,3
+1212,40,No,Travel_Frequently,Sales,2,Masters,Medical,2,Male,High,Sales Executive,2,Married," $4,327 ",5,No,3,3
+1215,50,No,Travel_Frequently,Research & Development,2,Graduate,Medical,4,Female,High,Manager,1,Married," $17,856 ",2,No,3,4
+1216,28,No,Travel_Rarely,Research & Development,19,Masters,Medical,4,Male,Medium,Laboratory Technician,1,Married," $3,196 ",1,No,3,3
+1217,46,No,Travel_Rarely,Research & Development,15,Intermediate,Life Sciences,4,Male,High,Research Director,2,Married," $19,081 ",5,No,3,3
+1218,35,No,Travel_Rarely,Sales,17,Masters,Life Sciences,3,Male,High,Sales Executive,1,Married," $8,966 ",3,Yes,3,3
+1219,24,Yes,Travel_Rarely,Research & Development,17,Intermediate,Life Sciences,4,Female,High,Laboratory Technician,2,Married," $2,210 ",1,No,1,3
+1220,33,No,Travel_Frequently,Sales,25,Graduate,Medical,2,Female,High,Sales Executive,3,Married," $4,539 ",1,No,2,3
+1221,36,No,Travel_Rarely,Research & Development,6,Masters,Life Sciences,3,Male,Low,Laboratory Technician,3,Divorced," $2,741 ",1,No,3,3
+1224,30,No,Travel_Rarely,Research & Development,7,Masters,Life Sciences,3,Male,High,Laboratory Technician,3,Divorced," $3,491 ",1,No,2,3
+1225,44,No,Travel_Rarely,Research & Development,29,Masters,Medical,4,Male,High,Research Scientist,4,Single," $4,541 ",1,No,3,4
+1226,20,No,Travel_Rarely,Sales,21,Graduate,Marketing,3,Male,Very High,Sales Representative,4,Single," $2,678 ",1,No,3,3
+1228,46,No,Travel_Rarely,Research & Development,2,Masters,Technical Degree,4,Male,High,Manufacturing Director,4,Divorced," $7,379 ",2,No,2,3
+1231,42,No,Non-Travel,Human Resources,2,Doctorate,Medical,4,Male,Very High,Human Resources,1,Married," $6,272 ",7,No,4,3
+1233,60,No,Travel_Rarely,Sales,7,Masters,Marketing,2,Male,Very High,Sales Executive,4,Divorced," $5,220 ",0,Yes,3,3
+1234,32,No,Travel_Frequently,Research & Development,13,Graduate,Medical,3,Female,Medium,Laboratory Technician,2,Married," $2,743 ",1,No,3,4
+1235,32,No,Travel_Frequently,Research & Development,2,Intermediate,Life Sciences,4,Female,High,Research Scientist,3,Single," $4,998 ",4,Yes,3,3
+1237,36,No,Travel_Rarely,Research & Development,1,Graduate,Technical Degree,3,Female,Low,Manufacturing Director,1,Divorced," $10,252 ",2,Yes,3,4
+1238,33,No,Travel_Rarely,Research & Development,9,Graduate,Medical,1,Male,High,Research Scientist,4,Married," $2,781 ",0,No,3,3
+1239,40,No,Travel_Rarely,Sales,10,Graduate,Technical Degree,2,Female,Medium,Sales Executive,2,Divorced," $6,852 ",7,No,4,3
+1240,25,No,Travel_Rarely,Sales,10,Masters,Life Sciences,3,Male,High,Sales Executive,4,Single," $4,950 ",0,No,3,3
+1241,30,No,Travel_Rarely,Research & Development,1,Graduate,Medical,4,Male,High,Research Scientist,2,Married," $3,579 ",0,Yes,3,4
+1242,42,No,Travel_Frequently,Research & Development,26,Doctorate,Medical,1,Female,High,Research Director,1,Married," $13,191 ",3,Yes,3,3
+1243,35,No,Non-Travel,Sales,8,Intermediate,Marketing,3,Female,Medium,Sales Executive,4,Married," $10,377 ",4,Yes,2,3
+1244,27,No,Travel_Rarely,Research & Development,14,Graduate,Life Sciences,1,Male,High,Research Scientist,1,Married," $2,235 ",1,Yes,2,3
+1245,54,No,Travel_Frequently,Research & Development,1,Masters,Life Sciences,4,Female,High,Manufacturing Director,3,Divorced," $10,502 ",7,No,1,3
+1246,44,No,Travel_Rarely,Research & Development,2,SSC,Life Sciences,1,Female,Very High,Research Scientist,4,Married," $2,011 ",1,No,3,3
+1248,19,Yes,Non-Travel,Research & Development,10,Graduate,Medical,1,Female,Medium,Research Scientist,2,Single," $1,859 ",1,Yes,4,4
+1249,29,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,1,Female,High,Research Scientist,4,Divorced," $3,760 ",1,No,3,3
+1250,54,No,Travel_Rarely,Research & Development,3,Graduate,Life Sciences,4,Male,High,Research Director,4,Married," $17,779 ",3,No,3,3
+1251,31,No,Travel_Rarely,Research & Development,11,Intermediate,Medical,3,Male,High,Healthcare Representative,1,Married," $6,833 ",1,Yes,2,3
+1252,31,No,Travel_Rarely,Research & Development,24,Graduate,Medical,3,Female,Medium,Healthcare Representative,1,Single," $6,812 ",1,No,3,3
+1254,59,No,Travel_Rarely,Sales,3,Graduate,Life Sciences,3,Female,Medium,Sales Executive,4,Single," $5,171 ",5,No,3,3
+1255,43,No,Travel_Rarely,Research & Development,3,Graduate,Life Sciences,3,Male,Low,Research Director,4,Married," $19,740 ",3,No,3,3
+1256,49,No,Travel_Rarely,Research & Development,4,Intermediate,Medical,1,Male,Medium,Manager,3,Married," $18,711 ",2,No,4,3
+1257,36,No,Travel_Frequently,Research & Development,3,Graduate,Technical Degree,3,Male,High,Research Scientist,2,Married," $3,692 ",1,No,2,3
+1258,48,No,Travel_Rarely,Research & Development,2,Intermediate,Technical Degree,4,Male,Very High,Laboratory Technician,2,Single," $2,559 ",5,No,2,3
+1259,27,No,Travel_Rarely,Research & Development,4,Intermediate,Life Sciences,1,Male,High,Research Scientist,3,Divorced," $2,517 ",1,No,3,3
+1260,29,No,Travel_Rarely,Research & Development,7,Graduate,Life Sciences,3,Male,High,Healthcare Representative,4,Divorced," $6,623 ",1,Yes,3,3
+1263,48,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,4,Male,Medium,Research Director,4,Single," $18,265 ",6,No,4,3
+1264,29,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,4,Female,Medium,Research Director,4,Divorced," $16,124 ",3,No,2,3
+1265,34,No,Travel_Rarely,Research & Development,20,Graduate,Technical Degree,3,Female,Very High,Research Scientist,3,Married," $2,585 ",0,No,2,3
+1267,44,No,Travel_Rarely,Sales,5,Graduate,Marketing,2,Male,High,Manager,2,Married," $18,213 ",7,No,3,3
+1268,33,No,Travel_Rarely,Sales,10,Doctorate,Marketing,4,Male,Very High,Sales Executive,3,Divorced," $8,380 ",0,Yes,3,3
+1269,19,No,Travel_Rarely,Research & Development,25,Graduate,Life Sciences,2,Female,Very High,Research Scientist,4,Single," $2,994 ",1,Yes,3,3
+1270,23,No,Travel_Rarely,Research & Development,1,Intermediate,Life Sciences,4,Male,High,Research Scientist,3,Married," $1,223 ",1,No,3,4
+1273,25,Yes,Travel_Frequently,Sales,24,SSC,Life Sciences,3,Male,Low,Sales Representative,4,Single," $1,118 ",1,Yes,3,3
+1275,26,No,Travel_Rarely,Research & Development,4,Intermediate,Life Sciences,3,Male,High,Research Scientist,4,Single," $2,875 ",1,Yes,2,4
+1277,45,Yes,Travel_Rarely,Sales,2,Graduate,Marketing,1,Female,Low,Manager,2,Single," $18,824 ",2,Yes,3,3
+1278,55,No,Non-Travel,Research & Development,8,SSC,Medical,4,Male,Medium,Healthcare Representative,2,Divorced," $13,577 ",1,Yes,3,3
+1279,21,Yes,Travel_Frequently,Research & Development,10,Intermediate,Life Sciences,1,Female,Medium,Laboratory Technician,3,Single," $2,625 ",1,No,1,4
+1280,46,No,Travel_Rarely,Sales,4,Intermediate,Marketing,4,Female,Medium,Manager,2,Married," $18,789 ",2,No,3,3
+1281,34,No,Travel_Rarely,Sales,2,Graduate,Marketing,3,Female,High,Sales Executive,1,Single," $4,538 ",0,Yes,3,3
+1282,51,No,Travel_Frequently,Sales,9,Graduate,Life Sciences,4,Male,High,Manager,2,Divorced," $19,847 ",4,Yes,2,4
+1283,59,No,Travel_Rarely,Research & Development,18,Masters,Medical,4,Male,High,Manufacturing Director,4,Single," $10,512 ",6,No,2,3
+1285,34,No,Travel_Frequently,Research & Development,19,Graduate,Medical,3,Female,High,Laboratory Technician,2,Divorced," $4,444 ",4,No,4,3
+1286,28,No,Travel_Frequently,Research & Development,1,Masters,Medical,4,Male,High,Laboratory Technician,3,Single," $2,154 ",0,Yes,2,3
+1288,44,No,Travel_Rarely,Research & Development,4,Intermediate,Life Sciences,3,Male,Very High,Manager,1,Divorced," $19,190 ",1,No,2,3
+1289,34,No,Travel_Frequently,Human Resources,11,Graduate,Life Sciences,3,Male,Medium,Human Resources,2,Married," $4,490 ",4,No,4,3
+1291,35,No,Travel_Rarely,Research & Development,6,SSC,Life Sciences,3,Male,High,Research Scientist,3,Married," $3,506 ",0,Yes,3,3
+1292,42,No,Travel_Rarely,Research & Development,7,Masters,Medical,2,Female,Very High,Research Scientist,2,Married," $2,372 ",6,Yes,3,3
+1293,43,No,Travel_Rarely,Sales,4,Masters,Marketing,4,Female,Medium,Sales Executive,4,Single," $10,231 ",3,No,4,3
+1294,36,No,Travel_Rarely,Research & Development,2,Masters,Life Sciences,3,Female,High,Manufacturing Director,2,Single," $5,410 ",9,Yes,3,3
+1295,44,Yes,Travel_Rarely,Research & Development,15,Graduate,Medical,1,Female,High,Healthcare Representative,4,Married," $7,978 ",1,No,3,3
+1296,28,No,Travel_Frequently,Research & Development,2,Graduate,Life Sciences,4,Male,Medium,Laboratory Technician,4,Married," $3,867 ",1,Yes,3,3
+1297,51,No,Travel_Frequently,Research & Development,6,Intermediate,Medical,2,Female,Medium,Laboratory Technician,3,Single," $2,838 ",0,No,2,3
+1298,30,No,Non-Travel,Research & Development,9,Intermediate,Medical,3,Female,High,Manufacturing Director,3,Single," $4,695 ",7,Yes,3,3
+1299,29,Yes,Travel_Rarely,Research & Development,7,Graduate,Technical Degree,2,Female,High,Laboratory Technician,3,Divorced," $3,339 ",3,Yes,3,3
+1301,28,No,Travel_Rarely,Research & Development,1,Graduate,Technical Degree,4,Male,High,Research Scientist,1,Single," $2,080 ",2,No,2,3
+1303,25,No,Travel_Rarely,Research & Development,1,Graduate,Medical,4,Female,High,Research Scientist,2,Single," $2,096 ",1,No,2,3
+1304,32,No,Travel_Rarely,Sales,8,Graduate,Medical,3,Male,Very High,Sales Executive,4,Married," $6,209 ",1,No,4,3
+1306,45,No,Travel_Frequently,Research & Development,25,Graduate,Medical,2,Female,High,Manager,2,Single," $18,061 ",3,No,3,4
+1307,39,No,Travel_Rarely,Research & Development,13,Masters,Medical,3,Female,Medium,Manager,2,Divorced," $17,123 ",6,Yes,3,3
+1308,58,No,Travel_Rarely,Research & Development,23,Masters,Life Sciences,1,Male,High,Research Scientist,3,Divorced," $2,372 ",1,No,3,3
+1309,32,Yes,Travel_Rarely,Research & Development,7,Intermediate,Life Sciences,4,Male,High,Laboratory Technician,3,Married," $4,883 ",1,No,3,3
+1310,39,Yes,Travel_Rarely,Research & Development,23,Graduate,Medical,3,Male,High,Research Scientist,1,Single," $3,904 ",0,No,3,3
+1311,30,No,Travel_Rarely,Research & Development,6,Graduate,Technical Degree,1,Female,Medium,Laboratory Technician,4,Married," $4,627 ",0,No,3,3
+1312,36,No,Travel_Rarely,Research & Development,10,Masters,Technical Degree,4,Female,High,Healthcare Representative,3,Married," $7,094 ",3,No,3,3
+1314,46,No,Travel_Rarely,Human Resources,1,Intermediate,Life Sciences,4,Female,High,Human Resources,1,Single," $3,423 ",6,No,4,3
+1315,28,No,Non-Travel,Research & Development,1,Graduate,Life Sciences,3,Female,Low,Laboratory Technician,4,Married," $6,674 ",0,No,3,3
+1317,50,No,Travel_Rarely,Research & Development,28,Graduate,Life Sciences,4,Female,High,Research Director,1,Married," $16,880 ",4,Yes,3,3
+1318,40,Yes,Travel_Rarely,Sales,25,Masters,Marketing,4,Male,Medium,Sales Executive,2,Single," $9,094 ",2,Yes,3,3
+1319,52,Yes,Travel_Rarely,Sales,5,Graduate,Life Sciences,2,Male,High,Sales Executive,2,Single," $8,446 ",9,Yes,2,3
+1321,30,No,Travel_Rarely,Research & Development,17,Masters,Medical,2,Female,High,Manager,1,Married," $11,916 ",1,Yes,3,4
+1322,39,No,Travel_Rarely,Research & Development,18,Intermediate,Life Sciences,1,Male,High,Manufacturing Director,3,Single," $4,534 ",0,No,3,3
+1324,31,No,Non-Travel,Sales,2,Masters,Life Sciences,4,Female,High,Sales Executive,3,Divorced," $9,852 ",1,Yes,2,3
+1329,41,No,Non-Travel,Sales,10,Intermediate,Medical,3,Male,Low,Sales Executive,2,Single," $6,151 ",1,No,3,3
+1331,31,Yes,Travel_Frequently,Sales,1,Graduate,Life Sciences,4,Female,High,Sales Representative,2,Single," $2,302 ",1,Yes,4,3
+1333,44,Yes,Travel_Rarely,Research & Development,3,Graduate,Life Sciences,1,Male,High,Laboratory Technician,1,Married," $2,362 ",4,No,4,3
+1334,42,No,Non-Travel,Research & Development,2,SSC,Life Sciences,3,Male,High,Manager,3,Married," $17,861 ",0,Yes,2,3
+1336,55,No,Travel_Rarely,Research & Development,2,Intermediate,Medical,4,Female,Low,Manager,3,Married," $19,187 ",4,No,3,3
+1338,56,No,Travel_Rarely,Human Resources,8,Masters,Life Sciences,4,Male,High,Manager,2,Single," $19,717 ",6,No,3,3
+1340,40,No,Non-Travel,Research & Development,16,Intermediate,Life Sciences,3,Male,High,Research Scientist,3,Divorced," $3,544 ",9,No,3,3
+1344,34,No,Travel_Rarely,Research & Development,9,Graduate,Life Sciences,4,Male,High,Healthcare Representative,4,Divorced," $8,500 ",0,No,2,3
+1346,40,No,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,3,Male,High,Research Scientist,4,Single," $4,661 ",1,No,3,3
+1349,41,No,Travel_Frequently,Sales,1,Graduate,Marketing,3,Female,High,Sales Executive,1,Divorced," $4,103 ",0,No,3,3
+1350,35,No,Travel_Frequently,Research & Development,4,Masters,Life Sciences,3,Male,High,Research Scientist,3,Single," $4,249 ",1,Yes,3,3
+1352,51,No,Travel_Rarely,Human Resources,5,Graduate,Life Sciences,3,Male,High,Manager,2,Divorced," $14,026 ",1,Yes,3,3
+1355,38,No,Travel_Rarely,Sales,2,Intermediate,Life Sciences,2,Female,High,Sales Executive,1,Divorced," $6,893 ",3,No,3,3
+1356,34,No,Travel_Rarely,Sales,15,Intermediate,Medical,3,Female,High,Sales Executive,1,Single," $6,125 ",1,No,4,3
+1358,25,No,Travel_Rarely,Research & Development,19,SSC,Medical,4,Male,High,Laboratory Technician,4,Married," $3,669 ",3,No,2,3
+1360,58,Yes,Travel_Rarely,Research & Development,7,Masters,Medical,3,Female,Medium,Manufacturing Director,1,Married," $10,008 ",7,Yes,2,3
+1361,40,No,Travel_Rarely,Research & Development,1,Masters,Life Sciences,2,Male,High,Laboratory Technician,2,Married," $2,387 ",3,No,3,4
+1362,36,No,Travel_Frequently,Sales,7,Graduate,Marketing,1,Female,Very High,Sales Executive,1,Married," $4,639 ",2,No,2,3
+1363,48,No,Travel_Rarely,Research & Development,4,Graduate,Life Sciences,4,Male,High,Manufacturing Director,4,Single," $7,898 ",1,No,3,3
+1364,27,No,Travel_Rarely,Sales,11,Graduate,Medical,3,Female,Very High,Sales Representative,4,Married," $2,534 ",8,No,3,3
+1367,51,No,Travel_Rarely,Research & Development,11,Intermediate,Technical Degree,4,Female,Medium,Manufacturing Director,2,Single," $13,142 ",3,No,2,3
+1368,18,No,Non-Travel,Research & Development,1,Graduate,Life Sciences,4,Female,High,Laboratory Technician,4,Single," $1,611 ",1,No,4,3
+1369,35,No,Travel_Rarely,Research & Development,1,Graduate,Medical,4,Female,Medium,Laboratory Technician,4,Married," $5,363 ",0,No,3,3
+1371,27,No,Travel_Frequently,Sales,2,SSC,Life Sciences,4,Male,Low,Sales Executive,4,Single," $5,071 ",3,No,3,4
+1372,55,Yes,Travel_Rarely,Sales,13,Masters,Marketing,1,Male,Very High,Sales Executive,3,Single," $13,695 ",6,Yes,2,3
+1373,56,No,Travel_Rarely,Research & Development,23,Graduate,Life Sciences,4,Male,High,Manufacturing Director,2,Married," $13,402 ",4,Yes,3,3
+1374,34,No,Non-Travel,Research & Development,26,SSC,Technical Degree,1,Female,Medium,Research Scientist,3,Divorced," $2,029 ",1,No,3,4
+1375,40,No,Travel_Rarely,Research & Development,2,SSC,Medical,2,Female,Very High,Healthcare Representative,3,Divorced," $6,377 ",5,No,3,4
+1377,34,No,Travel_Rarely,Research & Development,29,Graduate,Medical,2,Male,High,Laboratory Technician,3,Married," $5,429 ",4,No,3,3
+1379,31,Yes,Travel_Frequently,Sales,2,Graduate,Life Sciences,3,Female,Medium,Sales Representative,4,Single," $2,785 ",7,No,4,3
+1380,35,Yes,Travel_Frequently,Sales,18,Masters,Marketing,4,Female,High,Sales Executive,3,Married," $4,614 ",0,Yes,2,3
+1382,38,No,Travel_Frequently,Research & Development,7,Graduate,Life Sciences,4,Male,Very High,Research Scientist,3,Divorced," $2,610 ",1,No,3,3
+1383,34,No,Travel_Rarely,Research & Development,2,Masters,Technical Degree,3,Female,High,Healthcare Representative,4,Single," $6,687 ",1,No,4,3
+1387,28,No,Travel_Rarely,Sales,26,Graduate,Life Sciences,3,Male,Medium,Sales Executive,1,Married," $4,724 ",1,No,3,3
+1389,31,Yes,Travel_Rarely,Research & Development,22,Masters,Medical,4,Male,High,Manufacturing Director,3,Married," $6,179 ",1,Yes,2,3
+1390,39,No,Travel_Rarely,Sales,21,Masters,Life Sciences,1,Male,Medium,Sales Executive,4,Married," $6,120 ",3,Yes,4,3
+1391,51,No,Travel_Frequently,Sales,2,Graduate,Marketing,2,Male,High,Sales Executive,2,Married," $10,596 ",2,No,3,3
+1392,41,No,Travel_Frequently,Research & Development,22,Graduate,Life Sciences,4,Female,High,Research Scientist,4,Divorced," $5,467 ",3,Yes,2,3
+1394,37,No,Travel_Rarely,Research & Development,4,SSC,Life Sciences,3,Male,High,Research Scientist,3,Married," $2,996 ",7,Yes,3,3
+1395,33,No,Travel_Frequently,Sales,5,SSC,Life Sciences,2,Male,High,Sales Executive,4,Married," $9,998 ",6,No,4,3
+1396,32,No,Travel_Rarely,Sales,2,SSC,Marketing,3,Male,High,Sales Executive,2,Married," $4,078 ",0,Yes,2,3
+1397,39,No,Non-Travel,Research & Development,25,Intermediate,Life Sciences,3,Male,High,Healthcare Representative,3,Married," $10,920 ",3,No,3,4
+1399,25,No,Travel_Rarely,Sales,18,SSC,Life Sciences,1,Male,Very High,Sales Executive,3,Married," $6,232 ",2,No,2,3
+1401,52,No,Travel_Frequently,Research & Development,28,Intermediate,Medical,4,Female,Very High,Manufacturing Director,3,Married," $13,247 ",2,Yes,2,3
+1402,43,No,Travel_Rarely,Research & Development,6,Graduate,Medical,1,Female,Medium,Research Scientist,3,Single," $4,081 ",1,Yes,1,3
+1403,27,No,Travel_Rarely,Sales,10,Graduate,Marketing,4,Female,Medium,Sales Executive,4,Married," $5,769 ",1,Yes,3,3
+1405,27,Yes,Travel_Rarely,Research & Development,17,Masters,Life Sciences,4,Female,High,Research Scientist,3,Single," $2,394 ",1,Yes,3,3
+1407,26,No,Travel_Rarely,Research & Development,2,SSC,Medical,1,Male,Medium,Research Scientist,4,Single," $3,904 ",0,No,3,3
+1408,42,No,Travel_Rarely,Human Resources,10,Graduate,Human Resources,3,Female,High,Manager,1,Married," $16,799 ",0,No,3,3
+1409,52,No,Travel_Rarely,Research & Development,8,Masters,Medical,3,Female,High,Laboratory Technician,1,Married," $2,950 ",9,No,1,3
+1411,37,No,Travel_Rarely,Research & Development,11,Graduate,Medical,1,Female,High,Laboratory Technician,3,Single," $3,629 ",4,No,3,3
+1412,35,No,Travel_Frequently,Research & Development,18,Intermediate,Life Sciences,3,Male,High,Manufacturing Director,4,Single," $9,362 ",2,No,3,3
+1415,25,No,Travel_Rarely,Research & Development,1,Graduate,Technical Degree,1,Male,High,Laboratory Technician,4,Married," $3,229 ",4,No,2,3
+1417,26,No,Travel_Rarely,Research & Development,7,Graduate,Medical,3,Male,Very High,Laboratory Technician,1,Single," $3,578 ",0,No,3,3
+1419,29,No,Travel_Rarely,Human Resources,17,Graduate,Medical,2,Male,Medium,Human Resources,1,Single," $7,988 ",1,No,2,3
+1420,49,Yes,Travel_Frequently,Research & Development,28,Intermediate,Life Sciences,1,Male,Medium,Laboratory Technician,1,Single," $4,284 ",3,No,3,4
+1421,29,Yes,Travel_Frequently,Research & Development,14,SSC,Medical,3,Female,High,Healthcare Representative,4,Single," $7,553 ",0,Yes,3,3
+1422,54,No,Travel_Rarely,Research & Development,1,Graduate,Medical,4,Female,High,Research Director,4,Single," $17,328 ",6,No,2,3
+1423,58,No,Travel_Rarely,Research & Development,1,Graduate,Medical,4,Female,High,Research Director,1,Married," $19,701 ",3,Yes,3,4
+1424,55,No,Travel_Rarely,Research & Development,1,Masters,Medical,2,Male,Very High,Research Director,4,Divorced," $14,732 ",2,No,4,3
+1425,36,No,Travel_Rarely,Sales,3,Masters,Marketing,1,Female,High,Sales Executive,2,Single," $9,278 ",3,Yes,3,3
+1427,31,Yes,Travel_Frequently,Sales,1,Masters,Life Sciences,2,Female,Low,Sales Representative,3,Single," $1,359 ",1,No,3,3
+1428,30,No,Travel_Rarely,Sales,7,Masters,Marketing,4,Female,High,Sales Executive,1,Divorced," $4,779 ",7,No,3,3
+1430,31,No,Travel_Rarely,Research & Development,8,Doctorate,Life Sciences,1,Female,High,Research Director,2,Single," $16,422 ",3,No,4,3
+1431,34,No,Travel_Frequently,Research & Development,1,Masters,Medical,4,Male,High,Research Scientist,1,Divorced," $2,996 ",5,No,3,3
+1433,31,Yes,Travel_Rarely,Research & Development,8,Graduate,Life Sciences,1,Female,Medium,Research Scientist,2,Single," $1,261 ",1,No,4,3
+1434,27,No,Travel_Rarely,Research & Development,11,SSC,Life Sciences,2,Male,High,Laboratory Technician,1,Married," $2,099 ",0,No,4,3
+1435,36,No,Travel_Rarely,Research & Development,4,Masters,Life Sciences,1,Male,Medium,Laboratory Technician,4,Single," $5,810 ",1,No,2,3
+1436,36,No,Travel_Rarely,Sales,16,Masters,Marketing,3,Female,Medium,Sales Executive,1,Married," $5,647 ",4,No,2,3
+1438,47,No,Travel_Rarely,Research & Development,1,Graduate,Technical Degree,1,Male,High,Research Scientist,4,Married," $3,420 ",7,No,2,3
+1439,25,Yes,Travel_Rarely,Sales,9,Intermediate,Life Sciences,1,Male,Medium,Sales Representative,1,Married," $4,400 ",3,No,3,3
+1440,37,No,Non-Travel,Research & Development,5,Intermediate,Technical Degree,3,Male,Very High,Laboratory Technician,3,Single," $3,500 ",0,No,1,3
+1441,56,No,Travel_Rarely,Research & Development,1,Intermediate,Life Sciences,1,Female,High,Research Scientist,1,Married," $2,066 ",2,No,4,4
+1443,47,No,Travel_Rarely,Research & Development,2,Masters,Medical,1,Female,High,Research Director,3,Married," $17,169 ",3,No,4,3
+1445,24,No,Travel_Rarely,Sales,4,SSC,Medical,4,Female,High,Sales Executive,3,Married," $4,162 ",1,Yes,3,3
+1446,32,No,Travel_Rarely,Sales,7,Doctorate,Marketing,4,Male,High,Sales Executive,4,Married," $9,204 ",4,No,2,3
+1447,34,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,4,Female,Medium,Laboratory Technician,2,Married," $3,294 ",5,No,2,3
+1448,41,No,Travel_Rarely,Research & Development,5,Doctorate,Medical,2,Male,Very High,Research Scientist,3,Married," $2,127 ",2,Yes,2,3
+1449,40,No,Non-Travel,Research & Development,9,Masters,Medical,3,Male,High,Laboratory Technician,3,Divorced," $3,975 ",3,No,4,3
+1453,31,No,Travel_Rarely,Sales,8,Intermediate,Life Sciences,1,Male,High,Sales Executive,4,Divorced," $10,793 ",1,No,3,3
+1457,46,Yes,Travel_Rarely,Sales,9,Graduate,Marketing,1,Male,High,Sales Executive,4,Divorced," $10,096 ",4,No,4,3
+1458,39,Yes,Non-Travel,Research & Development,2,Graduate,Life Sciences,1,Female,Medium,Laboratory Technician,1,Single," $3,646 ",2,Yes,4,4
+1459,31,Yes,Travel_Frequently,Research & Development,1,Doctorate,Life Sciences,3,Female,Very High,Manufacturing Director,2,Single," $7,446 ",1,No,3,3
+1460,45,No,Travel_Rarely,Research & Development,20,Graduate,Medical,2,Male,Low,Healthcare Representative,1,Divorced," $10,851 ",2,Yes,3,3
+1461,31,No,Travel_Rarely,Human Resources,8,Intermediate,Medical,4,Female,Very High,Human Resources,2,Single," $2,109 ",9,No,3,3
+1464,31,Yes,Travel_Frequently,Research & Development,2,Graduate,Life Sciences,2,Male,High,Laboratory Technician,4,Married," $3,722 ",6,Yes,1,3
+1465,45,No,Travel_Rarely,Research & Development,29,Graduate,Technical Degree,2,Male,High,Manufacturing Director,4,Married," $9,380 ",4,Yes,4,3
+1466,48,No,Travel_Rarely,Sales,7,Graduate,Marketing,3,Male,High,Sales Executive,1,Divorced," $5,486 ",4,No,3,3
+1467,34,Yes,Travel_Rarely,Human Resources,9,Masters,Technical Degree,1,Female,High,Human Resources,3,Married," $2,742 ",1,No,3,3
+1468,40,No,Non-Travel,Research & Development,8,SSC,Medical,4,Male,Medium,Research Director,2,Divorced," $13,757 ",2,No,3,3
+1469,28,No,Travel_Rarely,Sales,5,Graduate,Medical,4,Male,High,Sales Executive,1,Single," $8,463 ",0,No,3,3
+1471,44,No,Non-Travel,Research & Development,5,Graduate,Life Sciences,3,Male,Medium,Laboratory Technician,3,Single," $3,162 ",3,No,3,3
+1472,53,No,Travel_Rarely,Research & Development,2,Graduate,Medical,4,Male,Very High,Research Director,2,Single," $16,598 ",4,No,2,3
+1473,49,No,Travel_Rarely,Research & Development,5,Masters,Technical Degree,1,Male,High,Healthcare Representative,3,Married," $6,651 ",2,No,2,3
+1474,40,No,Travel_Rarely,Research & Development,2,Graduate,Medical,3,Male,High,Research Scientist,3,Divorced," $2,345 ",2,No,4,3
+1475,44,No,Travel_Rarely,Research & Development,20,Graduate,Life Sciences,4,Male,High,Research Scientist,2,Single," $3,420 ",1,No,2,3
+1477,33,No,Travel_Frequently,Sales,7,Graduate,Medical,4,Male,High,Sales Executive,1,Married," $4,373 ",0,No,3,3
+1478,34,No,Travel_Rarely,Sales,3,Graduate,Medical,4,Male,Low,Sales Executive,1,Single," $4,759 ",3,No,3,3
+1479,30,No,Travel_Rarely,Sales,16,SSC,Life Sciences,4,Male,High,Sales Executive,3,Married," $5,301 ",8,No,2,3
+1480,42,No,Travel_Frequently,Research & Development,9,Intermediate,Medical,1,Female,High,Laboratory Technician,4,Single," $3,673 ",1,No,3,3
+1481,44,No,Travel_Frequently,Sales,1,Doctorate,Marketing,1,Female,High,Sales Executive,3,Married," $4,768 ",7,No,2,3
+1482,30,No,Non-Travel,Research & Development,7,Graduate,Technical Degree,3,Male,High,Research Scientist,3,Divorced," $1,274 ",1,No,2,3
+1483,57,No,Travel_Rarely,Research & Development,1,Intermediate,Life Sciences,2,Male,Very High,Research Scientist,3,Married," $4,900 ",0,No,2,4
+1484,49,No,Travel_Rarely,Research & Development,7,Masters,Life Sciences,3,Male,High,Healthcare Representative,2,Divorced," $10,466 ",3,No,3,3
+1485,34,No,Travel_Frequently,Research & Development,15,Graduate,Medical,2,Male,High,Research Director,1,Divorced," $17,007 ",7,No,2,3
+1486,28,Yes,Travel_Frequently,Sales,1,Graduate,Technical Degree,1,Male,High,Sales Representative,3,Married," $2,909 ",3,No,4,3
+1487,29,Yes,Travel_Frequently,Sales,13,Graduate,Technical Degree,1,Female,High,Sales Executive,2,Single," $5,765 ",5,No,1,3
+1489,34,Yes,Travel_Rarely,Sales,24,Masters,Medical,1,Female,Medium,Sales Executive,2,Single," $4,599 ",0,Yes,4,4
+1492,35,No,Travel_Rarely,Sales,7,SSC,Life Sciences,4,Male,High,Sales Representative,3,Married," $2,404 ",1,No,3,3
+1494,24,Yes,Travel_Frequently,Research & Development,9,Graduate,Medical,2,Male,High,Laboratory Technician,1,Single," $3,172 ",2,Yes,2,3
+1495,24,No,Non-Travel,Sales,13,Intermediate,Life Sciences,4,Female,High,Sales Representative,2,Married," $2,033 ",1,No,3,3
+1496,44,No,Travel_Frequently,Research & Development,2,SSC,Medical,2,Male,High,Manufacturing Director,3,Single," $10,209 ",5,Yes,2,3
+1497,29,No,Travel_Rarely,Sales,19,Graduate,Life Sciences,3,Male,Medium,Sales Executive,3,Divorced," $8,620 ",1,No,3,3
+1499,30,No,Travel_Rarely,Human Resources,1,Graduate,Life Sciences,3,Male,High,Human Resources,3,Divorced," $2,064 ",0,No,4,4
+1501,55,No,Travel_Rarely,Research & Development,4,Masters,Life Sciences,4,Male,High,Healthcare Representative,3,Married," $4,035 ",0,Yes,3,3
+1502,33,No,Travel_Rarely,Research & Development,4,Masters,Medical,1,Female,Medium,Laboratory Technician,2,Married," $3,838 ",8,No,3,3
+1503,47,No,Travel_Rarely,Sales,14,Graduate,Medical,3,Female,High,Sales Executive,3,Married," $4,591 ",3,Yes,2,3
+1504,28,Yes,Travel_Frequently,Research & Development,2,Intermediate,Medical,3,Male,Medium,Laboratory Technician,1,Single," $2,561 ",7,No,2,3
+1506,28,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,1,Male,Medium,Research Scientist,3,Divorced," $1,563 ",1,No,1,3
+1507,28,No,Travel_Frequently,Sales,7,Graduate,Life Sciences,3,Male,High,Sales Executive,1,Single," $4,898 ",0,No,3,3
+1509,49,No,Travel_Rarely,Research & Development,3,Intermediate,Medical,3,Female,Medium,Laboratory Technician,1,Married," $4,789 ",4,No,3,4
+1513,29,No,Travel_Frequently,Research & Development,2,SSC,Life Sciences,4,Female,High,Laboratory Technician,2,Married," $3,180 ",0,No,3,3
+1514,28,No,Travel_Rarely,Research & Development,29,SSC,Life Sciences,3,Male,Low,Manufacturing Director,2,Married," $6,549 ",1,No,2,3
+1515,33,No,Travel_Rarely,Research & Development,8,Doctorate,Life Sciences,4,Male,High,Healthcare Representative,3,Single," $6,388 ",2,Yes,3,3
+1516,32,No,Travel_Rarely,Research & Development,10,Graduate,Medical,3,Male,High,Manager,4,Single," $11,244 ",2,No,4,4
+1520,54,No,Travel_Frequently,Research & Development,11,Masters,Medical,2,Female,High,Manager,4,Divorced," $16,032 ",3,No,3,4
+1522,29,Yes,Travel_Rarely,Research & Development,1,Masters,Technical Degree,1,Male,Medium,Research Scientist,1,Single," $2,362 ",6,No,1,3
+1523,44,No,Travel_Rarely,Research & Development,28,Graduate,Life Sciences,4,Male,High,Research Director,1,Married," $16,328 ",3,No,4,3
+1525,39,No,Travel_Rarely,Research & Development,6,Graduate,Life Sciences,2,Female,High,Manufacturing Director,2,Single," $8,376 ",4,No,3,3
+1527,46,No,Travel_Rarely,Sales,3,Graduate,Life Sciences,3,Female,High,Manager,2,Married," $16,606 ",8,No,4,3
+1529,35,No,Travel_Rarely,Research & Development,16,Graduate,Life Sciences,4,Female,Medium,Healthcare Representative,2,Single," $8,606 ",1,No,1,3
+1533,23,No,Travel_Rarely,Research & Development,20,SSC,Life Sciences,1,Male,High,Laboratory Technician,3,Single," $2,272 ",0,No,3,3
+1534,40,Yes,Travel_Rarely,Research & Development,9,Masters,Life Sciences,4,Male,High,Laboratory Technician,1,Single," $2,018 ",3,No,1,3
+1535,34,No,Travel_Rarely,Sales,1,Graduate,Technical Degree,4,Male,Medium,Sales Executive,3,Married," $7,083 ",1,Yes,3,3
+1537,31,Yes,Travel_Frequently,Research & Development,3,Graduate,Life Sciences,4,Female,High,Research Scientist,3,Single," $4,084 ",1,No,1,3
+1539,50,No,Travel_Frequently,Research & Development,22,Doctorate,Medical,3,Male,Low,Research Director,4,Single," $14,411 ",1,Yes,3,3
+1541,34,No,Travel_Rarely,Sales,7,Intermediate,Technical Degree,2,Male,High,Sales Representative,3,Married," $2,308 ",0,Yes,3,4
+1542,42,No,Travel_Rarely,Research & Development,2,Graduate,Medical,3,Male,Medium,Laboratory Technician,2,Married," $4,841 ",4,No,3,3
+1543,37,No,Travel_Rarely,Research & Development,13,Graduate,Medical,1,Male,High,Research Scientist,4,Married," $4,285 ",1,No,3,3
+1544,29,No,Travel_Rarely,Research & Development,8,SSC,Medical,3,Female,Low,Healthcare Representative,1,Married," $9,715 ",3,No,3,3
+1545,33,No,Travel_Rarely,Research & Development,25,Graduate,Life Sciences,4,Male,Medium,Manufacturing Director,2,Single," $4,320 ",1,No,3,3
+1546,45,No,Travel_Rarely,Research & Development,28,Graduate,Technical Degree,4,Male,High,Research Scientist,4,Married," $2,132 ",4,No,3,4
+1547,42,No,Travel_Frequently,Research & Development,2,Graduate,Life Sciences,4,Male,High,Healthcare Representative,4,Married," $10,124 ",2,Yes,1,3
+1548,40,No,Travel_Rarely,Sales,9,Intermediate,Medical,1,Male,High,Sales Executive,1,Married," $5,473 ",0,No,4,3
+1549,33,No,Travel_Rarely,Research & Development,28,Masters,Life Sciences,2,Male,High,Laboratory Technician,3,Married," $5,207 ",1,Yes,3,3
+1550,40,No,Travel_Rarely,Human Resources,6,Intermediate,Medical,3,Male,High,Manager,4,Single," $16,437 ",1,Yes,3,4
+1551,24,No,Travel_Rarely,Research & Development,21,Intermediate,Technical Degree,3,Male,Medium,Laboratory Technician,1,Divorced," $2,296 ",0,No,3,3
+1552,40,No,Non-Travel,Research & Development,8,Intermediate,Life Sciences,4,Male,High,Healthcare Representative,4,Divorced," $4,069 ",3,Yes,3,3
+1553,45,No,Travel_Rarely,Research & Development,1,Masters,Technical Degree,1,Male,High,Healthcare Representative,2,Divorced," $7,441 ",1,No,3,3
+1554,35,No,Travel_Rarely,Sales,28,Masters,Life Sciences,2,Female,Medium,Sales Representative,3,Married," $2,430 ",0,No,3,4
+1555,32,No,Travel_Rarely,Research & Development,5,Intermediate,Life Sciences,4,Female,Medium,Research Scientist,2,Married," $5,878 ",3,No,3,3
+1556,36,No,Travel_Rarely,Sales,2,Masters,Life Sciences,3,Male,High,Sales Representative,4,Single," $2,644 ",3,Yes,2,4
+1557,48,No,Travel_Rarely,Sales,16,Masters,Life Sciences,3,Female,High,Sales Executive,3,Divorced," $6,439 ",8,No,3,3
+1558,29,No,Travel_Rarely,Research & Development,9,Graduate,Life Sciences,3,Male,Very High,Research Scientist,3,Married," $2,451 ",6,No,2,3
+1560,33,No,Travel_Rarely,Sales,8,Masters,Life Sciences,1,Male,High,Sales Executive,1,Married," $6,392 ",2,No,1,3
+1562,30,Yes,Travel_Rarely,Sales,1,Graduate,Life Sciences,2,Male,Medium,Sales Executive,1,Married," $9,714 ",1,No,3,3
+1563,38,No,Travel_Frequently,Human Resources,10,Masters,Human Resources,3,Male,High,Human Resources,3,Married," $6,077 ",3,No,3,3
+1564,35,No,Travel_Rarely,Research & Development,1,Graduate,Medical,4,Male,Medium,Laboratory Technician,1,Single," $2,450 ",1,No,3,3
+1568,30,No,Travel_Rarely,Sales,29,Masters,Technical Degree,3,Male,High,Sales Executive,2,Married," $9,250 ",3,No,3,3
+1569,35,Yes,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,1,Female,High,Laboratory Technician,1,Divorced," $2,074 ",1,Yes,3,3
+1572,53,Yes,Travel_Rarely,Research & Development,2,Doctorate,Technical Degree,3,Female,Medium,Manufacturing Director,4,Married," $10,169 ",0,No,3,3
+1573,38,Yes,Travel_Rarely,Research & Development,2,Graduate,Medical,3,Male,High,Manufacturing Director,2,Married," $4,855 ",4,No,3,3
+1574,32,No,Non-Travel,Research & Development,1,Masters,Technical Degree,4,Male,High,Research Scientist,1,Married," $4,087 ",4,No,2,3
+1576,48,No,Travel_Rarely,Research & Development,15,Masters,Medical,3,Female,High,Research Scientist,1,Married," $2,367 ",8,No,2,3
+1577,34,No,Travel_Rarely,Research & Development,7,Masters,Medical,1,Male,High,Research Scientist,4,Single," $2,972 ",1,No,1,3
+1578,55,No,Travel_Rarely,Sales,26,Doctorate,Marketing,3,Male,Medium,Manager,4,Married," $19,586 ",1,No,3,4
+1580,34,No,Travel_Rarely,Research & Development,1,Masters,Life Sciences,2,Male,High,Research Scientist,4,Married," $5,484 ",9,No,2,3
+1581,26,No,Travel_Rarely,Research & Development,3,Graduate,Life Sciences,1,Female,High,Research Scientist,4,Married," $2,061 ",1,No,3,4
+1582,38,No,Travel_Rarely,Sales,14,Graduate,Life Sciences,3,Male,High,Sales Executive,2,Married," $9,924 ",0,No,3,3
+1583,38,No,Travel_Rarely,Sales,16,Graduate,Life Sciences,2,Female,High,Sales Executive,2,Single," $4,198 ",2,No,4,3
+1585,36,No,Travel_Rarely,Sales,1,Masters,Life Sciences,2,Female,High,Sales Executive,3,Single," $6,815 ",6,No,3,3
+1586,29,No,Travel_Rarely,Research & Development,3,SSC,Medical,2,Male,High,Laboratory Technician,1,Single," $4,723 ",1,Yes,3,3
+1587,35,No,Travel_Rarely,Research & Development,10,Masters,Medical,1,Female,High,Healthcare Representative,3,Single," $6,142 ",3,Yes,3,3
+1588,39,No,Travel_Rarely,Sales,6,Graduate,Medical,4,Male,Very High,Sales Executive,3,Married," $8,237 ",2,No,3,3
+1590,29,No,Travel_Frequently,Research & Development,2,SSC,Life Sciences,1,Male,High,Healthcare Representative,4,Divorced," $8,853 ",1,No,4,3
+1591,50,No,Travel_Rarely,Sales,9,Graduate,Marketing,3,Male,High,Manager,3,Married," $19,331 ",4,Yes,3,3
+1592,23,No,Travel_Rarely,Research & Development,10,Graduate,Technical Degree,4,Male,Very High,Research Scientist,3,Married," $2,073 ",2,No,3,3
+1594,36,No,Travel_Frequently,Research & Development,6,Masters,Life Sciences,1,Male,Very High,Laboratory Technician,1,Married," $5,562 ",3,Yes,3,3
+1595,42,No,Travel_Rarely,Research & Development,9,Intermediate,Medical,4,Male,Medium,Manager,4,Single," $19,613 ",8,No,3,4
+1596,35,No,Travel_Rarely,Research & Development,28,Graduate,Life Sciences,2,Male,Very High,Laboratory Technician,3,Married," $3,407 ",1,No,2,3
+1597,34,No,Travel_Frequently,Research & Development,10,Masters,Technical Degree,4,Male,Medium,Healthcare Representative,3,Married," $5,063 ",1,No,2,3
+1598,40,No,Travel_Rarely,Sales,14,Intermediate,Life Sciences,4,Female,High,Sales Executive,1,Married," $4,639 ",1,No,3,3
+1599,43,No,Travel_Rarely,Research & Development,27,Graduate,Technical Degree,4,Male,Very High,Laboratory Technician,2,Divorced," $4,876 ",5,No,3,3
+1601,35,No,Travel_Rarely,Research & Development,7,Intermediate,Life Sciences,3,Male,Medium,Laboratory Technician,4,Married," $2,690 ",1,No,2,3
+1602,46,No,Travel_Rarely,Sales,1,Masters,Life Sciences,4,Male,Very High,Manager,1,Single," $17,567 ",1,No,1,3
+1604,28,Yes,Travel_Rarely,Research & Development,24,Graduate,Medical,3,Male,High,Laboratory Technician,2,Married," $2,408 ",1,Yes,3,3
+1605,22,No,Non-Travel,Research & Development,26,Intermediate,Medical,2,Female,Medium,Research Scientist,3,Married," $2,814 ",1,Yes,2,3
+1606,50,No,Travel_Frequently,Research & Development,20,Doctorate,Medical,2,Male,High,Healthcare Representative,3,Married," $11,245 ",2,Yes,3,3
+1607,32,No,Travel_Rarely,Research & Development,5,Masters,Medical,2,Female,Very High,Research Scientist,4,Married," $3,312 ",3,No,3,3
+1608,44,No,Travel_Rarely,Research & Development,7,Graduate,Medical,2,Female,High,Research Director,4,Divorced," $19,049 ",0,Yes,2,3
+1609,30,No,Travel_Rarely,Research & Development,7,Graduate,Medical,2,Male,Medium,Research Scientist,2,Married," $2,141 ",1,No,2,3
+1611,45,No,Travel_Rarely,Research & Development,5,Doctorate,Medical,3,Female,Low,Laboratory Technician,1,Single," $5,769 ",1,Yes,3,3
+1612,45,No,Non-Travel,Sales,26,Graduate,Marketing,1,Male,Medium,Sales Executive,1,Married," $4,385 ",1,No,3,3
+1613,31,No,Travel_Frequently,Sales,2,Masters,Medical,4,Male,High,Sales Executive,1,Single," $5,332 ",7,No,3,3
+1614,36,No,Travel_Rarely,Research & Development,12,Masters,Life Sciences,3,Female,High,Manufacturing Director,3,Married," $4,663 ",9,Yes,3,3
+1615,34,No,Travel_Frequently,Research & Development,10,Masters,Life Sciences,3,Male,Very High,Manufacturing Director,4,Divorced," $4,724 ",1,No,3,3
+1617,49,No,Travel_Rarely,Research & Development,25,Masters,Life Sciences,3,Female,High,Laboratory Technician,1,Married," $3,211 ",1,No,2,3
+1618,39,No,Travel_Rarely,Research & Development,10,Doctorate,Medical,2,Male,High,Manufacturing Director,1,Married," $5,377 ",2,No,3,3
+1619,27,No,Travel_Rarely,Research & Development,19,Graduate,Medical,4,Male,Medium,Laboratory Technician,1,Divorced," $4,066 ",1,No,3,3
+1621,35,No,Travel_Rarely,Research & Development,18,Doctorate,Life Sciences,2,Male,Very High,Research Scientist,1,Married," $5,208 ",1,No,3,3
+1622,28,No,Travel_Rarely,Research & Development,27,Graduate,Medical,2,Female,Low,Manufacturing Director,1,Divorced," $4,877 ",0,No,2,4
+1623,21,No,Travel_Rarely,Research & Development,5,SSC,Medical,3,Male,High,Research Scientist,4,Single," $3,117 ",1,No,3,3
+1624,18,Yes,Travel_Frequently,Sales,3,Intermediate,Medical,2,Female,High,Sales Representative,4,Single," $1,569 ",1,Yes,4,3
+1625,47,No,Travel_Rarely,Human Resources,26,Masters,Life Sciences,4,Female,High,Manager,3,Married," $19,658 ",3,No,3,3
+1627,39,No,Travel_Rarely,Research & Development,3,Intermediate,Medical,3,Male,Medium,Laboratory Technician,3,Divorced," $3,069 ",0,No,3,3
+1628,40,No,Travel_Rarely,Research & Development,15,Graduate,Life Sciences,1,Female,Medium,Manufacturing Director,3,Married," $10,435 ",1,No,3,3
+1630,35,No,Non-Travel,Research & Development,8,Masters,Life Sciences,3,Female,High,Healthcare Representative,3,Married," $4,148 ",1,No,3,3
+1631,37,No,Travel_Rarely,Research & Development,19,Graduate,Life Sciences,3,Male,High,Manufacturing Director,3,Married," $5,768 ",3,No,2,3
+1633,39,No,Travel_Frequently,Research & Development,4,Graduate,Medical,1,Female,High,Manufacturing Director,3,Single," $5,042 ",0,No,1,3
+1635,45,No,Travel_Rarely,Research & Development,2,Intermediate,Medical,4,Female,Medium,Manufacturing Director,4,Divorced," $5,770 ",1,No,3,3
+1638,38,No,Travel_Rarely,Research & Development,2,Intermediate,Medical,4,Female,Medium,Manufacturing Director,3,Married," $7,756 ",3,Yes,4,3
+1639,35,Yes,Travel_Rarely,Sales,10,Graduate,Medical,4,Male,Medium,Sales Executive,1,Married," $10,306 ",9,No,3,3
+1640,37,No,Travel_Rarely,Research & Development,10,Graduate,Medical,2,Female,High,Research Scientist,2,Married," $3,936 ",1,No,1,3
+1641,40,No,Travel_Rarely,Research & Development,16,Graduate,Life Sciences,3,Female,High,Manufacturing Director,4,Single," $7,945 ",6,Yes,2,3
+1642,44,No,Travel_Frequently,Human Resources,1,Doctorate,Human Resources,1,Male,High,Human Resources,4,Married," $5,743 ",4,Yes,3,3
+1644,48,No,Travel_Frequently,Research & Development,4,Doctorate,Medical,3,Male,Medium,Manager,4,Married," $15,202 ",2,No,3,4
+1645,35,Yes,Travel_Rarely,Sales,15,Intermediate,Medical,1,Male,Low,Sales Executive,4,Divorced," $5,440 ",6,Yes,2,3
+1646,24,No,Travel_Frequently,Research & Development,2,SSC,Technical Degree,1,Female,High,Research Scientist,4,Single," $3,760 ",1,Yes,3,3
+1647,27,No,Travel_Rarely,Research & Development,8,Graduate,Medical,2,Female,Very High,Research Scientist,3,Married," $3,517 ",7,No,3,3
+1648,27,No,Travel_Frequently,Research & Development,2,Graduate,Medical,4,Male,High,Research Scientist,4,Single," $2,580 ",2,No,2,3
+1649,40,Yes,Travel_Rarely,Research & Development,7,Graduate,Life Sciences,1,Male,High,Laboratory Technician,1,Single," $2,166 ",3,Yes,1,3
+1650,29,No,Travel_Rarely,Sales,10,Graduate,Medical,3,Male,Medium,Sales Executive,3,Single," $5,869 ",9,No,3,3
+1651,36,No,Travel_Rarely,Research & Development,5,Masters,Life Sciences,2,Female,High,Healthcare Representative,1,Married," $8,008 ",4,No,3,3
+1653,25,No,Travel_Frequently,Research & Development,2,SSC,Life Sciences,4,Male,Very High,Manufacturing Director,3,Divorced," $5,206 ",1,No,3,3
+1654,39,No,Travel_Rarely,Research & Development,12,Graduate,Medical,4,Male,High,Manufacturing Director,2,Married," $5,295 ",4,No,3,4
+1655,49,No,Travel_Rarely,Research & Development,22,Masters,Medical,1,Female,High,Research Director,2,Married," $16,413 ",3,No,3,3
+1656,50,No,Travel_Rarely,Research & Development,17,Doctorate,Life Sciences,4,Female,Medium,Research Director,1,Divorced," $13,269 ",5,No,3,3
+1657,20,No,Travel_Rarely,Sales,2,Graduate,Medical,3,Female,High,Sales Representative,3,Single," $2,783 ",1,No,3,3
+1658,34,No,Travel_Rarely,Research & Development,3,Graduate,Life Sciences,4,Female,High,Research Scientist,2,Divorced," $5,433 ",1,No,3,3
+1659,36,No,Travel_Rarely,Research & Development,7,Graduate,Life Sciences,1,Male,High,Laboratory Technician,2,Single," $2,013 ",2,No,3,3
+1661,49,No,Travel_Rarely,Research & Development,6,SSC,Life Sciences,3,Female,Medium,Healthcare Representative,3,Married," $13,966 ",2,Yes,3,3
+1662,36,No,Non-Travel,Research & Development,1,Masters,Medical,4,Female,Medium,Manufacturing Director,3,Married," $4,374 ",0,No,3,3
+1664,36,No,Travel_Rarely,Research & Development,3,Intermediate,Life Sciences,4,Male,Very High,Healthcare Representative,1,Divorced," $6,842 ",6,No,3,4
+1665,54,No,Travel_Rarely,Research & Development,22,Doctorate,Medical,2,Female,High,Manager,3,Married," $17,426 ",3,No,3,4
+1666,43,No,Travel_Rarely,Research & Development,15,Intermediate,Life Sciences,3,Male,Medium,Research Director,3,Married," $17,603 ",1,No,3,4
+1667,35,Yes,Travel_Frequently,Sales,12,Masters,Medical,4,Male,High,Sales Executive,4,Single," $4,581 ",3,Yes,4,4
+1668,38,No,Travel_Frequently,Research & Development,1,Graduate,Life Sciences,4,Male,High,Research Scientist,4,Married," $4,735 ",7,No,4,3
+1669,29,No,Travel_Rarely,Sales,5,Graduate,Medical,1,Male,Medium,Sales Executive,2,Divorced," $4,187 ",1,Yes,2,3
+1670,33,No,Travel_Rarely,Sales,2,Masters,Medical,4,Male,High,Sales Executive,4,Divorced," $5,505 ",1,No,3,3
+1671,32,No,Travel_Rarely,Research & Development,2,Graduate,Medical,4,Male,High,Research Scientist,2,Divorced," $5,470 ",0,No,2,3
+1673,31,No,Travel_Rarely,Sales,5,Masters,Life Sciences,1,Female,High,Sales Executive,4,Married," $5,476 ",1,No,3,3
+1674,49,No,Travel_Rarely,Research & Development,16,Graduate,Medical,4,Female,High,Laboratory Technician,1,Divorced," $2,587 ",4,Yes,2,3
+1675,38,No,Travel_Frequently,Research & Development,2,Graduate,Medical,4,Female,Medium,Laboratory Technician,2,Single," $2,440 ",1,No,3,4
+1676,47,No,Travel_Rarely,Sales,2,Masters,Life Sciences,2,Female,Very High,Manager,2,Divorced," $15,972 ",6,No,3,3
+1677,49,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,3,Male,High,Manager,3,Single," $15,379 ",4,No,3,3
+1678,41,No,Travel_Rarely,Sales,23,Intermediate,Life Sciences,4,Male,High,Sales Executive,3,Single," $7,082 ",3,Yes,3,3
+1680,20,No,Travel_Rarely,Sales,9,SSC,Life Sciences,4,Male,High,Sales Representative,1,Single," $2,728 ",1,No,3,3
+1681,33,No,Non-Travel,Sales,16,Graduate,Life Sciences,3,Female,High,Sales Executive,4,Divorced," $5,368 ",1,Yes,3,4
+1682,36,No,Travel_Rarely,Research & Development,26,Masters,Life Sciences,1,Male,High,Healthcare Representative,3,Married," $5,347 ",6,No,2,3
+1683,44,No,Travel_Rarely,Human Resources,1,Graduate,Life Sciences,3,Female,High,Human Resources,4,Divorced," $3,195 ",4,Yes,3,3
+1684,23,Yes,Travel_Rarely,Research & Development,8,SSC,Medical,4,Male,Medium,Laboratory Technician,3,Single," $3,989 ",1,Yes,3,3
+1687,38,No,Travel_Rarely,Research & Development,4,Intermediate,Medical,4,Female,High,Laboratory Technician,3,Married," $3,306 ",7,No,2,3
+1689,53,No,Travel_Rarely,Research & Development,24,Masters,Medical,2,Male,Very High,Healthcare Representative,4,Married," $7,005 ",3,No,3,3
+1691,48,Yes,Travel_Frequently,Sales,7,Intermediate,Medical,4,Female,High,Sales Representative,3,Married," $2,655 ",2,Yes,3,3
+1692,32,Yes,Travel_Rarely,Research & Development,2,Masters,Life Sciences,4,Male,High,Laboratory Technician,2,Single," $1,393 ",1,No,3,3
+1693,26,No,Non-Travel,Research & Development,7,Graduate,Medical,4,Male,High,Laboratory Technician,4,Single," $2,570 ",1,No,3,4
+1694,55,No,Travel_Rarely,Research & Development,22,Graduate,Technical Degree,1,Male,Medium,Research Scientist,2,Divorced," $3,537 ",5,No,3,3
+1696,34,No,Travel_Rarely,Research & Development,5,Intermediate,Medical,2,Male,Medium,Laboratory Technician,4,Married," $3,986 ",1,No,4,3
+1697,60,No,Travel_Rarely,Research & Development,1,Masters,Medical,3,Male,Low,Healthcare Representative,4,Divorced," $10,883 ",3,No,4,4
+1698,33,No,Travel_Rarely,Research & Development,21,Graduate,Medical,2,Male,Very High,Laboratory Technician,2,Married," $2,028 ",1,No,3,3
+1700,37,No,Travel_Frequently,Sales,1,Masters,Medical,3,Male,Low,Sales Executive,4,Divorced," $9,525 ",1,No,2,3
+1701,34,No,Travel_Rarely,Research & Development,19,Graduate,Life Sciences,2,Female,Medium,Research Scientist,4,Married," $2,929 ",1,No,3,3
+1702,23,Yes,Travel_Rarely,Sales,7,Graduate,Life Sciences,3,Male,High,Sales Representative,4,Divorced," $2,275 ",1,Yes,3,4
+1703,44,No,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,3,Female,Very High,Healthcare Representative,4,Married," $7,879 ",1,Yes,3,3
+1704,35,No,Travel_Frequently,Research & Development,2,Masters,Medical,1,Male,Medium,Research Scientist,4,Single," $4,930 ",0,Yes,4,3
+1706,43,No,Travel_Rarely,Sales,2,Graduate,Medical,4,Male,High,Sales Executive,4,Married," $7,847 ",1,Yes,3,3
+1707,24,No,Travel_Rarely,Research & Development,9,Graduate,Medical,3,Male,Very High,Research Scientist,3,Married," $4,401 ",1,No,3,3
+1708,41,No,Travel_Rarely,Sales,6,Graduate,Marketing,4,Male,High,Sales Executive,3,Single," $9,241 ",1,No,3,3
+1709,29,No,Travel_Rarely,Research & Development,9,Masters,Medical,4,Female,High,Laboratory Technician,3,Married," $2,974 ",9,No,3,3
+1710,36,No,Travel_Rarely,Sales,2,Masters,Life Sciences,3,Female,High,Sales Representative,4,Single," $4,502 ",3,No,2,3
+1712,45,No,Non-Travel,Research & Development,1,SSC,Life Sciences,3,Male,Medium,Healthcare Representative,3,Married," $10,748 ",3,No,2,4
+1714,24,Yes,Travel_Rarely,Human Resources,22,SSC,Human Resources,4,Male,Low,Human Resources,3,Married," $1,555 ",1,No,3,3
+1716,47,Yes,Travel_Frequently,Sales,9,Graduate,Life Sciences,3,Male,Low,Sales Executive,3,Married," $12,936 ",7,No,1,3
+1718,26,No,Travel_Rarely,Research & Development,17,Masters,Medical,4,Male,Low,Laboratory Technician,3,Married," $2,305 ",1,No,4,3
+1719,45,No,Travel_Rarely,Research & Development,28,Intermediate,Technical Degree,4,Female,Medium,Research Director,2,Single," $16,704 ",1,No,3,3
+1720,32,No,Travel_Frequently,Research & Development,10,Graduate,Life Sciences,1,Male,High,Research Scientist,3,Married," $3,433 ",6,No,2,3
+1721,31,No,Travel_Rarely,Research & Development,2,Masters,Life Sciences,2,Male,High,Laboratory Technician,3,Married," $3,477 ",1,No,4,3
+1722,41,No,Non-Travel,Human Resources,4,Graduate,Human Resources,3,Male,Low,Human Resources,2,Married," $6,430 ",6,No,3,3
+1724,40,No,Travel_Rarely,Research & Development,8,Intermediate,Life Sciences,2,Female,High,Manufacturing Director,1,Married," $6,516 ",2,Yes,3,3
+1725,24,No,Travel_Rarely,Research & Development,29,SSC,Medical,2,Male,High,Laboratory Technician,1,Divorced," $3,907 ",1,No,4,3
+1727,46,No,Travel_Rarely,Research & Development,13,Masters,Life Sciences,3,Male,High,Healthcare Representative,2,Single," $5,562 ",6,No,3,3
+1728,35,No,Travel_Rarely,Research & Development,27,Masters,Life Sciences,4,Male,High,Manufacturing Director,3,Married," $6,883 ",2,No,3,3
+1729,30,No,Travel_Rarely,Research & Development,16,SSC,Life Sciences,2,Male,High,Research Scientist,4,Married," $2,862 ",1,No,2,3
+1731,47,No,Non-Travel,Sales,2,Masters,Marketing,3,Male,High,Sales Executive,2,Married," $4,978 ",7,No,1,3
+1732,46,No,Travel_Rarely,Sales,2,Graduate,Life Sciences,3,Male,High,Sales Executive,4,Divorced," $10,368 ",4,Yes,2,3
+1733,36,Yes,Travel_Rarely,Sales,13,Doctorate,Marketing,2,Male,Medium,Sales Executive,1,Divorced," $6,134 ",5,Yes,3,3
+1734,32,Yes,Travel_Rarely,Sales,1,Intermediate,Life Sciences,1,Male,Low,Sales Executive,2,Single," $6,735 ",6,No,3,3
+1735,23,No,Travel_Rarely,Research & Development,4,SSC,Medical,3,Female,High,Laboratory Technician,2,Single," $3,295 ",1,No,1,3
+1736,31,No,Travel_Frequently,Research & Development,24,SSC,Technical Degree,4,Female,High,Manufacturing Director,4,Single," $5,238 ",2,No,2,4
+1737,39,No,Non-Travel,Research & Development,1,Graduate,Life Sciences,4,Male,High,Laboratory Technician,4,Married," $6,472 ",1,Yes,3,3
+1739,32,No,Travel_Rarely,Sales,19,Graduate,Life Sciences,4,Male,Low,Sales Executive,3,Married," $9,610 ",3,No,1,3
+1740,40,No,Travel_Rarely,Sales,7,Masters,Medical,2,Male,High,Manager,2,Single," $19,833 ",1,No,2,3
+1744,45,No,Travel_Rarely,Human Resources,4,Graduate,Life Sciences,3,Female,Low,Human Resources,3,Married," $9,756 ",4,No,4,4
+1745,30,No,Travel_Frequently,Research & Development,2,Masters,Technical Degree,4,Female,Medium,Research Scientist,1,Single," $4,968 ",0,No,3,3
+1746,24,No,Travel_Frequently,Human Resources,10,Graduate,Medical,1,Male,High,Human Resources,4,Married," $2,145 ",0,No,3,3
+1747,30,Yes,Travel_Frequently,Human Resources,8,Graduate,Human Resources,3,Female,Medium,Human Resources,4,Divorced," $2,180 ",6,No,2,3
+1749,31,No,Travel_Rarely,Sales,5,Graduate,Technical Degree,1,Male,High,Sales Executive,3,Married," $8,346 ",1,No,3,3
+1751,27,No,Travel_Rarely,Research & Development,8,Graduate,Medical,3,Female,High,Research Scientist,4,Single," $3,445 ",1,No,2,3
+1752,29,Yes,Travel_Rarely,Sales,9,Graduate,Marketing,2,Female,Low,Sales Representative,2,Single," $2,760 ",1,No,3,3
+1753,29,No,Travel_Frequently,Research & Development,1,Graduate,Life Sciences,4,Male,Very High,Healthcare Representative,3,Single," $6,294 ",8,Yes,4,3
+1754,30,No,Travel_Rarely,Sales,15,Intermediate,Marketing,3,Male,Medium,Sales Executive,1,Divorced," $7,140 ",2,No,3,3
+1755,34,No,Travel_Rarely,Research & Development,2,Masters,Medical,4,Male,Very High,Research Scientist,4,Married," $2,932 ",0,Yes,3,3
+1756,33,No,Non-Travel,Sales,2,Graduate,Marketing,4,Female,High,Sales Executive,2,Single," $5,147 ",8,No,2,3
+1757,49,No,Travel_Rarely,Sales,11,Masters,Marketing,4,Female,High,Sales Executive,4,Single," $4,507 ",3,No,4,3
+1758,33,Yes,Travel_Rarely,Sales,16,Graduate,Life Sciences,1,Female,High,Sales Executive,1,Single," $8,564 ",2,Yes,2,4
+1760,38,No,Travel_Frequently,Research & Development,2,Intermediate,Medical,3,Female,Medium,Laboratory Technician,2,Married," $2,468 ",4,No,2,3
+1761,31,Yes,Travel_Rarely,Sales,16,Masters,Marketing,1,Male,High,Sales Executive,3,Married," $8,161 ",2,No,3,3
+1762,29,No,Travel_Rarely,Research & Development,4,Graduate,Technical Degree,4,Female,Medium,Research Scientist,1,Divorced," $2,109 ",1,No,3,3
+1763,30,No,Travel_Rarely,Research & Development,16,Graduate,Life Sciences,3,Male,Very High,Healthcare Representative,3,Married," $5,294 ",3,No,3,3
+1764,32,No,Non-Travel,Research & Development,5,Masters,Technical Degree,2,Male,High,Research Scientist,2,Single," $2,718 ",2,No,3,3
+1766,38,No,Travel_Rarely,Research & Development,18,Graduate,Medical,2,Male,Low,Healthcare Representative,4,Married," $5,811 ",3,Yes,3,3
+1767,43,Yes,Travel_Frequently,Research & Development,17,Graduate,Technical Degree,3,Male,Medium,Research Scientist,3,Married," $2,437 ",9,Yes,3,3
+1768,42,No,Travel_Rarely,Research & Development,12,Graduate,Medical,2,Male,High,Laboratory Technician,2,Divorced," $2,766 ",8,No,2,4
+1770,55,No,Travel_Rarely,Research & Development,2,Graduate,Medical,3,Male,Medium,Research Director,1,Married," $19,038 ",8,No,3,3
+1771,33,No,Non-Travel,Research & Development,4,Graduate,Technical Degree,4,Male,High,Research Scientist,2,Divorced," $3,055 ",5,No,2,3
+1772,41,No,Travel_Rarely,Research & Development,9,Masters,Life Sciences,3,Male,High,Laboratory Technician,1,Divorced," $2,289 ",1,No,3,4
+1774,34,No,Non-Travel,Sales,10,Graduate,Life Sciences,4,Male,High,Sales Executive,3,Divorced," $4,001 ",1,Yes,3,3
+1775,53,No,Non-Travel,Research & Development,1,Masters,Medical,1,Female,Medium,Manufacturing Director,3,Married," $12,965 ",4,Yes,2,4
+1778,43,No,Travel_Rarely,Human Resources,2,Graduate,Life Sciences,2,Male,High,Human Resources,4,Single," $3,539 ",0,No,3,3
+1779,34,No,Travel_Rarely,Sales,3,Intermediate,Life Sciences,4,Female,Low,Sales Executive,4,Single," $6,029 ",5,No,3,3
+1780,21,Yes,Travel_Rarely,Sales,7,SSC,Marketing,2,Male,High,Sales Representative,2,Single," $2,679 ",1,No,3,3
+1782,38,No,Travel_Rarely,Research & Development,6,Intermediate,Medical,4,Female,Medium,Laboratory Technician,3,Married," $3,702 ",1,No,3,3
+1783,22,Yes,Travel_Rarely,Research & Development,8,SSC,Medical,3,Female,High,Laboratory Technician,1,Married," $2,398 ",1,Yes,3,3
+1784,31,No,Travel_Rarely,Sales,29,Masters,Marketing,1,Female,Medium,Sales Executive,4,Married," $5,468 ",1,No,3,3
+1786,51,No,Travel_Rarely,Research & Development,3,Graduate,Technical Degree,1,Female,High,Manager,3,Married," $13,116 ",2,No,3,3
+1787,37,No,Travel_Rarely,Sales,9,Intermediate,Marketing,2,Male,Medium,Sales Executive,2,Married," $4,189 ",1,No,3,3
+1789,46,No,Travel_Rarely,Research & Development,2,Masters,Medical,3,Male,High,Research Director,4,Divorced," $19,328 ",7,Yes,3,3
+1790,36,No,Travel_Rarely,Research & Development,10,Graduate,Life Sciences,4,Male,High,Healthcare Representative,1,Married," $8,321 ",7,Yes,3,3
+1792,44,Yes,Travel_Frequently,Research & Development,1,Intermediate,Medical,3,Male,High,Research Scientist,2,Divorced," $2,342 ",1,Yes,2,3
+1794,37,No,Travel_Rarely,Human Resources,8,Intermediate,Medical,3,Male,High,Human Resources,2,Divorced," $4,071 ",2,No,2,3
+1797,35,Yes,Travel_Rarely,Sales,27,Graduate,Life Sciences,3,Male,High,Sales Executive,4,Single," $5,813 ",1,Yes,3,3
+1798,33,No,Travel_Rarely,Research & Development,8,Masters,Life Sciences,4,Male,Very High,Research Scientist,1,Married," $3,143 ",6,No,3,3
+1799,28,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,3,Male,High,Research Scientist,4,Married," $2,044 ",1,No,4,3
+1800,39,No,Travel_Rarely,Research & Development,10,SSC,Medical,3,Male,High,Research Director,3,Single," $13,464 ",7,No,3,4
+1801,46,No,Non-Travel,Sales,26,Intermediate,Life Sciences,2,Male,Medium,Sales Executive,2,Single," $7,991 ",8,No,3,3
+1802,40,No,Travel_Rarely,Research & Development,2,Intermediate,Life Sciences,3,Female,High,Laboratory Technician,1,Married," $3,377 ",4,No,2,3
+1803,42,No,Travel_Rarely,Research & Development,13,Graduate,Medical,2,Male,Very High,Healthcare Representative,1,Married," $5,538 ",5,No,2,3
+1804,35,No,Non-Travel,Research & Development,2,Intermediate,Medical,2,Male,High,Manufacturing Director,4,Divorced," $5,762 ",2,No,3,3
+1805,38,No,Non-Travel,Human Resources,2,Graduate,Human Resources,1,Male,High,Human Resources,2,Divorced," $2,592 ",5,No,3,3
+1807,34,Yes,Travel_Frequently,Research & Development,9,Masters,Life Sciences,4,Male,High,Laboratory Technician,1,Married," $5,346 ",4,No,2,3
+1809,37,Yes,Travel_Rarely,Research & Development,10,Masters,Medical,4,Male,High,Manufacturing Director,1,Single," $4,213 ",1,No,1,3
+1812,39,No,Travel_Frequently,Sales,20,Graduate,Life Sciences,3,Male,High,Sales Executive,4,Divorced," $4,127 ",2,No,3,3
+1813,43,No,Non-Travel,Research & Development,9,Graduate,Life Sciences,1,Male,High,Research Scientist,3,Single," $2,438 ",4,No,2,3
+1814,41,No,Travel_Rarely,Research & Development,5,Graduate,Life Sciences,2,Male,Very High,Healthcare Representative,2,Single," $6,870 ",3,No,1,3
+1815,41,No,Travel_Rarely,Sales,4,SSC,Marketing,3,Female,High,Sales Executive,3,Divorced," $10,447 ",0,Yes,4,3
+1816,30,No,Travel_Rarely,Research & Development,10,Graduate,Medical,1,Female,High,Manufacturing Director,3,Single," $9,667 ",9,No,3,3
+1818,26,Yes,Travel_Rarely,Human Resources,20,Intermediate,Medical,4,Female,High,Human Resources,2,Married," $2,148 ",0,Yes,3,3
+1821,46,Yes,Travel_Rarely,Research & Development,21,Intermediate,Medical,4,Female,High,Healthcare Representative,2,Married," $8,926 ",4,No,4,4
+1822,40,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,3,Female,High,Healthcare Representative,4,Divorced," $6,513 ",4,No,3,3
+1823,34,No,Travel_Rarely,Sales,8,Intermediate,Technical Degree,2,Male,Very High,Sales Executive,3,Married," $6,799 ",1,No,3,4
+1824,58,No,Non-Travel,Sales,2,Graduate,Medical,2,Male,High,Manager,2,Divorced," $16,291 ",4,No,2,4
+1826,35,No,Travel_Rarely,Research & Development,23,Masters,Medical,2,Male,Low,Laboratory Technician,3,Married," $2,705 ",0,No,4,3
+1827,47,No,Travel_Rarely,Research & Development,4,Graduate,Life Sciences,3,Female,Medium,Manufacturing Director,2,Divorced," $10,333 ",8,Yes,3,3
+1829,40,No,Travel_Rarely,Research & Development,12,Graduate,Life Sciences,2,Female,High,Healthcare Representative,1,Divorced," $4,448 ",2,No,3,3
+1830,54,No,Travel_Rarely,Research & Development,7,Masters,Medical,4,Female,High,Research Scientist,4,Married," $6,854 ",4,No,2,3
+1833,31,No,Travel_Frequently,Sales,7,Masters,Marketing,1,Female,High,Sales Executive,1,Married," $9,637 ",2,No,3,3
+1834,28,No,Travel_Rarely,Research & Development,1,Graduate,Medical,3,Female,High,Research Scientist,1,Married," $3,591 ",1,No,3,4
+1835,38,No,Travel_Rarely,Sales,2,Masters,Marketing,2,Female,Low,Sales Representative,4,Married," $5,405 ",2,Yes,2,4
+1836,26,No,Travel_Rarely,Sales,10,Graduate,Medical,3,Male,High,Sales Executive,4,Single," $4,684 ",1,No,3,3
+1837,58,No,Travel_Frequently,Research & Development,15,Masters,Life Sciences,1,Male,High,Research Director,3,Married," $15,787 ",2,Yes,3,3
+1839,18,No,Non-Travel,Research & Development,14,Graduate,Medical,2,Female,High,Research Scientist,3,Single," $1,514 ",1,No,1,3
+1842,31,Yes,Travel_Rarely,Human Resources,18,Doctorate,Human Resources,4,Male,Very High,Human Resources,1,Married," $2,956 ",0,No,3,3
+1844,29,Yes,Travel_Rarely,Human Resources,13,Graduate,Human Resources,1,Male,Medium,Human Resources,1,Divorced," $2,335 ",4,Yes,3,3
+1845,45,No,Non-Travel,Sales,2,Masters,Life Sciences,3,Female,High,Sales Executive,3,Married," $5,154 ",4,No,4,4
+1847,36,No,Travel_Rarely,Research & Development,2,Masters,Medical,4,Female,High,Research Scientist,2,Married," $6,962 ",4,Yes,3,4
+1849,43,No,Travel_Frequently,Sales,2,Masters,Life Sciences,1,Male,High,Sales Executive,4,Married," $5,675 ",1,No,3,4
+1850,27,No,Travel_Frequently,Research & Development,5,Intermediate,Life Sciences,4,Female,High,Laboratory Technician,4,Single," $2,379 ",0,Yes,2,3
+1852,29,No,Travel_Frequently,Research & Development,20,SSC,Medical,4,Male,High,Laboratory Technician,4,Married," $3,812 ",1,No,4,3
+1853,32,No,Travel_Frequently,Sales,10,Masters,Marketing,4,Male,High,Sales Executive,4,Single," $4,648 ",8,No,4,3
+1854,42,No,Non-Travel,Research & Development,10,Masters,Technical Degree,3,Male,High,Research Scientist,3,Married," $2,936 ",3,No,2,4
+1856,47,No,Travel_Rarely,Research & Development,9,Masters,Life Sciences,2,Female,High,Laboratory Technician,3,Single," $2,105 ",4,No,3,3
+1857,46,No,Travel_Rarely,Research & Development,2,Intermediate,Life Sciences,4,Male,High,Manufacturing Director,4,Divorced," $8,578 ",3,No,2,3
+1858,28,No,Non-Travel,Human Resources,1,Intermediate,Life Sciences,3,Male,High,Human Resources,4,Divorced," $2,706 ",1,No,3,3
+1859,29,No,Travel_Rarely,Research & Development,29,SSC,Life Sciences,4,Male,Low,Healthcare Representative,3,Divorced," $6,384 ",8,No,3,3
+1860,42,No,Travel_Rarely,Research & Development,8,Graduate,Life Sciences,4,Male,High,Laboratory Technician,3,Single," $3,968 ",4,No,3,3
+1862,32,Yes,Travel_Rarely,Sales,2,Masters,Marketing,3,Male,Medium,Sales Executive,2,Single," $9,907 ",7,Yes,2,3
+1863,46,No,Travel_Rarely,Sales,3,Graduate,Technical Degree,1,Female,Very High,Sales Executive,1,Divorced," $13,225 ",2,No,3,3
+1864,27,No,Travel_Rarely,Sales,23,SSC,Medical,2,Female,Medium,Sales Representative,3,Married," $3,540 ",1,No,3,4
+1865,29,No,Travel_Rarely,Human Resources,6,SSC,Medical,4,Male,Medium,Human Resources,2,Married," $2,804 ",1,No,3,3
+1866,43,No,Travel_Rarely,Research & Development,6,Graduate,Medical,1,Female,Medium,Manager,3,Married," $19,392 ",7,No,3,3
+1867,48,No,Travel_Rarely,Research & Development,10,Graduate,Life Sciences,4,Male,Medium,Research Director,2,Married," $19,665 ",4,No,3,3
+1868,29,Yes,Travel_Frequently,Research & Development,24,Intermediate,Life Sciences,4,Male,Medium,Research Scientist,4,Single," $2,439 ",1,Yes,2,4
+1869,46,Yes,Travel_Rarely,Sales,10,Graduate,Life Sciences,3,Female,High,Sales Executive,2,Married," $7,314 ",5,No,3,4
+1870,27,No,Travel_Frequently,Research & Development,15,Graduate,Life Sciences,4,Female,Medium,Research Scientist,1,Married," $4,774 ",0,No,2,3
+1871,39,No,Travel_Rarely,Research & Development,19,Masters,Medical,4,Male,High,Research Scientist,4,Divorced," $3,902 ",8,No,3,3
+1873,55,No,Travel_Rarely,Research & Development,2,Masters,Technical Degree,2,Male,Medium,Research Scientist,4,Married," $2,662 ",8,No,4,4
+1875,28,No,Travel_Rarely,Sales,3,Graduate,Medical,2,Female,High,Sales Representative,2,Married," $2,856 ",1,No,3,3
+1876,30,Yes,Travel_Rarely,Sales,9,Graduate,Medical,2,Male,High,Sales Representative,4,Single," $1,081 ",1,No,2,3
+1878,22,Yes,Travel_Rarely,Research & Development,7,SSC,Life Sciences,4,Male,High,Research Scientist,2,Single," $2,472 ",1,Yes,3,4
+1880,36,No,Travel_Rarely,Sales,10,Masters,Technical Degree,2,Female,Medium,Sales Executive,3,Married," $5,673 ",1,Yes,3,3
+1881,31,No,Travel_Rarely,Research & Development,20,Graduate,Life Sciences,2,Male,High,Laboratory Technician,3,Divorced," $4,197 ",1,No,3,3
+1882,34,No,Travel_Rarely,Sales,4,Graduate,Life Sciences,3,Male,High,Sales Executive,4,Married," $9,713 ",2,Yes,3,3
+1883,29,No,Travel_Rarely,Research & Development,7,Graduate,Life Sciences,4,Male,High,Laboratory Technician,1,Single," $2,062 ",3,No,3,3
+1885,37,No,Travel_Rarely,Research & Development,7,Masters,Medical,4,Male,High,Research Scientist,1,Married," $4,284 ",5,Yes,3,4
+1886,35,No,Travel_Rarely,Research & Development,16,Intermediate,Medical,4,Female,Medium,Manufacturing Director,2,Married," $4,788 ",0,Yes,3,3
+1888,45,No,Travel_Rarely,Research & Development,25,Intermediate,Life Sciences,2,Female,Medium,Manufacturing Director,4,Married," $5,906 ",0,No,2,3
+1890,36,No,Travel_Frequently,Human Resources,2,SSC,Human Resources,2,Male,Medium,Human Resources,4,Single," $3,886 ",1,No,2,4
+1892,40,No,Travel_Rarely,Research & Development,1,Masters,Life Sciences,1,Male,High,Manager,1,Divorced," $16,823 ",2,No,3,3
+1893,26,No,Travel_Rarely,Research & Development,1,Intermediate,Life Sciences,2,Female,Medium,Research Scientist,3,Married," $2,933 ",1,Yes,2,3
+1898,27,No,Travel_Rarely,Sales,2,Intermediate,Medical,1,Female,Very High,Sales Executive,3,Single," $6,500 ",0,No,2,3
+1900,48,No,Travel_Frequently,Research & Development,22,Graduate,Medical,4,Female,High,Manager,4,Divorced," $17,174 ",3,No,3,3
+1903,44,No,Travel_Rarely,Research & Development,1,Masters,Life Sciences,2,Male,Very High,Healthcare Representative,1,Married," $5,033 ",2,No,3,3
+1905,34,Yes,Non-Travel,Research & Development,16,Masters,Technical Degree,4,Male,Low,Research Scientist,1,Married," $2,307 ",1,Yes,3,4
+1907,56,Yes,Travel_Rarely,Research & Development,24,Intermediate,Life Sciences,1,Male,High,Laboratory Technician,4,Single," $2,587 ",1,No,3,3
+1908,36,No,Travel_Rarely,Sales,17,Intermediate,Marketing,3,Male,Medium,Sales Executive,2,Married," $5,507 ",2,No,1,3
+1909,41,No,Travel_Rarely,Sales,8,Graduate,Marketing,3,Female,High,Sales Executive,2,Married," $4,393 ",5,No,3,4
+1911,42,No,Travel_Rarely,Research & Development,6,Graduate,Medical,3,Male,High,Research Director,1,Married," $13,348 ",9,No,4,3
+1912,31,No,Travel_Rarely,Sales,10,Intermediate,Medical,3,Female,High,Sales Executive,4,Divorced," $6,583 ",2,Yes,3,3
+1915,34,No,Travel_Rarely,Sales,3,SSC,Medical,4,Female,Medium,Sales Executive,4,Married," $8,103 ",3,Yes,2,3
+1916,31,No,Travel_Rarely,Research & Development,4,Graduate,Medical,1,Female,Very High,Laboratory Technician,3,Divorced," $3,978 ",8,No,2,3
+1918,26,No,Travel_Frequently,Research & Development,6,Graduate,Medical,3,Male,Very High,Laboratory Technician,4,Married," $2,544 ",0,No,3,3
+1922,45,No,Travel_Frequently,Research & Development,1,Masters,Medical,2,Male,High,Healthcare Representative,3,Single," $5,399 ",4,No,3,3
+1924,33,No,Travel_Rarely,Sales,10,Masters,Marketing,2,Male,High,Sales Executive,3,Single," $5,487 ",1,No,2,3
+1927,28,No,Travel_Frequently,Sales,1,Intermediate,Life Sciences,3,Male,Medium,Sales Executive,4,Married," $6,834 ",1,Yes,3,3
+1928,29,Yes,Travel_Frequently,Sales,24,Graduate,Technical Degree,3,Male,Very High,Sales Representative,1,Single," $1,091 ",1,No,3,3
+1929,39,No,Non-Travel,Sales,21,Masters,Life Sciences,1,Female,Low,Sales Executive,3,Married," $5,736 ",6,No,3,3
+1931,27,No,Travel_Rarely,Research & Development,2,Masters,Technical Degree,2,Male,High,Research Scientist,2,Married," $2,226 ",1,No,2,3
+1932,34,No,Travel_Frequently,Research & Development,22,Masters,Medical,3,Male,Medium,Research Scientist,4,Married," $5,747 ",1,Yes,3,3
+1933,28,Yes,Travel_Rarely,Sales,13,Intermediate,Marketing,4,Female,High,Sales Executive,3,Single," $9,854 ",3,Yes,3,3
+1934,47,No,Non-Travel,Research & Development,14,Masters,Technical Degree,3,Male,High,Research Scientist,2,Married," $5,467 ",8,No,4,3
+1935,56,No,Travel_Rarely,Sales,11,Doctorate,Marketing,4,Female,Medium,Sales Executive,1,Married," $5,380 ",4,No,3,3
+1936,39,No,Travel_Rarely,Research & Development,9,Intermediate,Medical,1,Male,High,Manufacturing Director,1,Married," $5,151 ",1,No,3,4
+1937,38,No,Travel_Frequently,Research & Development,8,Graduate,Medical,4,Female,Medium,Research Scientist,2,Divorced," $2,133 ",1,Yes,3,3
+1938,58,No,Travel_Rarely,Sales,21,Graduate,Life Sciences,4,Female,High,Manager,4,Married," $17,875 ",4,Yes,2,3
+1939,32,Yes,Travel_Frequently,Research & Development,5,Intermediate,Life Sciences,1,Female,Very High,Research Scientist,3,Single," $2,432 ",3,Yes,3,3
+1940,38,No,Travel_Rarely,Research & Development,9,Intermediate,Life Sciences,2,Male,High,Research Scientist,4,Divorced," $4,771 ",2,No,4,3
+1941,49,No,Travel_Frequently,Research & Development,2,SSC,Life Sciences,2,Male,High,Research Director,4,Married," $19,161 ",3,No,3,3
+1943,42,No,Travel_Rarely,Sales,12,Masters,Marketing,2,Male,High,Sales Executive,4,Divorced," $5,087 ",3,Yes,3,3
+1944,27,Yes,Travel_Frequently,Human Resources,22,Graduate,Human Resources,1,Female,Medium,Human Resources,2,Married," $2,863 ",1,No,3,3
+1945,35,No,Travel_Rarely,Sales,18,Masters,Medical,2,Male,High,Sales Executive,1,Married," $5,561 ",0,No,1,3
+1947,28,No,Non-Travel,Research & Development,16,Graduate,Medical,3,Male,High,Research Scientist,3,Single," $2,144 ",1,No,2,3
+1948,31,No,Non-Travel,Research & Development,3,Intermediate,Medical,3,Male,High,Research Scientist,1,Divorced," $3,065 ",1,Yes,4,3
+1949,36,No,Non-Travel,Research & Development,9,Masters,Life Sciences,1,Male,Very High,Laboratory Technician,2,Married," $2,810 ",1,No,3,4
+1950,34,No,Travel_Rarely,Sales,1,Graduate,Marketing,1,Male,High,Sales Executive,4,Single," $9,888 ",1,No,2,4
+1951,34,No,Travel_Rarely,Sales,13,Masters,Medical,4,Male,High,Sales Executive,3,Divorced," $8,628 ",1,No,2,3
+1952,26,No,Travel_Rarely,Research & Development,1,Graduate,Medical,3,Male,High,Laboratory Technician,1,Single," $2,867 ",0,No,2,3
+1954,29,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,1,Male,High,Healthcare Representative,1,Married," $5,373 ",0,No,2,3
+1955,32,No,Non-Travel,Research & Development,15,Masters,Medical,3,Female,High,Healthcare Representative,4,Divorced," $6,667 ",5,No,3,3
+1956,31,No,Travel_Frequently,Research & Development,1,Graduate,Life Sciences,4,Male,Low,Research Scientist,1,Married," $5,003 ",1,No,3,4
+1960,28,Yes,Travel_Rarely,Research & Development,17,Graduate,Technical Degree,3,Male,Medium,Laboratory Technician,4,Divorced," $2,367 ",5,No,2,3
+1961,38,No,Travel_Rarely,Sales,1,Graduate,Life Sciences,1,Male,Medium,Sales Representative,1,Single," $2,858 ",4,No,2,3
+1962,35,No,Travel_Rarely,Sales,7,Masters,Life Sciences,3,Female,High,Sales Executive,4,Married," $5,204 ",1,Yes,3,3
+1965,27,No,Travel_Rarely,Sales,9,Graduate,Marketing,4,Male,High,Sales Executive,4,Single," $4,105 ",1,No,3,3
+1966,32,No,Travel_Rarely,Research & Development,5,Masters,Life Sciences,4,Male,Medium,Manufacturing Director,4,Single," $9,679 ",8,No,3,4
+1967,31,Yes,Travel_Frequently,Sales,26,Masters,Marketing,1,Male,High,Sales Executive,4,Married," $5,617 ",1,Yes,3,3
+1968,53,Yes,Travel_Rarely,Sales,24,Masters,Life Sciences,1,Male,High,Sales Executive,1,Single," $10,448 ",6,Yes,2,3
+1969,54,No,Travel_Rarely,Research & Development,9,Intermediate,Life Sciences,1,Female,High,Research Scientist,3,Married," $2,897 ",3,No,2,3
+1970,33,No,Travel_Frequently,Research & Development,7,Intermediate,Life Sciences,4,Male,High,Healthcare Representative,3,Divorced," $5,968 ",1,No,3,4
+1971,43,No,Travel_Rarely,Research & Development,11,Graduate,Life Sciences,1,Male,High,Healthcare Representative,3,Married," $7,510 ",1,No,3,3
+1972,38,No,Travel_Frequently,Human Resources,1,Masters,Medical,4,Male,High,Human Resources,2,Married," $2,991 ",0,Yes,3,3
+1973,55,No,Travel_Rarely,Human Resources,26,Masters,Human Resources,3,Male,Very High,Manager,2,Married," $19,636 ",4,Yes,3,3
+1974,31,No,Travel_Rarely,Research & Development,2,SSC,Medical,4,Female,Low,Laboratory Technician,4,Divorced," $1,129 ",1,Yes,3,3
+1975,39,No,Travel_Rarely,Sales,15,Masters,Marketing,2,Male,High,Sales Executive,1,Single," $13,341 ",0,No,3,3
+1976,42,No,Non-Travel,Research & Development,23,Intermediate,Life Sciences,4,Male,Medium,Research Scientist,3,Single," $4,332 ",1,No,3,3
+1979,31,No,Non-Travel,Research & Development,10,Graduate,Medical,3,Female,High,Research Director,3,Married," $11,031 ",4,No,4,4
+1980,54,No,Travel_Rarely,Research & Development,10,Graduate,Medical,3,Female,High,Manufacturing Director,1,Single," $4,440 ",6,Yes,3,3
+1981,24,No,Travel_Rarely,Research & Development,1,Intermediate,Life Sciences,2,Male,Medium,Healthcare Representative,3,Single," $4,617 ",1,No,2,3
+1982,23,No,Travel_Rarely,Research & Development,12,Intermediate,Medical,4,Male,High,Laboratory Technician,4,Single," $2,647 ",1,No,4,3
+1985,40,No,Travel_Frequently,Research & Development,11,Graduate,Technical Degree,4,Female,High,Laboratory Technician,3,Married," $6,323 ",1,No,4,3
+1986,40,No,Travel_Rarely,Sales,2,Intermediate,Marketing,2,Female,High,Sales Executive,2,Married," $5,677 ",3,No,3,3
+1987,25,No,Travel_Rarely,Human Resources,2,Graduate,Human Resources,3,Female,High,Human Resources,2,Married," $2,187 ",4,No,3,3
+1989,30,No,Travel_Rarely,Research & Development,1,Intermediate,Medical,4,Male,High,Laboratory Technician,2,Married," $3,748 ",1,No,2,3
+1992,25,No,Travel_Rarely,Research & Development,2,SSC,Medical,4,Male,High,Laboratory Technician,3,Divorced," $3,977 ",6,Yes,2,3
+1993,47,No,Travel_Rarely,Research & Development,25,Graduate,Medical,1,Male,High,Healthcare Representative,3,Single," $8,633 ",2,No,3,4
+1994,33,No,Non-Travel,Research & Development,1,Intermediate,Medical,2,Male,Medium,Laboratory Technician,3,Divorced," $2,008 ",1,No,2,3
+1995,38,No,Travel_Rarely,Sales,1,Masters,Life Sciences,4,Male,High,Sales Executive,2,Married," $4,440 ",0,No,3,3
+1996,31,No,Travel_Rarely,Sales,2,Intermediate,Life Sciences,1,Male,High,Sales Representative,3,Married," $3,067 ",0,No,3,3
+1997,38,No,Travel_Frequently,Research & Development,6,Masters,Life Sciences,1,Male,Medium,Manufacturing Director,3,Married," $5,321 ",2,No,3,3
+1998,42,No,Travel_Rarely,Research & Development,18,Masters,Life Sciences,4,Male,High,Research Scientist,1,Divorced," $5,410 ",6,Yes,2,3
+1999,41,No,Travel_Rarely,Research & Development,1,Graduate,Life Sciences,4,Male,High,Research Scientist,4,Married," $2,782 ",3,No,3,4
+2000,47,No,Non-Travel,Research & Development,1,SSC,Medical,3,Female,High,Research Director,2,Married," $11,957 ",0,No,1,3
+2003,35,No,Travel_Rarely,Research & Development,11,Masters,Medical,4,Male,High,Laboratory Technician,3,Married," $2,660 ",7,Yes,3,3
+2007,22,No,Travel_Rarely,Research & Development,1,Intermediate,Life Sciences,4,Male,High,Research Scientist,3,Single," $3,375 ",0,No,4,3
+2008,35,No,Travel_Rarely,Research & Development,9,Masters,Medical,2,Male,High,Research Scientist,3,Single," $5,098 ",1,No,3,3
+2009,33,No,Travel_Rarely,Research & Development,15,Intermediate,Medical,2,Female,High,Healthcare Representative,4,Married," $4,878 ",0,Yes,3,3
+2010,32,No,Travel_Rarely,Research & Development,29,Masters,Life Sciences,3,Female,Medium,Laboratory Technician,2,Single," $2,837 ",1,No,3,3
+2012,40,No,Travel_Rarely,Research & Development,1,Masters,Life Sciences,1,Male,High,Laboratory Technician,4,Married," $2,406 ",8,No,2,3
+2013,32,No,Travel_Rarely,Sales,1,Masters,Medical,2,Male,Medium,Sales Representative,2,Married," $2,269 ",0,No,3,3
+2014,39,No,Travel_Rarely,Research & Development,24,SSC,Life Sciences,1,Male,High,Research Scientist,4,Single," $4,108 ",7,No,3,3
+2015,38,No,Travel_Rarely,Research & Development,10,Graduate,Medical,2,Female,Low,Research Director,3,Married," $13,206 ",3,No,3,3
+2016,32,No,Travel_Rarely,Sales,1,Masters,Marketing,3,Female,High,Sales Executive,4,Married," $10,422 ",1,No,3,3
+2017,37,No,Travel_Rarely,Research & Development,10,Graduate,Life Sciences,3,Female,Very High,Research Director,4,Married," $13,744 ",1,Yes,3,4
+2018,25,No,Travel_Rarely,Sales,8,Intermediate,Medical,1,Female,High,Sales Executive,3,Divorced," $4,907 ",0,Yes,2,4
+2019,52,No,Non-Travel,Sales,29,Masters,Life Sciences,1,Male,High,Sales Representative,4,Divorced," $3,482 ",2,No,2,3
+2020,44,No,Travel_Rarely,Research & Development,1,Graduate,Medical,2,Male,High,Research Scientist,4,Single," $2,436 ",6,Yes,3,3
+2021,21,No,Travel_Rarely,Sales,5,SSC,Medical,3,Male,High,Sales Representative,1,Single," $2,380 ",1,Yes,3,3
+2022,39,No,Non-Travel,Research & Development,9,Graduate,Life Sciences,4,Male,High,Manager,4,Single," $19,431 ",2,No,2,3
+2023,23,Yes,Travel_Frequently,Sales,9,Graduate,Marketing,4,Male,High,Sales Representative,1,Married," $1,790 ",1,No,2,3
+2024,36,No,Travel_Rarely,Sales,3,Graduate,Medical,1,Female,Medium,Sales Executive,4,Married," $7,644 ",0,No,3,3
+2025,36,No,Travel_Frequently,Research & Development,4,Intermediate,Life Sciences,4,Female,High,Manufacturing Director,2,Divorced," $5,131 ",7,No,3,3
+2026,56,No,Non-Travel,Research & Development,1,Masters,Life Sciences,3,Male,High,Healthcare Representative,3,Divorced," $6,306 ",1,No,2,4
+2027,29,Yes,Travel_Rarely,Research & Development,1,Masters,Medical,1,Male,High,Research Scientist,4,Married," $4,787 ",9,Yes,4,3
+2031,42,No,Travel_Rarely,Research & Development,2,Graduate,Life Sciences,1,Male,High,Manager,3,Married," $18,880 ",5,No,2,3
+2032,56,Yes,Travel_Rarely,Research & Development,7,Intermediate,Technical Degree,4,Male,High,Laboratory Technician,3,Married," $2,339 ",8,No,1,3
+2034,41,No,Travel_Rarely,Research & Development,28,Masters,Life Sciences,1,Female,Medium,Manufacturing Director,2,Married," $13,570 ",0,No,3,4
+2035,34,No,Travel_Rarely,Sales,28,Graduate,Marketing,4,Female,Medium,Sales Executive,3,Married," $6,712 ",1,No,3,4
+2036,36,No,Non-Travel,Sales,15,Masters,Marketing,4,Male,Low,Sales Executive,4,Divorced," $5,406 ",1,No,2,4
+2037,41,No,Travel_Rarely,Sales,3,Graduate,Life Sciences,3,Male,Medium,Sales Executive,2,Divorced," $8,938 ",2,No,3,3
+2038,32,No,Travel_Rarely,Research & Development,2,Graduate,Technical Degree,4,Male,High,Research Scientist,1,Single," $2,439 ",1,No,3,3
+2040,35,No,Travel_Rarely,Human Resources,26,Masters,Life Sciences,3,Female,High,Human Resources,4,Single," $8,837 ",1,Yes,3,3
+2041,38,No,Travel_Rarely,Sales,10,Intermediate,Life Sciences,1,Female,High,Sales Executive,4,Married," $5,343 ",1,No,3,3
+2044,50,Yes,Travel_Frequently,Sales,1,Masters,Life Sciences,2,Male,High,Sales Executive,3,Divorced," $6,728 ",7,No,3,3
+2045,36,No,Travel_Rarely,Sales,11,Masters,Marketing,2,Female,Medium,Sales Executive,4,Married," $6,652 ",4,No,2,3
+2046,45,No,Travel_Rarely,Sales,20,Graduate,Life Sciences,4,Female,High,Sales Executive,3,Single," $4,850 ",8,No,3,3
+2048,40,No,Travel_Rarely,Research & Development,2,Masters,Life Sciences,3,Male,Medium,Research Scientist,3,Single," $2,809 ",2,No,3,3
+2049,35,No,Travel_Frequently,Research & Development,18,Masters,Life Sciences,3,Male,High,Healthcare Representative,3,Married," $5,689 ",1,Yes,4,3
+2051,40,No,Travel_Rarely,Research & Development,2,Masters,Medical,3,Female,High,Research Scientist,3,Married," $2,001 ",2,No,3,3
+2052,35,No,Travel_Rarely,Research & Development,1,Masters,Life Sciences,3,Female,Low,Research Scientist,4,Married," $2,977 ",1,No,3,3
+2053,29,No,Travel_Rarely,Research & Development,13,Intermediate,Medical,4,Male,Medium,Laboratory Technician,2,Married," $4,025 ",4,Yes,3,3
+2054,29,No,Travel_Rarely,Research & Development,28,Masters,Medical,4,Female,Medium,Research Scientist,1,Single," $3,785 ",1,No,1,3
+2055,50,Yes,Travel_Rarely,Sales,28,Graduate,Marketing,4,Male,Medium,Sales Executive,1,Divorced," $10,854 ",4,Yes,3,3
+2056,39,No,Travel_Rarely,Sales,24,SSC,Marketing,2,Female,Medium,Sales Executive,4,Married," $12,031 ",0,No,2,3
+2057,31,No,Non-Travel,Research & Development,5,Graduate,Medical,2,Male,High,Manufacturing Director,1,Single," $9,936 ",0,No,3,3
+2060,26,No,Travel_Rarely,Sales,5,Graduate,Medical,4,Female,Medium,Sales Representative,3,Single," $2,966 ",0,No,3,3
+2061,36,No,Travel_Frequently,Research & Development,23,Intermediate,Medical,3,Male,Very High,Laboratory Technician,4,Married," $2,571 ",4,No,3,3
+2062,39,No,Travel_Rarely,Research & Development,6,SSC,Medical,4,Male,Medium,Healthcare Representative,1,Married," $9,991 ",4,No,3,3
+2064,27,No,Travel_Rarely,Research & Development,4,Graduate,Life Sciences,2,Male,Very High,Manufacturing Director,2,Married," $6,142 ",1,Yes,3,4
+2065,49,No,Travel_Frequently,Sales,2,Graduate,Medical,4,Male,Medium,Sales Executive,2,Married," $5,390 ",2,No,2,3
+2068,34,No,Travel_Rarely,Research & Development,8,Graduate,Medical,2,Male,Very High,Laboratory Technician,3,Married," $4,404 ",2,No,4,3
+,,,,,,1470,,,,,,,,,,,,
