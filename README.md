@@ -24,7 +24,7 @@ Data Cleaning in Python:
 
 Renamed columns.
 
-Converting data types.
+Converted data types.
 
 Handled missing values.
 
