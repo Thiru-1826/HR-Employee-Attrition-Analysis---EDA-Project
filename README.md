@@ -6,21 +6,30 @@ Employee attrition increases recruitment costs, reduces productivity, and impact
 
 The goal of this project is to analyze HR data and determine:
 Why employees leave?
+
 Which employee groups are more likely to leave?
+
 What factors influence retention?
 
 Data Cleaning in Excel :
 Removed unneccesary columns.
+
 Converted some categorical data into numerical data.
 
 Data Cleaning in Python:
 Renamed columns.
+
 Converting data types.
+
 Handled missing values.
+
 Checked for duplicates.
 
 Analysis :
 Univariate analysis.
+
 Bivariate analysis.
+
 Multi variate analysis.
+
 Visualization using Seaborn & Matplotlib.
