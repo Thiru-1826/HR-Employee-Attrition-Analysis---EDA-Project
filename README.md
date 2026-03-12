@@ -8,7 +8,7 @@ Employee attrition increases recruitment costs, reduces productivity, and impact
 
 The goal of this project is to analyze HR data and determine:
 
-## Why employees leave?
+Why employees leave?
 
 Which employee groups are more likely to leave?
 
