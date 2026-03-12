@@ -1,26 +1,26 @@
-Project Overview :
+## Project Overview :
 
 This project performs Exploratory Data Analysis (EDA) on an HR dataset to identify the key factors influencing employee attrition. The objective is to uncover patterns and insights that help organizations improve employee retention and make data-driven workforce decisions.
 
-Business Problem :
+## Business Problem :
 
 Employee attrition increases recruitment costs, reduces productivity, and impacts team stability.
 
 The goal of this project is to analyze HR data and determine:
 
-Why employees leave?
+## Why employees leave?
 
 Which employee groups are more likely to leave?
 
 What factors influence retention?
 
-Data Cleaning in Excel :
+## Data Cleaning in Excel :
 
 Removed unneccesary columns.
 
 Converted some categorical data into numerical data.
 
-Data Cleaning in Python:
+## Data Cleaning in Python:
 
 Renamed columns.
 
@@ -30,7 +30,7 @@ Handled missing values.
 
 Checked for duplicates.
 
-Analysis :
+## Analysis :
 
 Univariate analysis.
 
